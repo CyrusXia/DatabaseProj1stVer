@@ -60,8 +60,8 @@ CREATE TABLE Patient_hospitalization
 
 CREATE TABLE Hospital_location_info
 (facility_id CHAR(10),
- city_name CHAR(40),
- state_name CHAR(40),
+ city_name CHAR(40) NOT NULL,
+ state_name CHAR(40) NOT NULL,
  zipcode CHAR(5),
  PRIMARY KEY(facility_id),
  FOREIGN KEY(city_name, zipcode) REFERENCES City
