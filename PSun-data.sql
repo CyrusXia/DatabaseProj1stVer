@@ -20,7 +20,7 @@ CREATE TABLE US_state
  UNIQUE(governor)
 );
 
-CREATE TABLE city
+CREATE TABLE City
 (population INTEGER,
  avg_salary REAL,
  total_cases INTEGER,
@@ -39,7 +39,7 @@ CREATE TABLE State_city
  state_name CHAR(40),
  PRIMARY KEY(city_name, zipcode, created_time, state_name),
  FOREIGN KEY(state_name) REFERENCES US_state,
- FOREIGN KEY(city_name, zipcode, created_time) REFERENCES city
+ FOREIGN KEY(city_name, zipcode, created_time) REFERENCES City
 );
 
 CREATE TABLE Hospital
