@@ -20,7 +20,7 @@ CREATE TABLE US_state
  UNIQUE(governor)
 );
 
-CREATE TABLE city
+CREATE TABLE City
 (population INTEGER,
  avg_salary REAL,
  total_cases INTEGER,
