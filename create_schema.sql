@@ -96,8 +96,8 @@ CREATE TABLE Comment
 
 CREATE TABLE User_comment
 (id INTEGER,
- username CHAR(50),
- PRIMARY KEY(id, username),
+ username CHAR(50) NOT NULL,
+ PRIMARY KEY(id),
  FOREIGN KEY(id) REFERENCES Comment,
  FOREIGN KEY(username) REFERENCES User_info
 );
