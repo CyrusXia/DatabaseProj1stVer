@@ -30,7 +30,7 @@ CREATE TABLE City
 CREATE TABLE City_in_state
 (city_name CHAR(40),
  zipcode CHAR(5),
- state_name CHAR(40),
+ state_name CHAR(40) NOT NULL,
  PRIMARY KEY(city_name, zipcode, state_name),
  FOREIGN KEY(state_name) REFERENCES US_state,
  FOREIGN KEY(city_name, zipcode) REFERENCES City
@@ -60,9 +60,8 @@ CREATE TABLE Patient_hospitalization
 
 CREATE TABLE Hospital_location_info
 (facility_id CHAR(10),
- city_name CHAR(40),
- state_name CHAR(40),
- zipcode CHAR(5),
+ city_name CHAR(40) NOT NULL,
+ zipcode CHAR(5) NOT NULL,
  PRIMARY KEY(facility_id),
  FOREIGN KEY(city_name, zipcode) REFERENCES City
 );
@@ -89,15 +88,15 @@ CREATE TABLE User_info
 CREATE TABLE Comment
 (id SERIAL,
  attitude comment_attitude,
- details CHAR(300),
+ details CHAR(3000),
  comment_created_time TIMESTAMP,
  PRIMARY KEY(id)
 );
 
 CREATE TABLE User_comment
 (id INTEGER,
- username CHAR(50),
- PRIMARY KEY(id, username),
+ username CHAR(50) NOT NULL,
+ PRIMARY KEY(id),
  FOREIGN KEY(id) REFERENCES Comment,
  FOREIGN KEY(username) REFERENCES User_info
 );
@@ -110,5 +109,5 @@ CREATE TABLE User_policy_comment
  comment_id INTEGER,
  PRIMARY KEY(state_name, policy_created_time, policy_type, comment_id, username),
  FOREIGN KEY(state_name, policy_created_time, policy_type) REFERENCES Policy_published_by_state,
- FOREIGN KEY(comment_id, username) REFERENCES User_comment
+ FOREIGN KEY(comment_id) REFERENCES User_comment
 );
