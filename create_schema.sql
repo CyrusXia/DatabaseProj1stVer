@@ -31,7 +31,7 @@ CREATE TABLE City_in_state
 (city_name CHAR(40),
  zipcode CHAR(5),
  state_name CHAR(40) NOT NULL,
- PRIMARY KEY(city_name, zipcode, state_name),
+ PRIMARY KEY(city_name, zipcode),
  FOREIGN KEY(state_name) REFERENCES State_info,
  FOREIGN KEY(city_name, zipcode) REFERENCES City
 );
@@ -105,9 +105,8 @@ CREATE TABLE User_policy_comment
 (policy_created_time TIMESTAMP,
  policy_type policy_type,
  state_name CHAR(40),
- username CHAR(30),
  comment_id INTEGER,
- PRIMARY KEY(state_name, policy_created_time, policy_type, comment_id, username),
+ PRIMARY KEY(state_name, policy_created_time, policy_type, comment_id),
  FOREIGN KEY(state_name, policy_created_time, policy_type) REFERENCES Policy_published_by_state,
  FOREIGN KEY(comment_id) REFERENCES User_comment
 );
