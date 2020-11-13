@@ -8,7 +8,7 @@ CREATE TYPE policy_type as ENUM ('Status of reopening','Stay at Home Order','Man
 
 CREATE TYPE Hospital_rating AS ENUM ('1', '2', '3', '4', '5', '6', 'Not Available');
 
-CREATE TABLE US_state
+CREATE TABLE State_info
 (governor CHAR(40),
  gdp REAL,
  state_name CHAR(40),
@@ -31,8 +31,8 @@ CREATE TABLE City_in_state
 (city_name CHAR(40),
  zipcode CHAR(5),
  state_name CHAR(40) NOT NULL,
- PRIMARY KEY(city_name, zipcode, state_name),
- FOREIGN KEY(state_name) REFERENCES US_state,
+ PRIMARY KEY(city_name, zipcode),
+ FOREIGN KEY(state_name) REFERENCES State_info,
  FOREIGN KEY(city_name, zipcode) REFERENCES City
 );
 
@@ -73,7 +73,7 @@ CREATE TABLE Policy_published_by_state
  state_name CHAR(40),
  created_time TIMESTAMP,
  PRIMARY KEY(state_name, created_time, policy_type),
- FOREIGN KEY(state_name) REFERENCES US_state
+ FOREIGN KEY(state_name) REFERENCES State_info
   	ON DELETE CASCADE 
 );
 
@@ -95,7 +95,7 @@ CREATE TABLE Comment
 
 CREATE TABLE User_comment
 (id INTEGER,
- username CHAR(50) NOT NULL,
+ username CHAR(50),
  PRIMARY KEY(id),
  FOREIGN KEY(id) REFERENCES Comment,
  FOREIGN KEY(username) REFERENCES User_info
@@ -105,9 +105,8 @@ CREATE TABLE User_policy_comment
 (policy_created_time TIMESTAMP,
  policy_type policy_type,
  state_name CHAR(40),
- username CHAR(30),
  comment_id INTEGER,
- PRIMARY KEY(state_name, policy_created_time, policy_type, comment_id, username),
+ PRIMARY KEY(state_name, policy_created_time, policy_type, comment_id),
  FOREIGN KEY(state_name, policy_created_time, policy_type) REFERENCES Policy_published_by_state,
  FOREIGN KEY(comment_id) REFERENCES User_comment
 );
