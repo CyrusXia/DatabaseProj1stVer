@@ -2,75 +2,60 @@ CREATE TYPE comment_attitude AS ENUM ('positive', 'neutral', 'negative');
 
 CREATE TYPE gender_enum as ENUM ('Female', 'Male', 'Not specified');
 
-CREATE TYPE race_num as ENUM ('American Indian or Alaska Native', 'Asian', 'Black or African American', 'Native Hawaiian or other Pacific Islander', 'White', 'Not specified');
+CREATE TYPE race_enum as ENUM ('American Indian or Alaska Native', 'Asian', 'Black or African American', 'Hispanic or Latino', 'Native Hawaiian or other Pacific Islander', 'White', 'Not specified');
 
-CREATE TYPE policy_type as ENUM ('Status of reopening','Stay at Home Order','Mandatory Quarantine for Travelers','Non-Essential Business Closures','Large Gatherings Ban','Restaurant Limits');
+CREATE TYPE policy_type as ENUM ('Status of Reopening','Stay at Home Order','Mandatory Quarantine for Travelers','Non-Essential Business Closures','Large Gatherings Ban','Restaurant Limits');
 
 CREATE TYPE Hospital_rating AS ENUM ('1', '2', '3', '4', '5', '6', 'Not Available');
 
 CREATE TABLE State_info
-(governor CHAR(40),
- gdp REAL,
- state_name CHAR(40),
- PRIMARY KEY(state_name),
- UNIQUE(governor)
+(governor VARCHAR(40),
+ gdp REAL CHECK (gdp >= 0),
+ state_name VARCHAR(40),
+ PRIMARY KEY(state_name)
 );
 
 CREATE TABLE City
-(population INTEGER,
- avg_salary REAL,
- total_cases INTEGER,
- new_cases INTEGER,
- death INTEGER,
- city_name CHAR(40),
- zipcode CHAR(5),
- PRIMARY KEY(city_name, zipcode)
-);
-
-CREATE TABLE City_in_state
-(city_name CHAR(40),
- zipcode CHAR(5),
- state_name CHAR(40) NOT NULL,
- PRIMARY KEY(city_name, zipcode),
- FOREIGN KEY(state_name) REFERENCES State_info,
- FOREIGN KEY(city_name, zipcode) REFERENCES City
+(population INTEGER CHECK (population >= 0),
+ avg_salary REAL CHECK (avg_salary >= 0),
+ total_cases INTEGER CHECK (total_cases >= 0),
+ new_cases INTEGER CHECK (new_cases >= 0),
+ death INTEGER CHECK (death >= 0),
+ city_name VARCHAR(40),
+ state_name VARCHAR(40),
+ PRIMARY KEY(state_name, city_name),
+ FOREIGN KEY(state_name) REFERENCES State_info
+ 	ON DELETE CASCADE
 );
 
 CREATE TABLE Hospital
-(facility_id CHAR(10),
- facility_name CHAR(50),
- zipcode CHAR(10),
- ownership CHAR(50),
- emergency_service CHAR(2),
+(facility_id VARCHAR(10),
+ facility_name VARCHAR(100),
+ zipcode VARCHAR(10),
+ ownership VARCHAR(50),
+ emergency_service VARCHAR(3),
  overall_rating Hospital_rating,
+ city_name VARCHAR(40) NOT NULL,
+ state_name VARCHAR(40) NOT NULL,
  PRIMARY KEY(facility_id)
  );
 
 CREATE TABLE Patient_hospitalization
 (id INTEGER,
- age INTEGER,
- race CHAR(20),
- facility_id CHAR(10),
+ age INTEGER CHECK (age >= 0),
+ race VARCHAR(50),
+ facility_id VARCHAR(10),
  admission_date TIMESTAMP,
- discharge_date TIMESTAMP,
+ discharge_date TIMESTAMP CHECK (admission_date < discharge_date),
  PRIMARY KEY(facility_id, id, admission_date),
  FOREIGN KEY(facility_id) REFERENCES Hospital
  	ON DELETE CASCADE
 );
 
-CREATE TABLE Hospital_location_info
-(facility_id CHAR(10),
- city_name CHAR(40) NOT NULL,
- zipcode CHAR(5) NOT NULL,
- PRIMARY KEY(facility_id),
- FOREIGN KEY(city_name, zipcode) REFERENCES City
-);
-
-
 CREATE TABLE Policy_published_by_state
 (policy_type policy_type,
- details CHAR(3000),
- state_name CHAR(40),
+ details VARCHAR(3000),
+ state_name VARCHAR(40),
  created_time TIMESTAMP,
  PRIMARY KEY(state_name, created_time, policy_type),
  FOREIGN KEY(state_name) REFERENCES State_info
@@ -78,35 +63,29 @@ CREATE TABLE Policy_published_by_state
 );
 
 CREATE TABLE User_info
-(username CHAR(50),
+(username VARCHAR(50),
  age INTEGER,
  gender gender_enum,
- race race_num,
+ race race_enum,
  PRIMARY KEY(username)
 );
 
 CREATE TABLE Comment
-(id SERIAL,
+(id INTEGER,
  attitude comment_attitude,
- details CHAR(3000),
+ details VARCHAR(3000),
  comment_created_time TIMESTAMP,
  PRIMARY KEY(id)
 );
 
 CREATE TABLE User_comment
 (id INTEGER,
- username CHAR(50),
+ policy_created_time TIMESTAMP NOT NULL,
+ policy_type policy_type NOT NULL,
+ state_name VARCHAR(40) NOT NULL,
+ username VARCHAR(30),
  PRIMARY KEY(id),
  FOREIGN KEY(id) REFERENCES Comment,
- FOREIGN KEY(username) REFERENCES User_info
-);
-
-CREATE TABLE User_policy_comment
-(policy_created_time TIMESTAMP,
- policy_type policy_type,
- state_name CHAR(40),
- comment_id INTEGER,
- PRIMARY KEY(state_name, policy_created_time, policy_type, comment_id),
- FOREIGN KEY(state_name, policy_created_time, policy_type) REFERENCES Policy_published_by_state,
- FOREIGN KEY(comment_id) REFERENCES User_comment
+ FOREIGN KEY(username) REFERENCES User_info,
+ FOREIGN KEY(state_name, policy_created_time, policy_type) REFERENCES Policy_published_by_state
 );
