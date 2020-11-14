@@ -9,9 +9,9 @@ CREATE TYPE policy_type as ENUM ('Status of Reopening','Stay at Home Order','Man
 CREATE TYPE Hospital_rating AS ENUM ('1', '2', '3', '4', '5', '6', 'Not Available');
 
 CREATE TABLE State_info
-(governor VARCHAR(40),
+(state_name VARCHAR(40),
  gdp REAL CHECK (gdp >= 0),
- state_name VARCHAR(40),
+ governor VARCHAR(40),
  PRIMARY KEY(state_name)
 );
 

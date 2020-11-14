@@ -12,6 +12,8 @@
 
 \copy Policy_published_by_state FROM 'Policy_published_by_state.csv' with (format csv,header true, delimiter ',')
 
+\copy User_comment FROM 'User_comment.csv' with (format csv,header true, delimiter ',')
+
 
 
 
