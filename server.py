@@ -71,7 +71,6 @@ def teardown_request(exception):
   At the end of the web request, this makes sure to close the database connection.
   If you don't, the database could run out of memory!
   """
-  g.
   try:
     g.conn.close()
   except Exception as e:
