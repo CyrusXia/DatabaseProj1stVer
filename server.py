@@ -188,6 +188,7 @@ def state_statistics():
 def state_policy():
     return render_template("state_policy.html")
 
+
 @app.route('/state_policy', method=['POST'])
 def state_policy_statistics():
     context = {}

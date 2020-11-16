@@ -1,0 +1,66 @@
+<html>
+  <style>
+    body{ 
+      font-size: 15pt;
+      font-family: arial;
+    }
+  </style>
+
+
+<body>
+  <h1>State Cases and Hospital dashboard</h1>
+  <p><a href="state_policy">Go to State Policy page</a></p>
+  <p><a href="index">Go to Index page</a></p>
+
+  <h2>Select State and Hospital Rating</h2>
+  <HR>
+  <form method="POST" action="/state_statistics">
+  <p>Select State: <input type="text" name="state"> Select Hospital Rating (1 ~ 6): <input type="text" name="rating"> 
+    <input type="submit" value="Query"></p>
+  </form>
+  <HR>
+  <h3> Risk estimation: </h3> <div>{{risk}}</div>
+  <h3>State Statistics</h3>
+  <div>
+    {% for n in state_statistics %}
+    <div>{{n}}</div>
+    {% endfor %}
+  </div>
+  <div>{{state_look_up_e}}</div>
+  <HR>
+
+  <h3>The number of Hospital:</h3>
+  <div>{{hospital_number}}</div>
+  <div>{{hospital_look_up_e}}</div>
+  <HR>
+ 
+  <h3>Hospitals Given Rating:</h3>
+  <div>
+    {% for n in hospital_info%}
+    <div>{{n}}</div>
+    {% endfor %}
+  </div>
+  <div>{{hospital_info_e}}</div>
+  <HR>
+  
+  <h3>Patient Age Distribution:</h3>
+  <div>
+    {% for n in age_distribution%}
+    <div>{{n}}</div>
+    {% endfor %}
+  </div>
+  <div>{{age_distribution_e}}</div>
+  <HR>
+
+  <h3>Patient Race Distribution:</h3>
+  <div>
+    {% for n in race_distribution%}
+    <div>{{n}}</div>
+    {% endfor %}
+  </div>
+  <div>{{race_distribution_e}}</div>
+  <HR>
+</body>
+
+
+</html>
