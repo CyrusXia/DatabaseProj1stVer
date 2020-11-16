@@ -82,6 +82,11 @@ def state_cases():
     return render_template("state_cases.html")
 
 
+@app.route('/state_policy')
+def state_policy():
+    return render_template("state_policy.html")
+
+
 @app.route('/state_statistics', methods=["POST"])
 def state_statistics():
     context = {}
@@ -183,7 +188,8 @@ def state_statistics():
 
     return render_template("state_cases.html", **context)
 
-@app.route('/state_policy', methods=['POST'])
+
+@app.route('/state_policy_statistics', methods=['POST'])
 def state_policy_statistics():
     context = {}
     state = request.form['state']
@@ -234,11 +240,9 @@ def state_policy_statistics():
 
     except Exception as e:
         context["attitude_distribution_e"] = str(e)
-
-    
-
     return render_template("state_policy.html", **context)
-    
+
+
 @app.route('/add_comment', methods=['POST'])
 def add_comment():
     comment = request.form['comment']
