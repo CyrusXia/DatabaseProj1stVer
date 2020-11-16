@@ -1,0 +1,3001 @@
+id,policy_created_time,policy_type,state_name,username
+0,2020-08-07,Non-Essential Business Closures,Massachusetts,ahrzckr
+1,2020-04-02,Restaurant Limits,Hawaii,zxncxhfp
+2,2020-09-28,Non-Essential Business Closures,Nebraska,ydvtqxy
+3,2020-06-20,Restaurant Limits,Montana,mbfjwy
+4,2020-07-30,Restaurant Limits,Illinois,uwzaanhs
+5,2020-08-18,Restaurant Limits,Pennsylvania,tzfnlz
+6,2020-05-04,Status of Reopening,Connecticut,azvzoa
+7,2020-09-18,Stay at Home Order,New Mexico,spjmtvy
+8,2020-06-20,Restaurant Limits,Hawaii,cpjfwrn
+9,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,ohdbk
+10,2020-06-06,Stay at Home Order,New Hampshire,ctpvrfwp
+11,2020-06-18,Status of Reopening,Florida,glqagidzq
+12,2020-07-25,Large Gatherings Ban,Idaho,rxrgeckzc
+13,2020-05-17,Restaurant Limits,Rhode Island,orepyvmc
+14,2020-06-11,Large Gatherings Ban,California,vbziyaqd
+15,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,asowo
+16,2020-09-05,Non-Essential Business Closures,Missouri,agwbamz
+17,2020-09-14,Restaurant Limits,Iowa,fbpenqttm
+18,2020-04-07,Stay at Home Order,Nevada,hzqtjx
+19,2020-05-07,Restaurant Limits,Connecticut,dikmn
+20,2020-09-08,Large Gatherings Ban,Alaska,smnpcwj
+21,2020-05-05,Non-Essential Business Closures,Virginia,qvqkn
+22,2020-07-11,Non-Essential Business Closures,California,onajodd
+23,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,cxghe
+24,2020-08-14,Status of Reopening,West Virginia,jultq
+25,2020-07-06,Stay at Home Order,Iowa,vmoga
+26,2020-09-18,Mandatory Quarantine for Travelers,Alaska,xzwflsd
+27,2020-09-05,Mandatory Quarantine for Travelers,Texas,uqtvzz
+28,2020-05-09,Restaurant Limits,Nevada,mybugf
+29,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,kmftllsnp
+30,2020-08-13,Large Gatherings Ban,North Dakota,honlxqdt
+31,2020-07-10,Large Gatherings Ban,Rhode Island,dblfh
+32,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,hrlfga
+33,2020-06-25,Stay at Home Order,New Mexico,lalbxp
+34,2020-10-01,Mandatory Quarantine for Travelers,Arizona,xrpkexzc
+35,2020-04-30,Status of Reopening,Alabama,jultq
+36,2020-04-08,Restaurant Limits,South Carolina,bjphdiar
+37,2020-06-15,Non-Essential Business Closures,California,aiutsjbl
+38,2020-06-22,Mandatory Quarantine for Travelers,Montana,slysj
+39,2020-07-20,Status of Reopening,Wyoming,cxwjqu
+40,2020-08-27,Restaurant Limits,Colorado,lalbxp
+41,2020-06-27,Non-Essential Business Closures,Arizona,fputxq
+42,2020-05-02,Stay at Home Order,South Dakota,mgljp
+43,2020-07-30,Mandatory Quarantine for Travelers,Delaware,wxnrabwfm
+44,2020-09-28,Restaurant Limits,Ohio,nmyynf
+45,2020-05-29,Stay at Home Order,Florida,twmetnyj
+46,2020-07-12,Restaurant Limits,Pennsylvania,ndkkipwb
+47,2020-05-27,Non-Essential Business Closures,Georgia,lshyh
+48,2020-04-30,Large Gatherings Ban,New York,waitmklgf
+49,2020-07-14,Restaurant Limits,California,judabf
+50,2020-08-07,Non-Essential Business Closures,Massachusetts,xzwflsd
+51,2020-04-02,Restaurant Limits,Hawaii,ctpxvrny
+52,2020-09-28,Non-Essential Business Closures,Nebraska,gjgcws
+53,2020-06-20,Restaurant Limits,Montana,qvqkn
+54,2020-07-30,Restaurant Limits,Illinois,czahakeu
+55,2020-08-18,Restaurant Limits,Pennsylvania,irgwtald
+56,2020-05-04,Status of Reopening,Connecticut,hzqtjx
+57,2020-09-18,Stay at Home Order,New Mexico,wxztzej
+58,2020-06-20,Restaurant Limits,Hawaii,ybzsnnaew
+59,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,bjphdiar
+60,2020-06-06,Stay at Home Order,New Hampshire,wkborr
+61,2020-06-18,Status of Reopening,Florida,mybugf
+62,2020-07-25,Large Gatherings Ban,Idaho,czahakeu
+63,2020-05-17,Restaurant Limits,Rhode Island,mneshh
+64,2020-06-11,Large Gatherings Ban,California,hseya
+65,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,czrwhvek
+66,2020-09-05,Non-Essential Business Closures,Missouri,mabvjzzor
+67,2020-09-14,Restaurant Limits,Iowa,zmzvxy
+68,2020-04-07,Stay at Home Order,Nevada,glqagidzq
+69,2020-05-07,Restaurant Limits,Connecticut,qrpvgaxl
+70,2020-09-08,Large Gatherings Ban,Alaska,moxvu
+71,2020-05-05,Non-Essential Business Closures,Virginia,tdzmeoupp
+72,2020-07-11,Non-Essential Business Closures,California,vlyhre
+73,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,wbcehugc
+74,2020-08-14,Status of Reopening,West Virginia,dzxutl
+75,2020-07-06,Stay at Home Order,Iowa,lshyh
+76,2020-09-18,Mandatory Quarantine for Travelers,Alaska,ywsnpx
+77,2020-09-05,Mandatory Quarantine for Travelers,Texas,fubehhu
+78,2020-05-09,Restaurant Limits,Nevada,ybzsnnaew
+79,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,twhtpy
+80,2020-08-13,Large Gatherings Ban,North Dakota,jnqij
+81,2020-07-10,Large Gatherings Ban,Rhode Island,cgbis
+82,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,usykgh
+83,2020-06-25,Stay at Home Order,New Mexico,cvccqmrc
+84,2020-10-01,Mandatory Quarantine for Travelers,Arizona,cqpqvld
+85,2020-04-30,Status of Reopening,Alabama,hiujeh
+86,2020-04-08,Restaurant Limits,South Carolina,dzntp
+87,2020-06-15,Non-Essential Business Closures,California,ohdbk
+88,2020-06-22,Mandatory Quarantine for Travelers,Montana,mhglttlcr
+89,2020-07-20,Status of Reopening,Wyoming,fbpenqttm
+90,2020-08-27,Restaurant Limits,Colorado,qrpvgaxl
+91,2020-06-27,Non-Essential Business Closures,Arizona,ldiyqvofg
+92,2020-05-02,Stay at Home Order,South Dakota,mgljp
+93,2020-07-30,Mandatory Quarantine for Travelers,Delaware,hseya
+94,2020-09-28,Restaurant Limits,Ohio,rseua
+95,2020-05-29,Stay at Home Order,Florida,tbtbi
+96,2020-07-12,Restaurant Limits,Pennsylvania,cpjfwrn
+97,2020-05-27,Non-Essential Business Closures,Georgia,wbcehugc
+98,2020-04-30,Large Gatherings Ban,New York,cxwjqu
+99,2020-07-14,Restaurant Limits,California,yfwprmojp
+100,2020-08-07,Non-Essential Business Closures,Massachusetts,kwcfpob
+101,2020-04-02,Restaurant Limits,Hawaii,gmlsapza
+102,2020-09-28,Non-Essential Business Closures,Nebraska,iojjr
+103,2020-06-20,Restaurant Limits,Montana,dikmn
+104,2020-07-30,Restaurant Limits,Illinois,kedacygmi
+105,2020-08-18,Restaurant Limits,Pennsylvania,rloyg
+106,2020-05-04,Status of Reopening,Connecticut,rafrwtuj
+107,2020-09-18,Stay at Home Order,New Mexico,ozebi
+108,2020-06-20,Restaurant Limits,Hawaii,bjphdiar
+109,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,qeydiiqtb
+110,2020-06-06,Stay at Home Order,New Hampshire,kktggkh
+111,2020-06-18,Status of Reopening,Florida,cvbbem
+112,2020-07-25,Large Gatherings Ban,Idaho,vlyhre
+113,2020-05-17,Restaurant Limits,Rhode Island,epqwkjzn
+114,2020-06-11,Large Gatherings Ban,California,ywsnpx
+115,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,qeydiiqtb
+116,2020-09-05,Non-Essential Business Closures,Missouri,fbpenqttm
+117,2020-09-14,Restaurant Limits,Iowa,cvbbem
+118,2020-04-07,Stay at Home Order,Nevada,cqpqvld
+119,2020-05-07,Restaurant Limits,Connecticut,dzxutl
+120,2020-09-08,Large Gatherings Ban,Alaska,dkjrlfyx
+121,2020-05-05,Non-Essential Business Closures,Virginia,wsfhwudy
+122,2020-07-11,Non-Essential Business Closures,California,ycvaedq
+123,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,epqwkjzn
+124,2020-08-14,Status of Reopening,West Virginia,sovfygafs
+125,2020-07-06,Stay at Home Order,Iowa,ihoyarv
+126,2020-09-18,Mandatory Quarantine for Travelers,Alaska,zxncxhfp
+127,2020-09-05,Mandatory Quarantine for Travelers,Texas,lshyh
+128,2020-05-09,Restaurant Limits,Nevada,aiutsjbl
+129,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,sjrmmmvsr
+130,2020-08-13,Large Gatherings Ban,North Dakota,mhglttlcr
+131,2020-07-10,Large Gatherings Ban,Rhode Island,adthvndl
+132,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,evcrzxovq
+133,2020-06-25,Stay at Home Order,New Mexico,jbnxa
+134,2020-10-01,Mandatory Quarantine for Travelers,Arizona,swjgvyqm
+135,2020-04-30,Status of Reopening,Alabama,dqstu
+136,2020-04-08,Restaurant Limits,South Carolina,sjrmmmvsr
+137,2020-06-15,Non-Essential Business Closures,California,mboznhi
+138,2020-06-22,Mandatory Quarantine for Travelers,Montana,dzntp
+139,2020-07-20,Status of Reopening,Wyoming,nofem
+140,2020-08-27,Restaurant Limits,Colorado,ftmjep
+141,2020-06-27,Non-Essential Business Closures,Arizona,ydvtqxy
+142,2020-05-02,Stay at Home Order,South Dakota,fagoup
+143,2020-07-30,Mandatory Quarantine for Travelers,Delaware,ispix
+144,2020-09-28,Restaurant Limits,Ohio,qhntpaf
+145,2020-05-29,Stay at Home Order,Florida,zmzvxy
+146,2020-07-12,Restaurant Limits,Pennsylvania,ltquhmlti
+147,2020-05-27,Non-Essential Business Closures,Georgia,mbfjwy
+148,2020-04-30,Large Gatherings Ban,New York,eygeh
+149,2020-07-14,Restaurant Limits,California,qeydiiqtb
+150,2020-08-07,Non-Essential Business Closures,Massachusetts,evcrzxovq
+151,2020-04-02,Restaurant Limits,Hawaii,ynhdxa
+152,2020-09-28,Non-Essential Business Closures,Nebraska,slysj
+153,2020-06-20,Restaurant Limits,Montana,tocnff
+154,2020-07-30,Restaurant Limits,Illinois,xrpkexzc
+155,2020-08-18,Restaurant Limits,Pennsylvania,oyego
+156,2020-05-04,Status of Reopening,Connecticut,yerxuu
+157,2020-09-18,Stay at Home Order,New Mexico,qhntpaf
+158,2020-06-20,Restaurant Limits,Hawaii,hzqtjx
+159,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,dzgvfzz
+160,2020-06-06,Stay at Home Order,New Hampshire,ldiyqvofg
+161,2020-06-18,Status of Reopening,Florida,agwbamz
+162,2020-07-25,Large Gatherings Ban,Idaho,ctdfmi
+163,2020-05-17,Restaurant Limits,Rhode Island,ybspuxb
+164,2020-06-11,Large Gatherings Ban,California,snnnsa
+165,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,xgpefedsa
+166,2020-09-05,Non-Essential Business Closures,Missouri,yfwprmojp
+167,2020-09-14,Restaurant Limits,Iowa,kmftllsnp
+168,2020-04-07,Stay at Home Order,Nevada,lalbxp
+169,2020-05-07,Restaurant Limits,Connecticut,sovfygafs
+170,2020-09-08,Large Gatherings Ban,Alaska,psivtfhh
+171,2020-05-05,Non-Essential Business Closures,Virginia,fputxq
+172,2020-07-11,Non-Essential Business Closures,California,zoruamyn
+173,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,wxnrabwfm
+174,2020-08-14,Status of Reopening,West Virginia,slwhtlcpr
+175,2020-07-06,Stay at Home Order,Iowa,spjmtvy
+176,2020-09-18,Mandatory Quarantine for Travelers,Alaska,gmylw
+177,2020-09-05,Mandatory Quarantine for Travelers,Texas,ybspuxb
+178,2020-05-09,Restaurant Limits,Nevada,sjrmmmvsr
+179,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,wxnrabwfm
+180,2020-08-13,Large Gatherings Ban,North Dakota,eygeh
+181,2020-07-10,Large Gatherings Ban,Rhode Island,hzqtjx
+182,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,mpdvpopa
+183,2020-06-25,Stay at Home Order,New Mexico,ybzsnnaew
+184,2020-10-01,Mandatory Quarantine for Travelers,Arizona,twmetnyj
+185,2020-04-30,Status of Reopening,Alabama,pfluqftg
+186,2020-04-08,Restaurant Limits,South Carolina,swjgvyqm
+187,2020-06-15,Non-Essential Business Closures,California,glqagidzq
+188,2020-06-22,Mandatory Quarantine for Travelers,Montana,wjncso
+189,2020-07-20,Status of Reopening,Wyoming,kdbxne
+190,2020-08-27,Restaurant Limits,Colorado,zmzvxy
+191,2020-06-27,Non-Essential Business Closures,Arizona,czrwhvek
+192,2020-05-02,Stay at Home Order,South Dakota,piovcja
+193,2020-07-30,Mandatory Quarantine for Travelers,Delaware,eygeh
+194,2020-09-28,Restaurant Limits,Ohio,ynhdxa
+195,2020-05-29,Stay at Home Order,Florida,mgljp
+196,2020-07-12,Restaurant Limits,Pennsylvania,ybzsnnaew
+197,2020-05-27,Non-Essential Business Closures,Georgia,rtyzyeecd
+198,2020-04-30,Large Gatherings Ban,New York,twmetnyj
+199,2020-07-14,Restaurant Limits,California,yfwprmojp
+200,2020-08-07,Non-Essential Business Closures,Massachusetts,phfqr
+201,2020-04-02,Restaurant Limits,Hawaii,zxncxhfp
+202,2020-09-28,Non-Essential Business Closures,Nebraska,swjgvyqm
+203,2020-06-20,Restaurant Limits,Montana,ycvaedq
+204,2020-07-30,Restaurant Limits,Illinois,bjphdiar
+205,2020-08-18,Restaurant Limits,Pennsylvania,gjygdaq
+206,2020-05-04,Status of Reopening,Connecticut,glqagidzq
+207,2020-09-18,Stay at Home Order,New Mexico,pqdyirohd
+208,2020-06-20,Restaurant Limits,Hawaii,rmouvpcqh
+209,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,tdzmeoupp
+210,2020-06-06,Stay at Home Order,New Hampshire,phfqr
+211,2020-06-18,Status of Reopening,Florida,cyzmonh
+212,2020-07-25,Large Gatherings Ban,Idaho,mpdvpopa
+213,2020-05-17,Restaurant Limits,Rhode Island,tzfnlz
+214,2020-06-11,Large Gatherings Ban,California,opweoqiv
+215,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,jnqij
+216,2020-09-05,Non-Essential Business Closures,Missouri,dzntp
+217,2020-09-14,Restaurant Limits,Iowa,kzusvwveq
+218,2020-04-07,Stay at Home Order,Nevada,cxwjqu
+219,2020-05-07,Restaurant Limits,Connecticut,cvccqmrc
+220,2020-09-08,Large Gatherings Ban,Alaska,fagoup
+221,2020-05-05,Non-Essential Business Closures,Virginia,wovwkrwhr
+222,2020-07-11,Non-Essential Business Closures,California,kwcfpob
+223,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,bcyljofl
+224,2020-08-14,Status of Reopening,West Virginia,phfqr
+225,2020-07-06,Stay at Home Order,Iowa,fubehhu
+226,2020-09-18,Mandatory Quarantine for Travelers,Alaska,wxztzej
+227,2020-09-05,Mandatory Quarantine for Travelers,Texas,wxztzej
+228,2020-05-09,Restaurant Limits,Nevada,ywsnpx
+229,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,wsfhwudy
+230,2020-08-13,Large Gatherings Ban,North Dakota,twmetnyj
+231,2020-07-10,Large Gatherings Ban,Rhode Island,wxztzej
+232,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,smnpcwj
+233,2020-06-25,Stay at Home Order,New Mexico,yerxuu
+234,2020-10-01,Mandatory Quarantine for Travelers,Arizona,siyfvoohi
+235,2020-04-30,Status of Reopening,Alabama,qdjfbdum
+236,2020-04-08,Restaurant Limits,South Carolina,kbvybotu
+237,2020-06-15,Non-Essential Business Closures,California,vmoga
+238,2020-06-22,Mandatory Quarantine for Travelers,Montana,azvzoa
+239,2020-07-20,Status of Reopening,Wyoming,mboznhi
+240,2020-08-27,Restaurant Limits,Colorado,lmdlbej
+241,2020-06-27,Non-Essential Business Closures,Arizona,cxwjqu
+242,2020-05-02,Stay at Home Order,South Dakota,hgykucnca
+243,2020-07-30,Mandatory Quarantine for Travelers,Delaware,cfjolp
+244,2020-09-28,Restaurant Limits,Ohio,zoruamyn
+245,2020-05-29,Stay at Home Order,Florida,onajodd
+246,2020-07-12,Restaurant Limits,Pennsylvania,itmoyzyo
+247,2020-05-27,Non-Essential Business Closures,Georgia,jvfobuyi
+248,2020-04-30,Large Gatherings Ban,New York,twmetnyj
+249,2020-07-14,Restaurant Limits,California,itmoyzyo
+250,2020-08-07,Non-Essential Business Closures,Massachusetts,tbtbi
+251,2020-04-02,Restaurant Limits,Hawaii,cvbbem
+252,2020-09-28,Non-Essential Business Closures,Nebraska,czahakeu
+253,2020-06-20,Restaurant Limits,Montana,kbvybotu
+254,2020-07-30,Restaurant Limits,Illinois,vbziyaqd
+255,2020-08-18,Restaurant Limits,Pennsylvania,eygeh
+256,2020-05-04,Status of Reopening,Connecticut,qvqkn
+257,2020-09-18,Stay at Home Order,New Mexico,ynhdxa
+258,2020-06-20,Restaurant Limits,Hawaii,rmouvpcqh
+259,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,cxghe
+260,2020-06-06,Stay at Home Order,New Hampshire,wjudsi
+261,2020-06-18,Status of Reopening,Florida,ctpvrfwp
+262,2020-07-25,Large Gatherings Ban,Idaho,hgykucnca
+263,2020-05-17,Restaurant Limits,Rhode Island,onajodd
+264,2020-06-11,Large Gatherings Ban,California,ihoyarv
+265,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,irlanzxsw
+266,2020-09-05,Non-Essential Business Closures,Missouri,dikmn
+267,2020-09-14,Restaurant Limits,Iowa,vmoga
+268,2020-04-07,Stay at Home Order,Nevada,wjudsi
+269,2020-05-07,Restaurant Limits,Connecticut,wsfhwudy
+270,2020-09-08,Large Gatherings Ban,Alaska,yerxuu
+271,2020-05-05,Non-Essential Business Closures,Virginia,onajodd
+272,2020-07-11,Non-Essential Business Closures,California,mneshh
+273,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,nvnfzzc
+274,2020-08-14,Status of Reopening,West Virginia,twhtpy
+275,2020-07-06,Stay at Home Order,Iowa,gjgcws
+276,2020-09-18,Mandatory Quarantine for Travelers,Alaska,irgwtald
+277,2020-09-05,Mandatory Quarantine for Travelers,Texas,ftmjep
+278,2020-05-09,Restaurant Limits,Nevada,zoruamyn
+279,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,jultq
+280,2020-08-13,Large Gatherings Ban,North Dakota,nxzijgbp
+281,2020-07-10,Large Gatherings Ban,Rhode Island,wjncso
+282,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,rtyzyeecd
+283,2020-06-25,Stay at Home Order,New Mexico,gjygdaq
+284,2020-10-01,Mandatory Quarantine for Travelers,Arizona,vceaav
+285,2020-04-30,Status of Reopening,Alabama,evcrzxovq
+286,2020-04-08,Restaurant Limits,South Carolina,cxwjqu
+287,2020-06-15,Non-Essential Business Closures,California,cqpqvld
+288,2020-06-22,Mandatory Quarantine for Travelers,Montana,rtyzyeecd
+289,2020-07-20,Status of Reopening,Wyoming,gmylw
+290,2020-08-27,Restaurant Limits,Colorado,gjgndyd
+291,2020-06-27,Non-Essential Business Closures,Arizona,rloyg
+292,2020-05-02,Stay at Home Order,South Dakota,evcrzxovq
+293,2020-07-30,Mandatory Quarantine for Travelers,Delaware,hiujeh
+294,2020-09-28,Restaurant Limits,Ohio,mboznhi
+295,2020-05-29,Stay at Home Order,Florida,uiyzjt
+296,2020-07-12,Restaurant Limits,Pennsylvania,azvzoa
+297,2020-05-27,Non-Essential Business Closures,Georgia,azvzoa
+298,2020-04-30,Large Gatherings Ban,New York,itmoyzyo
+299,2020-07-14,Restaurant Limits,California,gjygdaq
+300,2020-08-07,Non-Essential Business Closures,Massachusetts,pkhhhq
+301,2020-04-02,Restaurant Limits,Hawaii,ctpvrfwp
+302,2020-09-28,Non-Essential Business Closures,Nebraska,oyego
+303,2020-06-20,Restaurant Limits,Montana,vbziyaqd
+304,2020-07-30,Restaurant Limits,Illinois,uqtvzz
+305,2020-08-18,Restaurant Limits,Pennsylvania,mgljp
+306,2020-05-04,Status of Reopening,Connecticut,kktggkh
+307,2020-09-18,Stay at Home Order,New Mexico,ycvaedq
+308,2020-06-20,Restaurant Limits,Hawaii,cgbis
+309,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,tocnff
+310,2020-06-06,Stay at Home Order,New Hampshire,blpejr
+311,2020-06-18,Status of Reopening,Florida,wovwkrwhr
+312,2020-07-25,Large Gatherings Ban,Idaho,zoruamyn
+313,2020-05-17,Restaurant Limits,Rhode Island,mznus
+314,2020-06-11,Large Gatherings Ban,California,oyego
+315,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,ycvaedq
+316,2020-09-05,Non-Essential Business Closures,Missouri,nofem
+317,2020-09-14,Restaurant Limits,Iowa,itmoyzyo
+318,2020-04-07,Stay at Home Order,Nevada,uiyzjt
+319,2020-05-07,Restaurant Limits,Connecticut,dikmn
+320,2020-09-08,Large Gatherings Ban,Alaska,gmylw
+321,2020-05-05,Non-Essential Business Closures,Virginia,wkborr
+322,2020-07-11,Non-Essential Business Closures,California,cyzmonh
+323,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,czahakeu
+324,2020-08-14,Status of Reopening,West Virginia,btylwxc
+325,2020-07-06,Stay at Home Order,Iowa,rafrwtuj
+326,2020-09-18,Mandatory Quarantine for Travelers,Alaska,smnpcwj
+327,2020-09-05,Mandatory Quarantine for Travelers,Texas,honlxqdt
+328,2020-05-09,Restaurant Limits,Nevada,gjgndyd
+329,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,qhntpaf
+330,2020-08-13,Large Gatherings Ban,North Dakota,ispix
+331,2020-07-10,Large Gatherings Ban,Rhode Island,adthvndl
+332,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,cgbis
+333,2020-06-25,Stay at Home Order,New Mexico,judabf
+334,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ktqqr
+335,2020-04-30,Status of Reopening,Alabama,ctpxvrny
+336,2020-04-08,Restaurant Limits,South Carolina,rmouvpcqh
+337,2020-06-15,Non-Essential Business Closures,California,hrlfga
+338,2020-06-22,Mandatory Quarantine for Travelers,Montana,tdzmeoupp
+339,2020-07-20,Status of Reopening,Wyoming,yfwprmojp
+340,2020-08-27,Restaurant Limits,Colorado,glqagidzq
+341,2020-06-27,Non-Essential Business Closures,Arizona,pkhhhq
+342,2020-05-02,Stay at Home Order,South Dakota,cyzmonh
+343,2020-07-30,Mandatory Quarantine for Travelers,Delaware,nfncjz
+344,2020-09-28,Restaurant Limits,Ohio,ebolnx
+345,2020-05-29,Stay at Home Order,Florida,orepyvmc
+346,2020-07-12,Restaurant Limits,Pennsylvania,ktqqr
+347,2020-05-27,Non-Essential Business Closures,Georgia,fbpenqttm
+348,2020-04-30,Large Gatherings Ban,New York,rseua
+349,2020-07-14,Restaurant Limits,California,ctpvrfwp
+350,2020-08-07,Non-Essential Business Closures,Massachusetts,dzxutl
+351,2020-04-02,Restaurant Limits,Hawaii,xzwflsd
+352,2020-09-28,Non-Essential Business Closures,Nebraska,eygeh
+353,2020-06-20,Restaurant Limits,Montana,xqsjlnyn
+354,2020-07-30,Restaurant Limits,Illinois,blpejr
+355,2020-08-18,Restaurant Limits,Pennsylvania,nxzijgbp
+356,2020-05-04,Status of Reopening,Connecticut,sjrmmmvsr
+357,2020-09-18,Stay at Home Order,New Mexico,xqsjlnyn
+358,2020-06-20,Restaurant Limits,Hawaii,xrpkexzc
+359,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,cvbbem
+360,2020-06-06,Stay at Home Order,New Hampshire,mabvjzzor
+361,2020-06-18,Status of Reopening,Florida,orepyvmc
+362,2020-07-25,Large Gatherings Ban,Idaho,lalbxp
+363,2020-05-17,Restaurant Limits,Rhode Island,fubehhu
+364,2020-06-11,Large Gatherings Ban,California,aifaf
+365,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,xrpkexzc
+366,2020-09-05,Non-Essential Business Closures,Missouri,epealfjru
+367,2020-09-14,Restaurant Limits,Iowa,xeccg
+368,2020-04-07,Stay at Home Order,Nevada,iojjr
+369,2020-05-07,Restaurant Limits,Connecticut,gjgndyd
+370,2020-09-08,Large Gatherings Ban,Alaska,xgpefedsa
+371,2020-05-05,Non-Essential Business Closures,Virginia,ozebi
+372,2020-07-11,Non-Essential Business Closures,California,slwhtlcpr
+373,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,jxvxcu
+374,2020-08-14,Status of Reopening,West Virginia,piovcja
+375,2020-07-06,Stay at Home Order,Iowa,hzqtjx
+376,2020-09-18,Mandatory Quarantine for Travelers,Alaska,jvfobuyi
+377,2020-09-05,Mandatory Quarantine for Travelers,Texas,qrpvgaxl
+378,2020-05-09,Restaurant Limits,Nevada,kwcfpob
+379,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,xgpefedsa
+380,2020-08-13,Large Gatherings Ban,North Dakota,hrlfga
+381,2020-07-10,Large Gatherings Ban,Rhode Island,zoruamyn
+382,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,rmouvpcqh
+383,2020-06-25,Stay at Home Order,New Mexico,yerxuu
+384,2020-10-01,Mandatory Quarantine for Travelers,Arizona,gpozxuy
+385,2020-04-30,Status of Reopening,Alabama,aixbu
+386,2020-04-08,Restaurant Limits,South Carolina,mneshh
+387,2020-06-15,Non-Essential Business Closures,California,hzqtjx
+388,2020-06-22,Mandatory Quarantine for Travelers,Montana,epqwkjzn
+389,2020-07-20,Status of Reopening,Wyoming,jultq
+390,2020-08-27,Restaurant Limits,Colorado,jvfobuyi
+391,2020-06-27,Non-Essential Business Closures,Arizona,xqsjlnyn
+392,2020-05-02,Stay at Home Order,South Dakota,tkpaxfzq
+393,2020-07-30,Mandatory Quarantine for Travelers,Delaware,rseua
+394,2020-09-28,Restaurant Limits,Ohio,mybugf
+395,2020-05-29,Stay at Home Order,Florida,ahrzckr
+396,2020-07-12,Restaurant Limits,Pennsylvania,fputxq
+397,2020-05-27,Non-Essential Business Closures,Georgia,sovfygafs
+398,2020-04-30,Large Gatherings Ban,New York,ispix
+399,2020-07-14,Restaurant Limits,California,kmftllsnp
+400,2020-08-07,Non-Essential Business Closures,Massachusetts,xgpefedsa
+401,2020-04-02,Restaurant Limits,Hawaii,mbfjwy
+402,2020-09-28,Non-Essential Business Closures,Nebraska,xgpefedsa
+403,2020-06-20,Restaurant Limits,Montana,tdzmeoupp
+404,2020-07-30,Restaurant Limits,Illinois,usykgh
+405,2020-08-18,Restaurant Limits,Pennsylvania,xrpkexzc
+406,2020-05-04,Status of Reopening,Connecticut,azvzoa
+407,2020-09-18,Stay at Home Order,New Mexico,slwhtlcpr
+408,2020-06-20,Restaurant Limits,Hawaii,qrpvgaxl
+409,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,ldiyqvofg
+410,2020-06-06,Stay at Home Order,New Hampshire,xqsjlnyn
+411,2020-06-18,Status of Reopening,Florida,uqtvzz
+412,2020-07-25,Large Gatherings Ban,Idaho,xzwflsd
+413,2020-05-17,Restaurant Limits,Rhode Island,yfwprmojp
+414,2020-06-11,Large Gatherings Ban,California,azvzoa
+415,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,cxghe
+416,2020-09-05,Non-Essential Business Closures,Missouri,twhtpy
+417,2020-09-14,Restaurant Limits,Iowa,rxrgeckzc
+418,2020-04-07,Stay at Home Order,Nevada,pqdyirohd
+419,2020-05-07,Restaurant Limits,Connecticut,piovcja
+420,2020-09-08,Large Gatherings Ban,Alaska,ctpxvrny
+421,2020-05-05,Non-Essential Business Closures,Virginia,kkelwdcs
+422,2020-07-11,Non-Essential Business Closures,California,psivtfhh
+423,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,twhtpy
+424,2020-08-14,Status of Reopening,West Virginia,vmoga
+425,2020-07-06,Stay at Home Order,Iowa,nmyynf
+426,2020-09-18,Mandatory Quarantine for Travelers,Alaska,sdbsqvcqs
+427,2020-09-05,Mandatory Quarantine for Travelers,Texas,uzaaqup
+428,2020-05-09,Restaurant Limits,Nevada,zmzvxy
+429,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,ycvaedq
+430,2020-08-13,Large Gatherings Ban,North Dakota,sovfygafs
+431,2020-07-10,Large Gatherings Ban,Rhode Island,uiyzjt
+432,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,nfncjz
+433,2020-06-25,Stay at Home Order,New Mexico,siyfvoohi
+434,2020-10-01,Mandatory Quarantine for Travelers,Arizona,gjygdaq
+435,2020-04-30,Status of Reopening,Alabama,cniurxv
+436,2020-04-08,Restaurant Limits,South Carolina,ynhdxa
+437,2020-06-15,Non-Essential Business Closures,California,kwcfpob
+438,2020-06-22,Mandatory Quarantine for Travelers,Montana,uzaaqup
+439,2020-07-20,Status of Reopening,Wyoming,spjmtvy
+440,2020-08-27,Restaurant Limits,Colorado,cfjolp
+441,2020-06-27,Non-Essential Business Closures,Arizona,dikmn
+442,2020-05-02,Stay at Home Order,South Dakota,epealfjru
+443,2020-07-30,Mandatory Quarantine for Travelers,Delaware,epqwkjzn
+444,2020-09-28,Restaurant Limits,Ohio,jnqij
+445,2020-05-29,Stay at Home Order,Florida,kkelwdcs
+446,2020-07-12,Restaurant Limits,Pennsylvania,kzusvwveq
+447,2020-05-27,Non-Essential Business Closures,Georgia,gjygdaq
+448,2020-04-30,Large Gatherings Ban,New York,nfncjz
+449,2020-07-14,Restaurant Limits,California,honlxqdt
+450,2020-08-07,Non-Essential Business Closures,Massachusetts,gjygdaq
+451,2020-04-02,Restaurant Limits,Hawaii,wkborr
+452,2020-09-28,Non-Essential Business Closures,Nebraska,nxzijgbp
+453,2020-06-20,Restaurant Limits,Montana,zmzvxy
+454,2020-07-30,Restaurant Limits,Illinois,jvfobuyi
+455,2020-08-18,Restaurant Limits,Pennsylvania,xgpefedsa
+456,2020-05-04,Status of Reopening,Connecticut,fbpenqttm
+457,2020-09-18,Stay at Home Order,New Mexico,adthvndl
+458,2020-06-20,Restaurant Limits,Hawaii,pkhhhq
+459,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,tubqkldz
+460,2020-06-06,Stay at Home Order,New Hampshire,honlxqdt
+461,2020-06-18,Status of Reopening,Florida,nvnfzzc
+462,2020-07-25,Large Gatherings Ban,Idaho,slwhtlcpr
+463,2020-05-17,Restaurant Limits,Rhode Island,iojjr
+464,2020-06-11,Large Gatherings Ban,California,tkpaxfzq
+465,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,kkelwdcs
+466,2020-09-05,Non-Essential Business Closures,Missouri,ckafrdc
+467,2020-09-14,Restaurant Limits,Iowa,yfwprmojp
+468,2020-04-07,Stay at Home Order,Nevada,epealfjru
+469,2020-05-07,Restaurant Limits,Connecticut,fubehhu
+470,2020-09-08,Large Gatherings Ban,Alaska,uzaaqup
+471,2020-05-05,Non-Essential Business Closures,Virginia,wjncso
+472,2020-07-11,Non-Essential Business Closures,California,tocnff
+473,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,agwbamz
+474,2020-08-14,Status of Reopening,West Virginia,iljakqa
+475,2020-07-06,Stay at Home Order,Iowa,ydvtqxy
+476,2020-09-18,Mandatory Quarantine for Travelers,Alaska,dqstu
+477,2020-09-05,Mandatory Quarantine for Travelers,Texas,dqstu
+478,2020-05-09,Restaurant Limits,Nevada,ctpvrfwp
+479,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,swjgvyqm
+480,2020-08-13,Large Gatherings Ban,North Dakota,snnnsa
+481,2020-07-10,Large Gatherings Ban,Rhode Island,nvnfzzc
+482,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,nmyynf
+483,2020-06-25,Stay at Home Order,New Mexico,gpozxuy
+484,2020-10-01,Mandatory Quarantine for Travelers,Arizona,vceaav
+485,2020-04-30,Status of Reopening,Alabama,qrpvgaxl
+486,2020-04-08,Restaurant Limits,South Carolina,cfjolp
+487,2020-06-15,Non-Essential Business Closures,California,bkfntg
+488,2020-06-22,Mandatory Quarantine for Travelers,Montana,epqwkjzn
+489,2020-07-20,Status of Reopening,Wyoming,eygeh
+490,2020-08-27,Restaurant Limits,Colorado,mboznhi
+491,2020-06-27,Non-Essential Business Closures,Arizona,phscvqlgd
+492,2020-05-02,Stay at Home Order,South Dakota,wsfhwudy
+493,2020-07-30,Mandatory Quarantine for Travelers,Delaware,kedacygmi
+494,2020-09-28,Restaurant Limits,Ohio,gmylw
+495,2020-05-29,Stay at Home Order,Florida,piovcja
+496,2020-07-12,Restaurant Limits,Pennsylvania,wxnrabwfm
+497,2020-05-27,Non-Essential Business Closures,Georgia,smnpcwj
+498,2020-04-30,Large Gatherings Ban,New York,ygfcxtab
+499,2020-07-14,Restaurant Limits,California,irgwtald
+500,2020-08-07,Non-Essential Business Closures,Massachusetts,mhglttlcr
+501,2020-04-02,Restaurant Limits,Hawaii,ynhdxa
+502,2020-09-28,Non-Essential Business Closures,Nebraska,wxnrabwfm
+503,2020-06-20,Restaurant Limits,Montana,ynhdxa
+504,2020-07-30,Restaurant Limits,Illinois,iztgagei
+505,2020-08-18,Restaurant Limits,Pennsylvania,qhntpaf
+506,2020-05-04,Status of Reopening,Connecticut,ybzsnnaew
+507,2020-09-18,Stay at Home Order,New Mexico,mabvjzzor
+508,2020-06-20,Restaurant Limits,Hawaii,irgwtald
+509,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,yfwprmojp
+510,2020-06-06,Stay at Home Order,New Hampshire,iojjr
+511,2020-06-18,Status of Reopening,Florida,mbfjwy
+512,2020-07-25,Large Gatherings Ban,Idaho,moxvu
+513,2020-05-17,Restaurant Limits,Rhode Island,yfwprmojp
+514,2020-06-11,Large Gatherings Ban,California,ftmjep
+515,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,dzgvfzz
+516,2020-09-05,Non-Essential Business Closures,Missouri,fubehhu
+517,2020-09-14,Restaurant Limits,Iowa,xeccg
+518,2020-04-07,Stay at Home Order,Nevada,moxvu
+519,2020-05-07,Restaurant Limits,Connecticut,mhglttlcr
+520,2020-09-08,Large Gatherings Ban,Alaska,usykgh
+521,2020-05-05,Non-Essential Business Closures,Virginia,xeccg
+522,2020-07-11,Non-Essential Business Closures,California,zmzvxy
+523,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,xzwflsd
+524,2020-08-14,Status of Reopening,West Virginia,hrlfga
+525,2020-07-06,Stay at Home Order,Iowa,mznus
+526,2020-09-18,Mandatory Quarantine for Travelers,Alaska,mbfjwy
+527,2020-09-05,Mandatory Quarantine for Travelers,Texas,sdhacub
+528,2020-05-09,Restaurant Limits,Nevada,jxvxcu
+529,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,spjmtvy
+530,2020-08-13,Large Gatherings Ban,North Dakota,tbtbi
+531,2020-07-10,Large Gatherings Ban,Rhode Island,twhtpy
+532,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,cyzmonh
+533,2020-06-25,Stay at Home Order,New Mexico,mboznhi
+534,2020-10-01,Mandatory Quarantine for Travelers,Arizona,yfwprmojp
+535,2020-04-30,Status of Reopening,Alabama,slwhtlcpr
+536,2020-04-08,Restaurant Limits,South Carolina,jxvxcu
+537,2020-06-15,Non-Essential Business Closures,California,gpvvf
+538,2020-06-22,Mandatory Quarantine for Travelers,Montana,rafrwtuj
+539,2020-07-20,Status of Reopening,Wyoming,uiyzjt
+540,2020-08-27,Restaurant Limits,Colorado,wovwkrwhr
+541,2020-06-27,Non-Essential Business Closures,Arizona,pkhhhq
+542,2020-05-02,Stay at Home Order,South Dakota,czrwhvek
+543,2020-07-30,Mandatory Quarantine for Travelers,Delaware,gjgcws
+544,2020-09-28,Restaurant Limits,Ohio,thaknfgjo
+545,2020-05-29,Stay at Home Order,Florida,qpzdgam
+546,2020-07-12,Restaurant Limits,Pennsylvania,vceaav
+547,2020-05-27,Non-Essential Business Closures,Georgia,nfncjz
+548,2020-04-30,Large Gatherings Ban,New York,irlanzxsw
+549,2020-07-14,Restaurant Limits,California,tndagv
+550,2020-08-07,Non-Essential Business Closures,Massachusetts,ygfcxtab
+551,2020-04-02,Restaurant Limits,Hawaii,gjgndyd
+552,2020-09-28,Non-Essential Business Closures,Nebraska,ahrzckr
+553,2020-06-20,Restaurant Limits,Montana,ortxwrs
+554,2020-07-30,Restaurant Limits,Illinois,bjphdiar
+555,2020-08-18,Restaurant Limits,Pennsylvania,xgpefedsa
+556,2020-05-04,Status of Reopening,Connecticut,cxghe
+557,2020-09-18,Stay at Home Order,New Mexico,nmyynf
+558,2020-06-20,Restaurant Limits,Hawaii,tndagv
+559,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,mpdvpopa
+560,2020-06-06,Stay at Home Order,New Hampshire,ldiyqvofg
+561,2020-06-18,Status of Reopening,Florida,ldiyqvofg
+562,2020-07-25,Large Gatherings Ban,Idaho,ldiyqvofg
+563,2020-05-17,Restaurant Limits,Rhode Island,fxgkdjmev
+564,2020-06-11,Large Gatherings Ban,California,tbtbi
+565,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,qrpvgaxl
+566,2020-09-05,Non-Essential Business Closures,Missouri,vceaav
+567,2020-09-14,Restaurant Limits,Iowa,wsfhwudy
+568,2020-04-07,Stay at Home Order,Nevada,zmzvxy
+569,2020-05-07,Restaurant Limits,Connecticut,jnqij
+570,2020-09-08,Large Gatherings Ban,Alaska,czahakeu
+571,2020-05-05,Non-Essential Business Closures,Virginia,ndkkipwb
+572,2020-07-11,Non-Essential Business Closures,California,uzaaqup
+573,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ebolnx
+574,2020-08-14,Status of Reopening,West Virginia,ckafrdc
+575,2020-07-06,Stay at Home Order,Iowa,usykgh
+576,2020-09-18,Mandatory Quarantine for Travelers,Alaska,czrwhvek
+577,2020-09-05,Mandatory Quarantine for Travelers,Texas,yfwprmojp
+578,2020-05-09,Restaurant Limits,Nevada,jultq
+579,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,nvnfzzc
+580,2020-08-13,Large Gatherings Ban,North Dakota,mhglttlcr
+581,2020-07-10,Large Gatherings Ban,Rhode Island,aiutsjbl
+582,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,mabvjzzor
+583,2020-06-25,Stay at Home Order,New Mexico,pfwnr
+584,2020-10-01,Mandatory Quarantine for Travelers,Arizona,rloyg
+585,2020-04-30,Status of Reopening,Alabama,mgljp
+586,2020-04-08,Restaurant Limits,South Carolina,zcuezd
+587,2020-06-15,Non-Essential Business Closures,California,zoruamyn
+588,2020-06-22,Mandatory Quarantine for Travelers,Montana,lshyh
+589,2020-07-20,Status of Reopening,Wyoming,uzaaqup
+590,2020-08-27,Restaurant Limits,Colorado,dzxutl
+591,2020-06-27,Non-Essential Business Closures,Arizona,aixbu
+592,2020-05-02,Stay at Home Order,South Dakota,ahrzckr
+593,2020-07-30,Mandatory Quarantine for Travelers,Delaware,ygfcxtab
+594,2020-09-28,Restaurant Limits,Ohio,ozebi
+595,2020-05-29,Stay at Home Order,Florida,agwbamz
+596,2020-07-12,Restaurant Limits,Pennsylvania,ldiyqvofg
+597,2020-05-27,Non-Essential Business Closures,Georgia,hzqtjx
+598,2020-04-30,Large Gatherings Ban,New York,cfjolp
+599,2020-07-14,Restaurant Limits,California,epqwkjzn
+600,2020-08-07,Non-Essential Business Closures,Massachusetts,lnoqfd
+601,2020-04-02,Restaurant Limits,Hawaii,itmoyzyo
+602,2020-09-28,Non-Essential Business Closures,Nebraska,gjgndyd
+603,2020-06-20,Restaurant Limits,Montana,vmoga
+604,2020-07-30,Restaurant Limits,Illinois,piovcja
+605,2020-08-18,Restaurant Limits,Pennsylvania,uqtvzz
+606,2020-05-04,Status of Reopening,Connecticut,gpozxuy
+607,2020-09-18,Stay at Home Order,New Mexico,wsfhwudy
+608,2020-06-20,Restaurant Limits,Hawaii,mbfjwy
+609,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,siyfvoohi
+610,2020-06-06,Stay at Home Order,New Hampshire,gjgndyd
+611,2020-06-18,Status of Reopening,Florida,ihoyarv
+612,2020-07-25,Large Gatherings Ban,Idaho,heyhbl
+613,2020-05-17,Restaurant Limits,Rhode Island,honlxqdt
+614,2020-06-11,Large Gatherings Ban,California,nxzijgbp
+615,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,sdhacub
+616,2020-09-05,Non-Essential Business Closures,Missouri,usykgh
+617,2020-09-14,Restaurant Limits,Iowa,wovwkrwhr
+618,2020-04-07,Stay at Home Order,Nevada,gjgcws
+619,2020-05-07,Restaurant Limits,Connecticut,yerxuu
+620,2020-09-08,Large Gatherings Ban,Alaska,fputxq
+621,2020-05-05,Non-Essential Business Closures,Virginia,tkpaxfzq
+622,2020-07-11,Non-Essential Business Closures,California,siyfvoohi
+623,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ygfcxtab
+624,2020-08-14,Status of Reopening,West Virginia,tkpaxfzq
+625,2020-07-06,Stay at Home Order,Iowa,cxghe
+626,2020-09-18,Mandatory Quarantine for Travelers,Alaska,sdhacub
+627,2020-09-05,Mandatory Quarantine for Travelers,Texas,wbcehugc
+628,2020-05-09,Restaurant Limits,Nevada,honlxqdt
+629,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,gmylw
+630,2020-08-13,Large Gatherings Ban,North Dakota,ohdbk
+631,2020-07-10,Large Gatherings Ban,Rhode Island,rmouvpcqh
+632,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,mbfjwy
+633,2020-06-25,Stay at Home Order,New Mexico,phfqr
+634,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ahrzckr
+635,2020-04-30,Status of Reopening,Alabama,mabvjzzor
+636,2020-04-08,Restaurant Limits,South Carolina,kmftllsnp
+637,2020-06-15,Non-Essential Business Closures,California,gjgndyd
+638,2020-06-22,Mandatory Quarantine for Travelers,Montana,adthvndl
+639,2020-07-20,Status of Reopening,Wyoming,wbcehugc
+640,2020-08-27,Restaurant Limits,Colorado,dzntp
+641,2020-06-27,Non-Essential Business Closures,Arizona,qhntpaf
+642,2020-05-02,Stay at Home Order,South Dakota,cgbis
+643,2020-07-30,Mandatory Quarantine for Travelers,Delaware,rmouvpcqh
+644,2020-09-28,Restaurant Limits,Ohio,rloyg
+645,2020-05-29,Stay at Home Order,Florida,ktqqr
+646,2020-07-12,Restaurant Limits,Pennsylvania,swjgvyqm
+647,2020-05-27,Non-Essential Business Closures,Georgia,rxrgeckzc
+648,2020-04-30,Large Gatherings Ban,New York,phfqr
+649,2020-07-14,Restaurant Limits,California,rafrwtuj
+650,2020-08-07,Non-Essential Business Closures,Massachusetts,cvbbem
+651,2020-04-02,Restaurant Limits,Hawaii,waitmklgf
+652,2020-09-28,Non-Essential Business Closures,Nebraska,dqstu
+653,2020-06-20,Restaurant Limits,Montana,dkjrlfyx
+654,2020-07-30,Restaurant Limits,Illinois,jbnxa
+655,2020-08-18,Restaurant Limits,Pennsylvania,cpjfwrn
+656,2020-05-04,Status of Reopening,Connecticut,kkelwdcs
+657,2020-09-18,Stay at Home Order,New Mexico,jxvxcu
+658,2020-06-20,Restaurant Limits,Hawaii,slysj
+659,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,rfjvvtuc
+660,2020-06-06,Stay at Home Order,New Hampshire,zcuezd
+661,2020-06-18,Status of Reopening,Florida,cpjfwrn
+662,2020-07-25,Large Gatherings Ban,Idaho,epqwkjzn
+663,2020-05-17,Restaurant Limits,Rhode Island,xrpkexzc
+664,2020-06-11,Large Gatherings Ban,California,lmdlbej
+665,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,snnnsa
+666,2020-09-05,Non-Essential Business Closures,Missouri,mgljp
+667,2020-09-14,Restaurant Limits,Iowa,tubqkldz
+668,2020-04-07,Stay at Home Order,Nevada,cfjolp
+669,2020-05-07,Restaurant Limits,Connecticut,twmetnyj
+670,2020-09-08,Large Gatherings Ban,Alaska,jxvxcu
+671,2020-05-05,Non-Essential Business Closures,Virginia,bcyljofl
+672,2020-07-11,Non-Essential Business Closures,California,lshyh
+673,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,uqtvzz
+674,2020-08-14,Status of Reopening,West Virginia,ndkkipwb
+675,2020-07-06,Stay at Home Order,Iowa,pkhhhq
+676,2020-09-18,Mandatory Quarantine for Travelers,Alaska,ybzsnnaew
+677,2020-09-05,Mandatory Quarantine for Travelers,Texas,zoruamyn
+678,2020-05-09,Restaurant Limits,Nevada,mhglttlcr
+679,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,slwhtlcpr
+680,2020-08-13,Large Gatherings Ban,North Dakota,vceaav
+681,2020-07-10,Large Gatherings Ban,Rhode Island,rfjvvtuc
+682,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,xgpefedsa
+683,2020-06-25,Stay at Home Order,New Mexico,sovfygafs
+684,2020-10-01,Mandatory Quarantine for Travelers,Arizona,cniurxv
+685,2020-04-30,Status of Reopening,Alabama,gjgcws
+686,2020-04-08,Restaurant Limits,South Carolina,tocnff
+687,2020-06-15,Non-Essential Business Closures,California,tbtbi
+688,2020-06-22,Mandatory Quarantine for Travelers,Montana,nvnfzzc
+689,2020-07-20,Status of Reopening,Wyoming,oyego
+690,2020-08-27,Restaurant Limits,Colorado,rtyzyeecd
+691,2020-06-27,Non-Essential Business Closures,Arizona,nofem
+692,2020-05-02,Stay at Home Order,South Dakota,tbtbi
+693,2020-07-30,Mandatory Quarantine for Travelers,Delaware,irlanzxsw
+694,2020-09-28,Restaurant Limits,Ohio,ltquhmlti
+695,2020-05-29,Stay at Home Order,Florida,cfjolp
+696,2020-07-12,Restaurant Limits,Pennsylvania,phfqr
+697,2020-05-27,Non-Essential Business Closures,Georgia,wkborr
+698,2020-04-30,Large Gatherings Ban,New York,pqdyirohd
+699,2020-07-14,Restaurant Limits,California,ygfcxtab
+700,2020-08-07,Non-Essential Business Closures,Massachusetts,gjgndyd
+701,2020-04-02,Restaurant Limits,Hawaii,nmyynf
+702,2020-09-28,Non-Essential Business Closures,Nebraska,nofem
+703,2020-06-20,Restaurant Limits,Montana,agwbamz
+704,2020-07-30,Restaurant Limits,Illinois,kmftllsnp
+705,2020-08-18,Restaurant Limits,Pennsylvania,jultq
+706,2020-05-04,Status of Reopening,Connecticut,xrpkexzc
+707,2020-09-18,Stay at Home Order,New Mexico,smnpcwj
+708,2020-06-20,Restaurant Limits,Hawaii,ctdfmi
+709,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,moxvu
+710,2020-06-06,Stay at Home Order,New Hampshire,gpvvf
+711,2020-06-18,Status of Reopening,Florida,waitmklgf
+712,2020-07-25,Large Gatherings Ban,Idaho,mpdvpopa
+713,2020-05-17,Restaurant Limits,Rhode Island,sjrmmmvsr
+714,2020-06-11,Large Gatherings Ban,California,lrzmp
+715,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,lalbxp
+716,2020-09-05,Non-Essential Business Closures,Missouri,btylwxc
+717,2020-09-14,Restaurant Limits,Iowa,pkhhhq
+718,2020-04-07,Stay at Home Order,Nevada,thaknfgjo
+719,2020-05-07,Restaurant Limits,Connecticut,zqoehi
+720,2020-09-08,Large Gatherings Ban,Alaska,fxgkdjmev
+721,2020-05-05,Non-Essential Business Closures,Virginia,vmoga
+722,2020-07-11,Non-Essential Business Closures,California,dzntp
+723,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,hrlfga
+724,2020-08-14,Status of Reopening,West Virginia,glqagidzq
+725,2020-07-06,Stay at Home Order,Iowa,judabf
+726,2020-09-18,Mandatory Quarantine for Travelers,Alaska,qrpvgaxl
+727,2020-09-05,Mandatory Quarantine for Travelers,Texas,oyego
+728,2020-05-09,Restaurant Limits,Nevada,jnqij
+729,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,lrzmp
+730,2020-08-13,Large Gatherings Ban,North Dakota,uiyzjt
+731,2020-07-10,Large Gatherings Ban,Rhode Island,rseua
+732,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,spjmtvy
+733,2020-06-25,Stay at Home Order,New Mexico,mpdvpopa
+734,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ynhdxa
+735,2020-04-30,Status of Reopening,Alabama,dkjrlfyx
+736,2020-04-08,Restaurant Limits,South Carolina,sovfygafs
+737,2020-06-15,Non-Essential Business Closures,California,cxwjqu
+738,2020-06-22,Mandatory Quarantine for Travelers,Montana,mdpnrdqjc
+739,2020-07-20,Status of Reopening,Wyoming,kkelwdcs
+740,2020-08-27,Restaurant Limits,Colorado,zmzvxy
+741,2020-06-27,Non-Essential Business Closures,Arizona,sovfygafs
+742,2020-05-02,Stay at Home Order,South Dakota,nxzijgbp
+743,2020-07-30,Mandatory Quarantine for Travelers,Delaware,sdhacub
+744,2020-09-28,Restaurant Limits,Ohio,lnoqfd
+745,2020-05-29,Stay at Home Order,Florida,blpejr
+746,2020-07-12,Restaurant Limits,Pennsylvania,aiutsjbl
+747,2020-05-27,Non-Essential Business Closures,Georgia,ihoyarv
+748,2020-04-30,Large Gatherings Ban,New York,aixbu
+749,2020-07-14,Restaurant Limits,California,aifaf
+750,2020-08-07,Non-Essential Business Closures,Massachusetts,lrzmp
+751,2020-04-02,Restaurant Limits,Hawaii,zmzvxy
+752,2020-09-28,Non-Essential Business Closures,Nebraska,blpejr
+753,2020-06-20,Restaurant Limits,Montana,ndkkipwb
+754,2020-07-30,Restaurant Limits,Illinois,onajodd
+755,2020-08-18,Restaurant Limits,Pennsylvania,qqipl
+756,2020-05-04,Status of Reopening,Connecticut,wsfhwudy
+757,2020-09-18,Stay at Home Order,New Mexico,sovfygafs
+758,2020-06-20,Restaurant Limits,Hawaii,mgljp
+759,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,cyzmonh
+760,2020-06-06,Stay at Home Order,New Hampshire,gjgcws
+761,2020-06-18,Status of Reopening,Florida,vbziyaqd
+762,2020-07-25,Large Gatherings Ban,Idaho,jnqij
+763,2020-05-17,Restaurant Limits,Rhode Island,xrpkexzc
+764,2020-06-11,Large Gatherings Ban,California,xgpefedsa
+765,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,snnnsa
+766,2020-09-05,Non-Essential Business Closures,Missouri,gjgndyd
+767,2020-09-14,Restaurant Limits,Iowa,nofem
+768,2020-04-07,Stay at Home Order,Nevada,mhglttlcr
+769,2020-05-07,Restaurant Limits,Connecticut,jnqij
+770,2020-09-08,Large Gatherings Ban,Alaska,lshyh
+771,2020-05-05,Non-Essential Business Closures,Virginia,orepyvmc
+772,2020-07-11,Non-Essential Business Closures,California,phfqr
+773,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ispix
+774,2020-08-14,Status of Reopening,West Virginia,sdhacub
+775,2020-07-06,Stay at Home Order,Iowa,aixbu
+776,2020-09-18,Mandatory Quarantine for Travelers,Alaska,wbcehugc
+777,2020-09-05,Mandatory Quarantine for Travelers,Texas,qeydiiqtb
+778,2020-05-09,Restaurant Limits,Nevada,vlyhre
+779,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,ktqqr
+780,2020-08-13,Large Gatherings Ban,North Dakota,waitmklgf
+781,2020-07-10,Large Gatherings Ban,Rhode Island,wkborr
+782,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,irgwtald
+783,2020-06-25,Stay at Home Order,New Mexico,dkjrlfyx
+784,2020-10-01,Mandatory Quarantine for Travelers,Arizona,irgwtald
+785,2020-04-30,Status of Reopening,Alabama,nmyynf
+786,2020-04-08,Restaurant Limits,South Carolina,cqpqvld
+787,2020-06-15,Non-Essential Business Closures,California,moxvu
+788,2020-06-22,Mandatory Quarantine for Travelers,Montana,aixbu
+789,2020-07-20,Status of Reopening,Wyoming,orepyvmc
+790,2020-08-27,Restaurant Limits,Colorado,qvqkn
+791,2020-06-27,Non-Essential Business Closures,Arizona,twmetnyj
+792,2020-05-02,Stay at Home Order,South Dakota,cvbbem
+793,2020-07-30,Mandatory Quarantine for Travelers,Delaware,wxnrabwfm
+794,2020-09-28,Restaurant Limits,Ohio,qeydiiqtb
+795,2020-05-29,Stay at Home Order,Florida,hgykucnca
+796,2020-07-12,Restaurant Limits,Pennsylvania,waitmklgf
+797,2020-05-27,Non-Essential Business Closures,Georgia,dkjrlfyx
+798,2020-04-30,Large Gatherings Ban,New York,btylwxc
+799,2020-07-14,Restaurant Limits,California,ctdfmi
+800,2020-08-07,Non-Essential Business Closures,Massachusetts,irlanzxsw
+801,2020-04-02,Restaurant Limits,Hawaii,usykgh
+802,2020-09-28,Non-Essential Business Closures,Nebraska,gjgcws
+803,2020-06-20,Restaurant Limits,Montana,fbtbvgepe
+804,2020-07-30,Restaurant Limits,Illinois,azvzoa
+805,2020-08-18,Restaurant Limits,Pennsylvania,phfqr
+806,2020-05-04,Status of Reopening,Connecticut,isazd
+807,2020-09-18,Stay at Home Order,New Mexico,czahakeu
+808,2020-06-20,Restaurant Limits,Hawaii,aixbu
+809,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,pfluqftg
+810,2020-06-06,Stay at Home Order,New Hampshire,bkfntg
+811,2020-06-18,Status of Reopening,Florida,cvccqmrc
+812,2020-07-25,Large Gatherings Ban,Idaho,isazd
+813,2020-05-17,Restaurant Limits,Rhode Island,iojjr
+814,2020-06-11,Large Gatherings Ban,California,sjrmmmvsr
+815,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,wxnrabwfm
+816,2020-09-05,Non-Essential Business Closures,Missouri,nvnfzzc
+817,2020-09-14,Restaurant Limits,Iowa,jnqij
+818,2020-04-07,Stay at Home Order,Nevada,zxncxhfp
+819,2020-05-07,Restaurant Limits,Connecticut,fagoup
+820,2020-09-08,Large Gatherings Ban,Alaska,ycvaedq
+821,2020-05-05,Non-Essential Business Closures,Virginia,ebolnx
+822,2020-07-11,Non-Essential Business Closures,California,sjrmmmvsr
+823,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ctdfmi
+824,2020-08-14,Status of Reopening,West Virginia,ebolnx
+825,2020-07-06,Stay at Home Order,Iowa,lshyh
+826,2020-09-18,Mandatory Quarantine for Travelers,Alaska,tocnff
+827,2020-09-05,Mandatory Quarantine for Travelers,Texas,mhglttlcr
+828,2020-05-09,Restaurant Limits,Nevada,ycvaedq
+829,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,rxrgeckzc
+830,2020-08-13,Large Gatherings Ban,North Dakota,pkhhhq
+831,2020-07-10,Large Gatherings Ban,Rhode Island,ihoyarv
+832,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,pkhhhq
+833,2020-06-25,Stay at Home Order,New Mexico,kdbxne
+834,2020-10-01,Mandatory Quarantine for Travelers,Arizona,hiujeh
+835,2020-04-30,Status of Reopening,Alabama,ygfcxtab
+836,2020-04-08,Restaurant Limits,South Carolina,pqdyirohd
+837,2020-06-15,Non-Essential Business Closures,California,jxvxcu
+838,2020-06-22,Mandatory Quarantine for Travelers,Montana,ktqqr
+839,2020-07-20,Status of Reopening,Wyoming,qhntpaf
+840,2020-08-27,Restaurant Limits,Colorado,glqagidzq
+841,2020-06-27,Non-Essential Business Closures,Arizona,moxvu
+842,2020-05-02,Stay at Home Order,South Dakota,tocnff
+843,2020-07-30,Mandatory Quarantine for Travelers,Delaware,xgpefedsa
+844,2020-09-28,Restaurant Limits,Ohio,bjphdiar
+845,2020-05-29,Stay at Home Order,Florida,lmdlbej
+846,2020-07-12,Restaurant Limits,Pennsylvania,kmftllsnp
+847,2020-05-27,Non-Essential Business Closures,Georgia,jnqij
+848,2020-04-30,Large Gatherings Ban,New York,psivtfhh
+849,2020-07-14,Restaurant Limits,California,mpdvpopa
+850,2020-08-07,Non-Essential Business Closures,Massachusetts,aixbu
+851,2020-04-02,Restaurant Limits,Hawaii,rafrwtuj
+852,2020-09-28,Non-Essential Business Closures,Nebraska,czahakeu
+853,2020-06-20,Restaurant Limits,Montana,rfjvvtuc
+854,2020-07-30,Restaurant Limits,Illinois,qdjfbdum
+855,2020-08-18,Restaurant Limits,Pennsylvania,nmyynf
+856,2020-05-04,Status of Reopening,Connecticut,zmzvxy
+857,2020-09-18,Stay at Home Order,New Mexico,glqagidzq
+858,2020-06-20,Restaurant Limits,Hawaii,bjphdiar
+859,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,cpjfwrn
+860,2020-06-06,Stay at Home Order,New Hampshire,epealfjru
+861,2020-06-18,Status of Reopening,Florida,kzusvwveq
+862,2020-07-25,Large Gatherings Ban,Idaho,qrpvgaxl
+863,2020-05-17,Restaurant Limits,Rhode Island,uzaaqup
+864,2020-06-11,Large Gatherings Ban,California,azvzoa
+865,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,lmdlbej
+866,2020-09-05,Non-Essential Business Closures,Missouri,xeccg
+867,2020-09-14,Restaurant Limits,Iowa,uqtvzz
+868,2020-04-07,Stay at Home Order,Nevada,lalbxp
+869,2020-05-07,Restaurant Limits,Connecticut,itmoyzyo
+870,2020-09-08,Large Gatherings Ban,Alaska,gpozxuy
+871,2020-05-05,Non-Essential Business Closures,Virginia,vbziyaqd
+872,2020-07-11,Non-Essential Business Closures,California,jvfobuyi
+873,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,cxwjqu
+874,2020-08-14,Status of Reopening,West Virginia,nmyynf
+875,2020-07-06,Stay at Home Order,Iowa,iojjr
+876,2020-09-18,Mandatory Quarantine for Travelers,Alaska,mboznhi
+877,2020-09-05,Mandatory Quarantine for Travelers,Texas,pfluqftg
+878,2020-05-09,Restaurant Limits,Nevada,azvzoa
+879,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,orepyvmc
+880,2020-08-13,Large Gatherings Ban,North Dakota,xeccg
+881,2020-07-10,Large Gatherings Ban,Rhode Island,cniurxv
+882,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,kedacygmi
+883,2020-06-25,Stay at Home Order,New Mexico,sdbsqvcqs
+884,2020-10-01,Mandatory Quarantine for Travelers,Arizona,sdhacub
+885,2020-04-30,Status of Reopening,Alabama,cqpqvld
+886,2020-04-08,Restaurant Limits,South Carolina,gjgcws
+887,2020-06-15,Non-Essential Business Closures,California,ynhdxa
+888,2020-06-22,Mandatory Quarantine for Travelers,Montana,lalbxp
+889,2020-07-20,Status of Reopening,Wyoming,usykgh
+890,2020-08-27,Restaurant Limits,Colorado,lshyh
+891,2020-06-27,Non-Essential Business Closures,Arizona,kbvybotu
+892,2020-05-02,Stay at Home Order,South Dakota,nofem
+893,2020-07-30,Mandatory Quarantine for Travelers,Delaware,spjmtvy
+894,2020-09-28,Restaurant Limits,Ohio,qvqkn
+895,2020-05-29,Stay at Home Order,Florida,vlyhre
+896,2020-07-12,Restaurant Limits,Pennsylvania,cpjfwrn
+897,2020-05-27,Non-Essential Business Closures,Georgia,glqagidzq
+898,2020-04-30,Large Gatherings Ban,New York,rafrwtuj
+899,2020-07-14,Restaurant Limits,California,kbvybotu
+900,2020-08-07,Non-Essential Business Closures,Massachusetts,pqdyirohd
+901,2020-04-02,Restaurant Limits,Hawaii,evcrzxovq
+902,2020-09-28,Non-Essential Business Closures,Nebraska,rafrwtuj
+903,2020-06-20,Restaurant Limits,Montana,pkhhhq
+904,2020-07-30,Restaurant Limits,Illinois,xqsjlnyn
+905,2020-08-18,Restaurant Limits,Pennsylvania,xrpkexzc
+906,2020-05-04,Status of Reopening,Connecticut,cfjolp
+907,2020-09-18,Stay at Home Order,New Mexico,kedacygmi
+908,2020-06-20,Restaurant Limits,Hawaii,zcuezd
+909,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,bkfntg
+910,2020-06-06,Stay at Home Order,New Hampshire,ltquhmlti
+911,2020-06-18,Status of Reopening,Florida,iztgagei
+912,2020-07-25,Large Gatherings Ban,Idaho,xqsjlnyn
+913,2020-05-17,Restaurant Limits,Rhode Island,mybugf
+914,2020-06-11,Large Gatherings Ban,California,thaknfgjo
+915,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,lalbxp
+916,2020-09-05,Non-Essential Business Closures,Missouri,mybugf
+917,2020-09-14,Restaurant Limits,Iowa,dzntp
+918,2020-04-07,Stay at Home Order,Nevada,mbfjwy
+919,2020-05-07,Restaurant Limits,Connecticut,aiutsjbl
+920,2020-09-08,Large Gatherings Ban,Alaska,nofem
+921,2020-05-05,Non-Essential Business Closures,Virginia,xeccg
+922,2020-07-11,Non-Essential Business Closures,California,cqpqvld
+923,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,cvccqmrc
+924,2020-08-14,Status of Reopening,West Virginia,qdjfbdum
+925,2020-07-06,Stay at Home Order,Iowa,ycvaedq
+926,2020-09-18,Mandatory Quarantine for Travelers,Alaska,jnqij
+927,2020-09-05,Mandatory Quarantine for Travelers,Texas,mpdvpopa
+928,2020-05-09,Restaurant Limits,Nevada,waitmklgf
+929,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,lalbxp
+930,2020-08-13,Large Gatherings Ban,North Dakota,thaknfgjo
+931,2020-07-10,Large Gatherings Ban,Rhode Island,rmouvpcqh
+932,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ndkkipwb
+933,2020-06-25,Stay at Home Order,New Mexico,rxrgeckzc
+934,2020-10-01,Mandatory Quarantine for Travelers,Arizona,uiyzjt
+935,2020-04-30,Status of Reopening,Alabama,qvqkn
+936,2020-04-08,Restaurant Limits,South Carolina,nfncjz
+937,2020-06-15,Non-Essential Business Closures,California,mznus
+938,2020-06-22,Mandatory Quarantine for Travelers,Montana,mybugf
+939,2020-07-20,Status of Reopening,Wyoming,dzntp
+940,2020-08-27,Restaurant Limits,Colorado,lshyh
+941,2020-06-27,Non-Essential Business Closures,Arizona,dzntp
+942,2020-05-02,Stay at Home Order,South Dakota,gmlsapza
+943,2020-07-30,Mandatory Quarantine for Travelers,Delaware,glqagidzq
+944,2020-09-28,Restaurant Limits,Ohio,hzqtjx
+945,2020-05-29,Stay at Home Order,Florida,fputxq
+946,2020-07-12,Restaurant Limits,Pennsylvania,slysj
+947,2020-05-27,Non-Essential Business Closures,Georgia,cvbbem
+948,2020-04-30,Large Gatherings Ban,New York,qhntpaf
+949,2020-07-14,Restaurant Limits,California,piovcja
+950,2020-08-07,Non-Essential Business Closures,Massachusetts,gjgndyd
+951,2020-04-02,Restaurant Limits,Hawaii,irlanzxsw
+952,2020-09-28,Non-Essential Business Closures,Nebraska,wjudsi
+953,2020-06-20,Restaurant Limits,Montana,kbvybotu
+954,2020-07-30,Restaurant Limits,Illinois,pkhhhq
+955,2020-08-18,Restaurant Limits,Pennsylvania,bkfntg
+956,2020-05-04,Status of Reopening,Connecticut,dzxutl
+957,2020-09-18,Stay at Home Order,New Mexico,ltquhmlti
+958,2020-06-20,Restaurant Limits,Hawaii,kdbxne
+959,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,mybugf
+960,2020-06-06,Stay at Home Order,New Hampshire,iljakqa
+961,2020-06-18,Status of Reopening,Florida,rmouvpcqh
+962,2020-07-25,Large Gatherings Ban,Idaho,dqstu
+963,2020-05-17,Restaurant Limits,Rhode Island,mhglttlcr
+964,2020-06-11,Large Gatherings Ban,California,ycvaedq
+965,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,kkelwdcs
+966,2020-09-05,Non-Essential Business Closures,Missouri,ctdfmi
+967,2020-09-14,Restaurant Limits,Iowa,wsfhwudy
+968,2020-04-07,Stay at Home Order,Nevada,honlxqdt
+969,2020-05-07,Restaurant Limits,Connecticut,xeccg
+970,2020-09-08,Large Gatherings Ban,Alaska,irgwtald
+971,2020-05-05,Non-Essential Business Closures,Virginia,evcrzxovq
+972,2020-07-11,Non-Essential Business Closures,California,dzxutl
+973,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,rxrgeckzc
+974,2020-08-14,Status of Reopening,West Virginia,fubehhu
+975,2020-07-06,Stay at Home Order,Iowa,iojjr
+976,2020-09-18,Mandatory Quarantine for Travelers,Alaska,wjncso
+977,2020-09-05,Mandatory Quarantine for Travelers,Texas,kbvybotu
+978,2020-05-09,Restaurant Limits,Nevada,qeydiiqtb
+979,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,ndkkipwb
+980,2020-08-13,Large Gatherings Ban,North Dakota,twhtpy
+981,2020-07-10,Large Gatherings Ban,Rhode Island,jnqij
+982,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,blpejr
+983,2020-06-25,Stay at Home Order,New Mexico,ndkkipwb
+984,2020-10-01,Mandatory Quarantine for Travelers,Arizona,glqagidzq
+985,2020-04-30,Status of Reopening,Alabama,waitmklgf
+986,2020-04-08,Restaurant Limits,South Carolina,lmdlbej
+987,2020-06-15,Non-Essential Business Closures,California,rxrgeckzc
+988,2020-06-22,Mandatory Quarantine for Travelers,Montana,gpvvf
+989,2020-07-20,Status of Reopening,Wyoming,mdpnrdqjc
+990,2020-08-27,Restaurant Limits,Colorado,wbcehugc
+991,2020-06-27,Non-Essential Business Closures,Arizona,dkjrlfyx
+992,2020-05-02,Stay at Home Order,South Dakota,ybzsnnaew
+993,2020-07-30,Mandatory Quarantine for Travelers,Delaware,tubqkldz
+994,2020-09-28,Restaurant Limits,Ohio,zcuezd
+995,2020-05-29,Stay at Home Order,Florida,cvccqmrc
+996,2020-07-12,Restaurant Limits,Pennsylvania,psivtfhh
+997,2020-05-27,Non-Essential Business Closures,Georgia,ftmjep
+998,2020-04-30,Large Gatherings Ban,New York,phscvqlgd
+999,2020-07-14,Restaurant Limits,California,uwzaanhs
+1000,2020-08-07,Non-Essential Business Closures,Massachusetts,uwzaanhs
+1001,2020-04-02,Restaurant Limits,Hawaii,ldiyqvofg
+1002,2020-09-28,Non-Essential Business Closures,Nebraska,ctpxvrny
+1003,2020-06-20,Restaurant Limits,Montana,kktggkh
+1004,2020-07-30,Restaurant Limits,Illinois,mdpnrdqjc
+1005,2020-08-18,Restaurant Limits,Pennsylvania,hgykucnca
+1006,2020-05-04,Status of Reopening,Connecticut,jvfobuyi
+1007,2020-09-18,Stay at Home Order,New Mexico,fbpenqttm
+1008,2020-06-20,Restaurant Limits,Hawaii,ynhdxa
+1009,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,asowo
+1010,2020-06-06,Stay at Home Order,New Hampshire,tdzmeoupp
+1011,2020-06-18,Status of Reopening,Florida,heyhbl
+1012,2020-07-25,Large Gatherings Ban,Idaho,wovwkrwhr
+1013,2020-05-17,Restaurant Limits,Rhode Island,hgykucnca
+1014,2020-06-11,Large Gatherings Ban,California,mabvjzzor
+1015,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,bcyljofl
+1016,2020-09-05,Non-Essential Business Closures,Missouri,uiyzjt
+1017,2020-09-14,Restaurant Limits,Iowa,hzqtjx
+1018,2020-04-07,Stay at Home Order,Nevada,dkjrlfyx
+1019,2020-05-07,Restaurant Limits,Connecticut,dzxutl
+1020,2020-09-08,Large Gatherings Ban,Alaska,qpzdgam
+1021,2020-05-05,Non-Essential Business Closures,Virginia,ygfcxtab
+1022,2020-07-11,Non-Essential Business Closures,California,ihoyarv
+1023,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,fbpenqttm
+1024,2020-08-14,Status of Reopening,West Virginia,xrpkexzc
+1025,2020-07-06,Stay at Home Order,Iowa,eygeh
+1026,2020-09-18,Mandatory Quarantine for Travelers,Alaska,siyfvoohi
+1027,2020-09-05,Mandatory Quarantine for Travelers,Texas,lalbxp
+1028,2020-05-09,Restaurant Limits,Nevada,wxztzej
+1029,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,ycvaedq
+1030,2020-08-13,Large Gatherings Ban,North Dakota,phscvqlgd
+1031,2020-07-10,Large Gatherings Ban,Rhode Island,heyhbl
+1032,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ebolnx
+1033,2020-06-25,Stay at Home Order,New Mexico,mznus
+1034,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ctdfmi
+1035,2020-04-30,Status of Reopening,Alabama,cxwjqu
+1036,2020-04-08,Restaurant Limits,South Carolina,mabvjzzor
+1037,2020-06-15,Non-Essential Business Closures,California,czrwhvek
+1038,2020-06-22,Mandatory Quarantine for Travelers,Montana,twmetnyj
+1039,2020-07-20,Status of Reopening,Wyoming,lshyh
+1040,2020-08-27,Restaurant Limits,Colorado,jvfobuyi
+1041,2020-06-27,Non-Essential Business Closures,Arizona,vbziyaqd
+1042,2020-05-02,Stay at Home Order,South Dakota,rafrwtuj
+1043,2020-07-30,Mandatory Quarantine for Travelers,Delaware,zqoehi
+1044,2020-09-28,Restaurant Limits,Ohio,uzaaqup
+1045,2020-05-29,Stay at Home Order,Florida,swjgvyqm
+1046,2020-07-12,Restaurant Limits,Pennsylvania,qqipl
+1047,2020-05-27,Non-Essential Business Closures,Georgia,mneshh
+1048,2020-04-30,Large Gatherings Ban,New York,gmylw
+1049,2020-07-14,Restaurant Limits,California,honlxqdt
+1050,2020-08-07,Non-Essential Business Closures,Massachusetts,kdbxne
+1051,2020-04-02,Restaurant Limits,Hawaii,lalbxp
+1052,2020-09-28,Non-Essential Business Closures,Nebraska,wjudsi
+1053,2020-06-20,Restaurant Limits,Montana,dzgvfzz
+1054,2020-07-30,Restaurant Limits,Illinois,slwhtlcpr
+1055,2020-08-18,Restaurant Limits,Pennsylvania,eygeh
+1056,2020-05-04,Status of Reopening,Connecticut,xeccg
+1057,2020-09-18,Stay at Home Order,New Mexico,uiyzjt
+1058,2020-06-20,Restaurant Limits,Hawaii,swjgvyqm
+1059,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,opweoqiv
+1060,2020-06-06,Stay at Home Order,New Hampshire,wjncso
+1061,2020-06-18,Status of Reopening,Florida,irlanzxsw
+1062,2020-07-25,Large Gatherings Ban,Idaho,piovcja
+1063,2020-05-17,Restaurant Limits,Rhode Island,uiyzjt
+1064,2020-06-11,Large Gatherings Ban,California,iztgagei
+1065,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,moxvu
+1066,2020-09-05,Non-Essential Business Closures,Missouri,kkelwdcs
+1067,2020-09-14,Restaurant Limits,Iowa,jbnxa
+1068,2020-04-07,Stay at Home Order,Nevada,yfwprmojp
+1069,2020-05-07,Restaurant Limits,Connecticut,ctpxvrny
+1070,2020-09-08,Large Gatherings Ban,Alaska,yerxuu
+1071,2020-05-05,Non-Essential Business Closures,Virginia,tbtbi
+1072,2020-07-11,Non-Essential Business Closures,California,orepyvmc
+1073,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,dkjrlfyx
+1074,2020-08-14,Status of Reopening,West Virginia,blpejr
+1075,2020-07-06,Stay at Home Order,Iowa,kedacygmi
+1076,2020-09-18,Mandatory Quarantine for Travelers,Alaska,ycvaedq
+1077,2020-09-05,Mandatory Quarantine for Travelers,Texas,ozebi
+1078,2020-05-09,Restaurant Limits,Nevada,cqpqvld
+1079,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,mbfjwy
+1080,2020-08-13,Large Gatherings Ban,North Dakota,ctdfmi
+1081,2020-07-10,Large Gatherings Ban,Rhode Island,fagoup
+1082,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ynhdxa
+1083,2020-06-25,Stay at Home Order,New Mexico,rmouvpcqh
+1084,2020-10-01,Mandatory Quarantine for Travelers,Arizona,tubqkldz
+1085,2020-04-30,Status of Reopening,Alabama,cxghe
+1086,2020-04-08,Restaurant Limits,South Carolina,rfjvvtuc
+1087,2020-06-15,Non-Essential Business Closures,California,kedacygmi
+1088,2020-06-22,Mandatory Quarantine for Travelers,Montana,wbcehugc
+1089,2020-07-20,Status of Reopening,Wyoming,cqpqvld
+1090,2020-08-27,Restaurant Limits,Colorado,itmoyzyo
+1091,2020-06-27,Non-Essential Business Closures,Arizona,swxsv
+1092,2020-05-02,Stay at Home Order,South Dakota,rfjvvtuc
+1093,2020-07-30,Mandatory Quarantine for Travelers,Delaware,ortxwrs
+1094,2020-09-28,Restaurant Limits,Ohio,xgpefedsa
+1095,2020-05-29,Stay at Home Order,Florida,hrlfga
+1096,2020-07-12,Restaurant Limits,Pennsylvania,rxrgeckzc
+1097,2020-05-27,Non-Essential Business Closures,Georgia,ebolnx
+1098,2020-04-30,Large Gatherings Ban,New York,kdbxne
+1099,2020-07-14,Restaurant Limits,California,ktqqr
+1100,2020-08-07,Non-Essential Business Closures,Massachusetts,ybspuxb
+1101,2020-04-02,Restaurant Limits,Hawaii,dkjrlfyx
+1102,2020-09-28,Non-Essential Business Closures,Nebraska,dikmn
+1103,2020-06-20,Restaurant Limits,Montana,iojjr
+1104,2020-07-30,Restaurant Limits,Illinois,nmyynf
+1105,2020-08-18,Restaurant Limits,Pennsylvania,rmouvpcqh
+1106,2020-05-04,Status of Reopening,Connecticut,iztgagei
+1107,2020-09-18,Stay at Home Order,New Mexico,ynhdxa
+1108,2020-06-20,Restaurant Limits,Hawaii,psivtfhh
+1109,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,iljakqa
+1110,2020-06-06,Stay at Home Order,New Hampshire,ctpxvrny
+1111,2020-06-18,Status of Reopening,Florida,bjphdiar
+1112,2020-07-25,Large Gatherings Ban,Idaho,tkpaxfzq
+1113,2020-05-17,Restaurant Limits,Rhode Island,mboznhi
+1114,2020-06-11,Large Gatherings Ban,California,lrzmp
+1115,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,dblfh
+1116,2020-09-05,Non-Essential Business Closures,Missouri,kwcfpob
+1117,2020-09-14,Restaurant Limits,Iowa,ybspuxb
+1118,2020-04-07,Stay at Home Order,Nevada,lrzmp
+1119,2020-05-07,Restaurant Limits,Connecticut,adthvndl
+1120,2020-09-08,Large Gatherings Ban,Alaska,aifaf
+1121,2020-05-05,Non-Essential Business Closures,Virginia,kedacygmi
+1122,2020-07-11,Non-Essential Business Closures,California,mbfjwy
+1123,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,gmlsapza
+1124,2020-08-14,Status of Reopening,West Virginia,tzfnlz
+1125,2020-07-06,Stay at Home Order,Iowa,orepyvmc
+1126,2020-09-18,Mandatory Quarantine for Travelers,Alaska,dblfh
+1127,2020-09-05,Mandatory Quarantine for Travelers,Texas,ctpxvrny
+1128,2020-05-09,Restaurant Limits,Nevada,ihoyarv
+1129,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,zxncxhfp
+1130,2020-08-13,Large Gatherings Ban,North Dakota,ynhdxa
+1131,2020-07-10,Large Gatherings Ban,Rhode Island,mbfjwy
+1132,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,piovcja
+1133,2020-06-25,Stay at Home Order,New Mexico,ftmjep
+1134,2020-10-01,Mandatory Quarantine for Travelers,Arizona,gjgcws
+1135,2020-04-30,Status of Reopening,Alabama,btylwxc
+1136,2020-04-08,Restaurant Limits,South Carolina,rmouvpcqh
+1137,2020-06-15,Non-Essential Business Closures,California,bkfntg
+1138,2020-06-22,Mandatory Quarantine for Travelers,Montana,ctpvrfwp
+1139,2020-07-20,Status of Reopening,Wyoming,cvbbem
+1140,2020-08-27,Restaurant Limits,Colorado,tkpaxfzq
+1141,2020-06-27,Non-Essential Business Closures,Arizona,xzwflsd
+1142,2020-05-02,Stay at Home Order,South Dakota,ygfcxtab
+1143,2020-07-30,Mandatory Quarantine for Travelers,Delaware,gmylw
+1144,2020-09-28,Restaurant Limits,Ohio,mznus
+1145,2020-05-29,Stay at Home Order,Florida,xgpefedsa
+1146,2020-07-12,Restaurant Limits,Pennsylvania,cxghe
+1147,2020-05-27,Non-Essential Business Closures,Georgia,cvccqmrc
+1148,2020-04-30,Large Gatherings Ban,New York,czrwhvek
+1149,2020-07-14,Restaurant Limits,California,mboznhi
+1150,2020-08-07,Non-Essential Business Closures,Massachusetts,onajodd
+1151,2020-04-02,Restaurant Limits,Hawaii,bcyljofl
+1152,2020-09-28,Non-Essential Business Closures,Nebraska,sjrmmmvsr
+1153,2020-06-20,Restaurant Limits,Montana,sjrmmmvsr
+1154,2020-07-30,Restaurant Limits,Illinois,pkhhhq
+1155,2020-08-18,Restaurant Limits,Pennsylvania,zqoehi
+1156,2020-05-04,Status of Reopening,Connecticut,xqsjlnyn
+1157,2020-09-18,Stay at Home Order,New Mexico,zcuezd
+1158,2020-06-20,Restaurant Limits,Hawaii,xrpkexzc
+1159,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,blpejr
+1160,2020-06-06,Stay at Home Order,New Hampshire,evcrzxovq
+1161,2020-06-18,Status of Reopening,Florida,cpjfwrn
+1162,2020-07-25,Large Gatherings Ban,Idaho,epealfjru
+1163,2020-05-17,Restaurant Limits,Rhode Island,irgwtald
+1164,2020-06-11,Large Gatherings Ban,California,wkborr
+1165,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,lrzmp
+1166,2020-09-05,Non-Essential Business Closures,Missouri,bkfntg
+1167,2020-09-14,Restaurant Limits,Iowa,dkjrlfyx
+1168,2020-04-07,Stay at Home Order,Nevada,epealfjru
+1169,2020-05-07,Restaurant Limits,Connecticut,ctpvrfwp
+1170,2020-09-08,Large Gatherings Ban,Alaska,jvfobuyi
+1171,2020-05-05,Non-Essential Business Closures,Virginia,piovcja
+1172,2020-07-11,Non-Essential Business Closures,California,cgbis
+1173,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,qqipl
+1174,2020-08-14,Status of Reopening,West Virginia,aifaf
+1175,2020-07-06,Stay at Home Order,Iowa,aifaf
+1176,2020-09-18,Mandatory Quarantine for Travelers,Alaska,rseua
+1177,2020-09-05,Mandatory Quarantine for Travelers,Texas,czahakeu
+1178,2020-05-09,Restaurant Limits,Nevada,orepyvmc
+1179,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,kedacygmi
+1180,2020-08-13,Large Gatherings Ban,North Dakota,ltquhmlti
+1181,2020-07-10,Large Gatherings Ban,Rhode Island,rfjvvtuc
+1182,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,irlanzxsw
+1183,2020-06-25,Stay at Home Order,New Mexico,qvqkn
+1184,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ywsnpx
+1185,2020-04-30,Status of Reopening,Alabama,hgykucnca
+1186,2020-04-08,Restaurant Limits,South Carolina,hzqtjx
+1187,2020-06-15,Non-Essential Business Closures,California,kkelwdcs
+1188,2020-06-22,Mandatory Quarantine for Travelers,Montana,kmftllsnp
+1189,2020-07-20,Status of Reopening,Wyoming,fbtbvgepe
+1190,2020-08-27,Restaurant Limits,Colorado,gpozxuy
+1191,2020-06-27,Non-Essential Business Closures,Arizona,nofem
+1192,2020-05-02,Stay at Home Order,South Dakota,moxvu
+1193,2020-07-30,Mandatory Quarantine for Travelers,Delaware,czrwhvek
+1194,2020-09-28,Restaurant Limits,Ohio,rseua
+1195,2020-05-29,Stay at Home Order,Florida,ctdfmi
+1196,2020-07-12,Restaurant Limits,Pennsylvania,mgljp
+1197,2020-05-27,Non-Essential Business Closures,Georgia,cxwjqu
+1198,2020-04-30,Large Gatherings Ban,New York,uqtvzz
+1199,2020-07-14,Restaurant Limits,California,twmetnyj
+1200,2020-08-07,Non-Essential Business Closures,Massachusetts,evcrzxovq
+1201,2020-04-02,Restaurant Limits,Hawaii,gjgcws
+1202,2020-09-28,Non-Essential Business Closures,Nebraska,judabf
+1203,2020-06-20,Restaurant Limits,Montana,kdbxne
+1204,2020-07-30,Restaurant Limits,Illinois,mgljp
+1205,2020-08-18,Restaurant Limits,Pennsylvania,yerxuu
+1206,2020-05-04,Status of Reopening,Connecticut,pfluqftg
+1207,2020-09-18,Stay at Home Order,New Mexico,ebolnx
+1208,2020-06-20,Restaurant Limits,Hawaii,bkfntg
+1209,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,siyfvoohi
+1210,2020-06-06,Stay at Home Order,New Hampshire,wjudsi
+1211,2020-06-18,Status of Reopening,Florida,pfwnr
+1212,2020-07-25,Large Gatherings Ban,Idaho,evcrzxovq
+1213,2020-05-17,Restaurant Limits,Rhode Island,wxztzej
+1214,2020-06-11,Large Gatherings Ban,California,itmoyzyo
+1215,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,judabf
+1216,2020-09-05,Non-Essential Business Closures,Missouri,sjrmmmvsr
+1217,2020-09-14,Restaurant Limits,Iowa,blpejr
+1218,2020-04-07,Stay at Home Order,Nevada,piovcja
+1219,2020-05-07,Restaurant Limits,Connecticut,iztgagei
+1220,2020-09-08,Large Gatherings Ban,Alaska,kdbxne
+1221,2020-05-05,Non-Essential Business Closures,Virginia,ndkkipwb
+1222,2020-07-11,Non-Essential Business Closures,California,wjncso
+1223,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,gpozxuy
+1224,2020-08-14,Status of Reopening,West Virginia,qrpvgaxl
+1225,2020-07-06,Stay at Home Order,Iowa,moxvu
+1226,2020-09-18,Mandatory Quarantine for Travelers,Alaska,qrpvgaxl
+1227,2020-09-05,Mandatory Quarantine for Travelers,Texas,fbpenqttm
+1228,2020-05-09,Restaurant Limits,Nevada,czrwhvek
+1229,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,ynhdxa
+1230,2020-08-13,Large Gatherings Ban,North Dakota,xqsjlnyn
+1231,2020-07-10,Large Gatherings Ban,Rhode Island,ldiyqvofg
+1232,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,kdbxne
+1233,2020-06-25,Stay at Home Order,New Mexico,xrpkexzc
+1234,2020-10-01,Mandatory Quarantine for Travelers,Arizona,cyzmonh
+1235,2020-04-30,Status of Reopening,Alabama,waitmklgf
+1236,2020-04-08,Restaurant Limits,South Carolina,mpdvpopa
+1237,2020-06-15,Non-Essential Business Closures,California,epqwkjzn
+1238,2020-06-22,Mandatory Quarantine for Travelers,Montana,fbpenqttm
+1239,2020-07-20,Status of Reopening,Wyoming,epqwkjzn
+1240,2020-08-27,Restaurant Limits,Colorado,sdbsqvcqs
+1241,2020-06-27,Non-Essential Business Closures,Arizona,lnoqfd
+1242,2020-05-02,Stay at Home Order,South Dakota,lalbxp
+1243,2020-07-30,Mandatory Quarantine for Travelers,Delaware,nofem
+1244,2020-09-28,Restaurant Limits,Ohio,btylwxc
+1245,2020-05-29,Stay at Home Order,Florida,vceaav
+1246,2020-07-12,Restaurant Limits,Pennsylvania,gmlsapza
+1247,2020-05-27,Non-Essential Business Closures,Georgia,ortxwrs
+1248,2020-04-30,Large Gatherings Ban,New York,tzfnlz
+1249,2020-07-14,Restaurant Limits,California,aiutsjbl
+1250,2020-08-07,Non-Essential Business Closures,Massachusetts,swxsv
+1251,2020-04-02,Restaurant Limits,Hawaii,czrwhvek
+1252,2020-09-28,Non-Essential Business Closures,Nebraska,phfqr
+1253,2020-06-20,Restaurant Limits,Montana,dblfh
+1254,2020-07-30,Restaurant Limits,Illinois,ahrzckr
+1255,2020-08-18,Restaurant Limits,Pennsylvania,ihoyarv
+1256,2020-05-04,Status of Reopening,Connecticut,thaknfgjo
+1257,2020-09-18,Stay at Home Order,New Mexico,zqoehi
+1258,2020-06-20,Restaurant Limits,Hawaii,hzqtjx
+1259,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,azvzoa
+1260,2020-06-06,Stay at Home Order,New Hampshire,wxnrabwfm
+1261,2020-06-18,Status of Reopening,Florida,spjmtvy
+1262,2020-07-25,Large Gatherings Ban,Idaho,eygeh
+1263,2020-05-17,Restaurant Limits,Rhode Island,lshyh
+1264,2020-06-11,Large Gatherings Ban,California,ispix
+1265,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,mgljp
+1266,2020-09-05,Non-Essential Business Closures,Missouri,iojjr
+1267,2020-09-14,Restaurant Limits,Iowa,zmzvxy
+1268,2020-04-07,Stay at Home Order,Nevada,aifaf
+1269,2020-05-07,Restaurant Limits,Connecticut,epealfjru
+1270,2020-09-08,Large Gatherings Ban,Alaska,ctpvrfwp
+1271,2020-05-05,Non-Essential Business Closures,Virginia,nofem
+1272,2020-07-11,Non-Essential Business Closures,California,cniurxv
+1273,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,opweoqiv
+1274,2020-08-14,Status of Reopening,West Virginia,rseua
+1275,2020-07-06,Stay at Home Order,Iowa,cpjfwrn
+1276,2020-09-18,Mandatory Quarantine for Travelers,Alaska,cfjolp
+1277,2020-09-05,Mandatory Quarantine for Travelers,Texas,zoruamyn
+1278,2020-05-09,Restaurant Limits,Nevada,spjmtvy
+1279,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,phscvqlgd
+1280,2020-08-13,Large Gatherings Ban,North Dakota,ybspuxb
+1281,2020-07-10,Large Gatherings Ban,Rhode Island,lrzmp
+1282,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,tdzmeoupp
+1283,2020-06-25,Stay at Home Order,New Mexico,onajodd
+1284,2020-10-01,Mandatory Quarantine for Travelers,Arizona,uzaaqup
+1285,2020-04-30,Status of Reopening,Alabama,rmouvpcqh
+1286,2020-04-08,Restaurant Limits,South Carolina,phfqr
+1287,2020-06-15,Non-Essential Business Closures,California,cgbis
+1288,2020-06-22,Mandatory Quarantine for Travelers,Montana,dzntp
+1289,2020-07-20,Status of Reopening,Wyoming,ldiyqvofg
+1290,2020-08-27,Restaurant Limits,Colorado,mneshh
+1291,2020-06-27,Non-Essential Business Closures,Arizona,snnnsa
+1292,2020-05-02,Stay at Home Order,South Dakota,rmouvpcqh
+1293,2020-07-30,Mandatory Quarantine for Travelers,Delaware,cvccqmrc
+1294,2020-09-28,Restaurant Limits,Ohio,xqsjlnyn
+1295,2020-05-29,Stay at Home Order,Florida,fubehhu
+1296,2020-07-12,Restaurant Limits,Pennsylvania,cxwjqu
+1297,2020-05-27,Non-Essential Business Closures,Georgia,xeccg
+1298,2020-04-30,Large Gatherings Ban,New York,zxncxhfp
+1299,2020-07-14,Restaurant Limits,California,xzwflsd
+1300,2020-08-07,Non-Essential Business Closures,Massachusetts,adthvndl
+1301,2020-04-02,Restaurant Limits,Hawaii,mybugf
+1302,2020-09-28,Non-Essential Business Closures,Nebraska,cvccqmrc
+1303,2020-06-20,Restaurant Limits,Montana,epealfjru
+1304,2020-07-30,Restaurant Limits,Illinois,nvnfzzc
+1305,2020-08-18,Restaurant Limits,Pennsylvania,ldiyqvofg
+1306,2020-05-04,Status of Reopening,Connecticut,moxvu
+1307,2020-09-18,Stay at Home Order,New Mexico,qpzdgam
+1308,2020-06-20,Restaurant Limits,Hawaii,swxsv
+1309,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,lrzmp
+1310,2020-06-06,Stay at Home Order,New Hampshire,lalbxp
+1311,2020-06-18,Status of Reopening,Florida,wbcehugc
+1312,2020-07-25,Large Gatherings Ban,Idaho,vbziyaqd
+1313,2020-05-17,Restaurant Limits,Rhode Island,epqwkjzn
+1314,2020-06-11,Large Gatherings Ban,California,btylwxc
+1315,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,iojjr
+1316,2020-09-05,Non-Essential Business Closures,Missouri,rmouvpcqh
+1317,2020-09-14,Restaurant Limits,Iowa,isazd
+1318,2020-04-07,Stay at Home Order,Nevada,uwzaanhs
+1319,2020-05-07,Restaurant Limits,Connecticut,czahakeu
+1320,2020-09-08,Large Gatherings Ban,Alaska,czahakeu
+1321,2020-05-05,Non-Essential Business Closures,Virginia,ndkkipwb
+1322,2020-07-11,Non-Essential Business Closures,California,jultq
+1323,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,gpozxuy
+1324,2020-08-14,Status of Reopening,West Virginia,ydvtqxy
+1325,2020-07-06,Stay at Home Order,Iowa,kwcfpob
+1326,2020-09-18,Mandatory Quarantine for Travelers,Alaska,judabf
+1327,2020-09-05,Mandatory Quarantine for Travelers,Texas,zcuezd
+1328,2020-05-09,Restaurant Limits,Nevada,aixbu
+1329,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,lnoqfd
+1330,2020-08-13,Large Gatherings Ban,North Dakota,fputxq
+1331,2020-07-10,Large Gatherings Ban,Rhode Island,vceaav
+1332,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,judabf
+1333,2020-06-25,Stay at Home Order,New Mexico,asowo
+1334,2020-10-01,Mandatory Quarantine for Travelers,Arizona,tubqkldz
+1335,2020-04-30,Status of Reopening,Alabama,gmylw
+1336,2020-04-08,Restaurant Limits,South Carolina,cxwjqu
+1337,2020-06-15,Non-Essential Business Closures,California,sdbsqvcqs
+1338,2020-06-22,Mandatory Quarantine for Travelers,Montana,tubqkldz
+1339,2020-07-20,Status of Reopening,Wyoming,wsfhwudy
+1340,2020-08-27,Restaurant Limits,Colorado,twmetnyj
+1341,2020-06-27,Non-Essential Business Closures,Arizona,mneshh
+1342,2020-05-02,Stay at Home Order,South Dakota,asowo
+1343,2020-07-30,Mandatory Quarantine for Travelers,Delaware,pqdyirohd
+1344,2020-09-28,Restaurant Limits,Ohio,moxvu
+1345,2020-05-29,Stay at Home Order,Florida,mabvjzzor
+1346,2020-07-12,Restaurant Limits,Pennsylvania,yerxuu
+1347,2020-05-27,Non-Essential Business Closures,Georgia,moxvu
+1348,2020-04-30,Large Gatherings Ban,New York,nxzijgbp
+1349,2020-07-14,Restaurant Limits,California,sdbsqvcqs
+1350,2020-08-07,Non-Essential Business Closures,Massachusetts,heyhbl
+1351,2020-04-02,Restaurant Limits,Hawaii,kzusvwveq
+1352,2020-09-28,Non-Essential Business Closures,Nebraska,goxyl
+1353,2020-06-20,Restaurant Limits,Montana,ltquhmlti
+1354,2020-07-30,Restaurant Limits,Illinois,kzusvwveq
+1355,2020-08-18,Restaurant Limits,Pennsylvania,qpzdgam
+1356,2020-05-04,Status of Reopening,Connecticut,twhtpy
+1357,2020-09-18,Stay at Home Order,New Mexico,kedacygmi
+1358,2020-06-20,Restaurant Limits,Hawaii,ygfcxtab
+1359,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,zmzvxy
+1360,2020-06-06,Stay at Home Order,New Hampshire,cvbbem
+1361,2020-06-18,Status of Reopening,Florida,cvbbem
+1362,2020-07-25,Large Gatherings Ban,Idaho,judabf
+1363,2020-05-17,Restaurant Limits,Rhode Island,yfwprmojp
+1364,2020-06-11,Large Gatherings Ban,California,vbziyaqd
+1365,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,wjncso
+1366,2020-09-05,Non-Essential Business Closures,Missouri,cyzmonh
+1367,2020-09-14,Restaurant Limits,Iowa,dblfh
+1368,2020-04-07,Stay at Home Order,Nevada,swxsv
+1369,2020-05-07,Restaurant Limits,Connecticut,irgwtald
+1370,2020-09-08,Large Gatherings Ban,Alaska,rseua
+1371,2020-05-05,Non-Essential Business Closures,Virginia,bjphdiar
+1372,2020-07-11,Non-Essential Business Closures,California,hiujeh
+1373,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,isazd
+1374,2020-08-14,Status of Reopening,West Virginia,aixbu
+1375,2020-07-06,Stay at Home Order,Iowa,piovcja
+1376,2020-09-18,Mandatory Quarantine for Travelers,Alaska,dblfh
+1377,2020-09-05,Mandatory Quarantine for Travelers,Texas,jbnxa
+1378,2020-05-09,Restaurant Limits,Nevada,pkhhhq
+1379,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,fbpenqttm
+1380,2020-08-13,Large Gatherings Ban,North Dakota,pfwnr
+1381,2020-07-10,Large Gatherings Ban,Rhode Island,xqsjlnyn
+1382,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,mybugf
+1383,2020-06-25,Stay at Home Order,New Mexico,epealfjru
+1384,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ahrzckr
+1385,2020-04-30,Status of Reopening,Alabama,sovfygafs
+1386,2020-04-08,Restaurant Limits,South Carolina,wjudsi
+1387,2020-06-15,Non-Essential Business Closures,California,swxsv
+1388,2020-06-22,Mandatory Quarantine for Travelers,Montana,kdbxne
+1389,2020-07-20,Status of Reopening,Wyoming,xqsjlnyn
+1390,2020-08-27,Restaurant Limits,Colorado,slysj
+1391,2020-06-27,Non-Essential Business Closures,Arizona,gpvvf
+1392,2020-05-02,Stay at Home Order,South Dakota,mbfjwy
+1393,2020-07-30,Mandatory Quarantine for Travelers,Delaware,uzaaqup
+1394,2020-09-28,Restaurant Limits,Ohio,vlyhre
+1395,2020-05-29,Stay at Home Order,Florida,gmylw
+1396,2020-07-12,Restaurant Limits,Pennsylvania,ldiyqvofg
+1397,2020-05-27,Non-Essential Business Closures,Georgia,cyzmonh
+1398,2020-04-30,Large Gatherings Ban,New York,lmdlbej
+1399,2020-07-14,Restaurant Limits,California,rseua
+1400,2020-08-07,Non-Essential Business Closures,Massachusetts,fbpenqttm
+1401,2020-04-02,Restaurant Limits,Hawaii,jultq
+1402,2020-09-28,Non-Essential Business Closures,Nebraska,bcyljofl
+1403,2020-06-20,Restaurant Limits,Montana,kzusvwveq
+1404,2020-07-30,Restaurant Limits,Illinois,qpzdgam
+1405,2020-08-18,Restaurant Limits,Pennsylvania,kktggkh
+1406,2020-05-04,Status of Reopening,Connecticut,wjncso
+1407,2020-09-18,Stay at Home Order,New Mexico,xeccg
+1408,2020-06-20,Restaurant Limits,Hawaii,zqoehi
+1409,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,vlyhre
+1410,2020-06-06,Stay at Home Order,New Hampshire,cvccqmrc
+1411,2020-06-18,Status of Reopening,Florida,pqdyirohd
+1412,2020-07-25,Large Gatherings Ban,Idaho,czahakeu
+1413,2020-05-17,Restaurant Limits,Rhode Island,wxnrabwfm
+1414,2020-06-11,Large Gatherings Ban,California,zqoehi
+1415,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,mboznhi
+1416,2020-09-05,Non-Essential Business Closures,Missouri,adthvndl
+1417,2020-09-14,Restaurant Limits,Iowa,wxnrabwfm
+1418,2020-04-07,Stay at Home Order,Nevada,epealfjru
+1419,2020-05-07,Restaurant Limits,Connecticut,nmyynf
+1420,2020-09-08,Large Gatherings Ban,Alaska,adthvndl
+1421,2020-05-05,Non-Essential Business Closures,Virginia,heyhbl
+1422,2020-07-11,Non-Essential Business Closures,California,dzntp
+1423,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,vceaav
+1424,2020-08-14,Status of Reopening,West Virginia,azvzoa
+1425,2020-07-06,Stay at Home Order,Iowa,gmlsapza
+1426,2020-09-18,Mandatory Quarantine for Travelers,Alaska,nvnfzzc
+1427,2020-09-05,Mandatory Quarantine for Travelers,Texas,pqdyirohd
+1428,2020-05-09,Restaurant Limits,Nevada,siyfvoohi
+1429,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,isazd
+1430,2020-08-13,Large Gatherings Ban,North Dakota,qrpvgaxl
+1431,2020-07-10,Large Gatherings Ban,Rhode Island,wkborr
+1432,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,usykgh
+1433,2020-06-25,Stay at Home Order,New Mexico,ycvaedq
+1434,2020-10-01,Mandatory Quarantine for Travelers,Arizona,judabf
+1435,2020-04-30,Status of Reopening,Alabama,rloyg
+1436,2020-04-08,Restaurant Limits,South Carolina,fxgkdjmev
+1437,2020-06-15,Non-Essential Business Closures,California,hrlfga
+1438,2020-06-22,Mandatory Quarantine for Travelers,Montana,ktqqr
+1439,2020-07-20,Status of Reopening,Wyoming,kktggkh
+1440,2020-08-27,Restaurant Limits,Colorado,wsfhwudy
+1441,2020-06-27,Non-Essential Business Closures,Arizona,ortxwrs
+1442,2020-05-02,Stay at Home Order,South Dakota,fxgkdjmev
+1443,2020-07-30,Mandatory Quarantine for Travelers,Delaware,piovcja
+1444,2020-09-28,Restaurant Limits,Ohio,iljakqa
+1445,2020-05-29,Stay at Home Order,Florida,zoruamyn
+1446,2020-07-12,Restaurant Limits,Pennsylvania,jvfobuyi
+1447,2020-05-27,Non-Essential Business Closures,Georgia,qvqkn
+1448,2020-04-30,Large Gatherings Ban,New York,rxrgeckzc
+1449,2020-07-14,Restaurant Limits,California,nmyynf
+1450,2020-08-07,Non-Essential Business Closures,Massachusetts,mbfjwy
+1451,2020-04-02,Restaurant Limits,Hawaii,aixbu
+1452,2020-09-28,Non-Essential Business Closures,Nebraska,mdpnrdqjc
+1453,2020-06-20,Restaurant Limits,Montana,hrlfga
+1454,2020-07-30,Restaurant Limits,Illinois,cfjolp
+1455,2020-08-18,Restaurant Limits,Pennsylvania,wkborr
+1456,2020-05-04,Status of Reopening,Connecticut,sjrmmmvsr
+1457,2020-09-18,Stay at Home Order,New Mexico,kktggkh
+1458,2020-06-20,Restaurant Limits,Hawaii,rseua
+1459,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,kbvybotu
+1460,2020-06-06,Stay at Home Order,New Hampshire,pkhhhq
+1461,2020-06-18,Status of Reopening,Florida,mboznhi
+1462,2020-07-25,Large Gatherings Ban,Idaho,ywsnpx
+1463,2020-05-17,Restaurant Limits,Rhode Island,wxnrabwfm
+1464,2020-06-11,Large Gatherings Ban,California,mabvjzzor
+1465,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,tndagv
+1466,2020-09-05,Non-Essential Business Closures,Missouri,xgpefedsa
+1467,2020-09-14,Restaurant Limits,Iowa,tdzmeoupp
+1468,2020-04-07,Stay at Home Order,Nevada,cniurxv
+1469,2020-05-07,Restaurant Limits,Connecticut,phscvqlgd
+1470,2020-09-08,Large Gatherings Ban,Alaska,gmylw
+1471,2020-05-05,Non-Essential Business Closures,Virginia,uzaaqup
+1472,2020-07-11,Non-Essential Business Closures,California,lshyh
+1473,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,hrlfga
+1474,2020-08-14,Status of Reopening,West Virginia,heyhbl
+1475,2020-07-06,Stay at Home Order,Iowa,zmzvxy
+1476,2020-09-18,Mandatory Quarantine for Travelers,Alaska,nmyynf
+1477,2020-09-05,Mandatory Quarantine for Travelers,Texas,czahakeu
+1478,2020-05-09,Restaurant Limits,Nevada,dzxutl
+1479,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,tkpaxfzq
+1480,2020-08-13,Large Gatherings Ban,North Dakota,ktqqr
+1481,2020-07-10,Large Gatherings Ban,Rhode Island,sdbsqvcqs
+1482,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ynhdxa
+1483,2020-06-25,Stay at Home Order,New Mexico,zmzvxy
+1484,2020-10-01,Mandatory Quarantine for Travelers,Arizona,kwcfpob
+1485,2020-04-30,Status of Reopening,Alabama,sdhacub
+1486,2020-04-08,Restaurant Limits,South Carolina,ybzsnnaew
+1487,2020-06-15,Non-Essential Business Closures,California,cyzmonh
+1488,2020-06-22,Mandatory Quarantine for Travelers,Montana,azvzoa
+1489,2020-07-20,Status of Reopening,Wyoming,zmzvxy
+1490,2020-08-27,Restaurant Limits,Colorado,lalbxp
+1491,2020-06-27,Non-Essential Business Closures,Arizona,kmftllsnp
+1492,2020-05-02,Stay at Home Order,South Dakota,mpdvpopa
+1493,2020-07-30,Mandatory Quarantine for Travelers,Delaware,zxncxhfp
+1494,2020-09-28,Restaurant Limits,Ohio,btylwxc
+1495,2020-05-29,Stay at Home Order,Florida,mneshh
+1496,2020-07-12,Restaurant Limits,Pennsylvania,slysj
+1497,2020-05-27,Non-Essential Business Closures,Georgia,kedacygmi
+1498,2020-04-30,Large Gatherings Ban,New York,wxztzej
+1499,2020-07-14,Restaurant Limits,California,zxncxhfp
+1500,2020-08-07,Non-Essential Business Closures,Massachusetts,phfqr
+1501,2020-04-02,Restaurant Limits,Hawaii,wovwkrwhr
+1502,2020-09-28,Non-Essential Business Closures,Nebraska,hgykucnca
+1503,2020-06-20,Restaurant Limits,Montana,ldiyqvofg
+1504,2020-07-30,Restaurant Limits,Illinois,ortxwrs
+1505,2020-08-18,Restaurant Limits,Pennsylvania,tbtbi
+1506,2020-05-04,Status of Reopening,Connecticut,vmoga
+1507,2020-09-18,Stay at Home Order,New Mexico,twmetnyj
+1508,2020-06-20,Restaurant Limits,Hawaii,siyfvoohi
+1509,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,vbziyaqd
+1510,2020-06-06,Stay at Home Order,New Hampshire,dzxutl
+1511,2020-06-18,Status of Reopening,Florida,lnoqfd
+1512,2020-07-25,Large Gatherings Ban,Idaho,usykgh
+1513,2020-05-17,Restaurant Limits,Rhode Island,iztgagei
+1514,2020-06-11,Large Gatherings Ban,California,gpozxuy
+1515,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,ynhdxa
+1516,2020-09-05,Non-Essential Business Closures,Missouri,ldiyqvofg
+1517,2020-09-14,Restaurant Limits,Iowa,orepyvmc
+1518,2020-04-07,Stay at Home Order,Nevada,kmftllsnp
+1519,2020-05-07,Restaurant Limits,Connecticut,hiujeh
+1520,2020-09-08,Large Gatherings Ban,Alaska,cxghe
+1521,2020-05-05,Non-Essential Business Closures,Virginia,heyhbl
+1522,2020-07-11,Non-Essential Business Closures,California,xgpefedsa
+1523,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,asowo
+1524,2020-08-14,Status of Reopening,West Virginia,zcuezd
+1525,2020-07-06,Stay at Home Order,Iowa,usykgh
+1526,2020-09-18,Mandatory Quarantine for Travelers,Alaska,fagoup
+1527,2020-09-05,Mandatory Quarantine for Travelers,Texas,ctpxvrny
+1528,2020-05-09,Restaurant Limits,Nevada,cfjolp
+1529,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,qeydiiqtb
+1530,2020-08-13,Large Gatherings Ban,North Dakota,evcrzxovq
+1531,2020-07-10,Large Gatherings Ban,Rhode Island,kbvybotu
+1532,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,orepyvmc
+1533,2020-06-25,Stay at Home Order,New Mexico,qrpvgaxl
+1534,2020-10-01,Mandatory Quarantine for Travelers,Arizona,wovwkrwhr
+1535,2020-04-30,Status of Reopening,Alabama,wsfhwudy
+1536,2020-04-08,Restaurant Limits,South Carolina,aixbu
+1537,2020-06-15,Non-Essential Business Closures,California,zcuezd
+1538,2020-06-22,Mandatory Quarantine for Travelers,Montana,qdjfbdum
+1539,2020-07-20,Status of Reopening,Wyoming,bjphdiar
+1540,2020-08-27,Restaurant Limits,Colorado,mbfjwy
+1541,2020-06-27,Non-Essential Business Closures,Arizona,heyhbl
+1542,2020-05-02,Stay at Home Order,South Dakota,xeccg
+1543,2020-07-30,Mandatory Quarantine for Travelers,Delaware,smnpcwj
+1544,2020-09-28,Restaurant Limits,Ohio,itmoyzyo
+1545,2020-05-29,Stay at Home Order,Florida,cniurxv
+1546,2020-07-12,Restaurant Limits,Pennsylvania,mneshh
+1547,2020-05-27,Non-Essential Business Closures,Georgia,hzqtjx
+1548,2020-04-30,Large Gatherings Ban,New York,oyego
+1549,2020-07-14,Restaurant Limits,California,wsfhwudy
+1550,2020-08-07,Non-Essential Business Closures,Massachusetts,hgykucnca
+1551,2020-04-02,Restaurant Limits,Hawaii,phfqr
+1552,2020-09-28,Non-Essential Business Closures,Nebraska,cvbbem
+1553,2020-06-20,Restaurant Limits,Montana,mybugf
+1554,2020-07-30,Restaurant Limits,Illinois,wjncso
+1555,2020-08-18,Restaurant Limits,Pennsylvania,nmyynf
+1556,2020-05-04,Status of Reopening,Connecticut,mdpnrdqjc
+1557,2020-09-18,Stay at Home Order,New Mexico,tzfnlz
+1558,2020-06-20,Restaurant Limits,Hawaii,ybspuxb
+1559,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,tdzmeoupp
+1560,2020-06-06,Stay at Home Order,New Hampshire,kdbxne
+1561,2020-06-18,Status of Reopening,Florida,tocnff
+1562,2020-07-25,Large Gatherings Ban,Idaho,vlyhre
+1563,2020-05-17,Restaurant Limits,Rhode Island,sdbsqvcqs
+1564,2020-06-11,Large Gatherings Ban,California,azvzoa
+1565,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,ltquhmlti
+1566,2020-09-05,Non-Essential Business Closures,Missouri,phfqr
+1567,2020-09-14,Restaurant Limits,Iowa,lmdlbej
+1568,2020-04-07,Stay at Home Order,Nevada,qqipl
+1569,2020-05-07,Restaurant Limits,Connecticut,ygfcxtab
+1570,2020-09-08,Large Gatherings Ban,Alaska,pfwnr
+1571,2020-05-05,Non-Essential Business Closures,Virginia,uwzaanhs
+1572,2020-07-11,Non-Essential Business Closures,California,agwbamz
+1573,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,cgbis
+1574,2020-08-14,Status of Reopening,West Virginia,wovwkrwhr
+1575,2020-07-06,Stay at Home Order,Iowa,ldiyqvofg
+1576,2020-09-18,Mandatory Quarantine for Travelers,Alaska,iztgagei
+1577,2020-09-05,Mandatory Quarantine for Travelers,Texas,vceaav
+1578,2020-05-09,Restaurant Limits,Nevada,blpejr
+1579,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,heyhbl
+1580,2020-08-13,Large Gatherings Ban,North Dakota,gpvvf
+1581,2020-07-10,Large Gatherings Ban,Rhode Island,blpejr
+1582,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ihoyarv
+1583,2020-06-25,Stay at Home Order,New Mexico,qpzdgam
+1584,2020-10-01,Mandatory Quarantine for Travelers,Arizona,cpjfwrn
+1585,2020-04-30,Status of Reopening,Alabama,rmouvpcqh
+1586,2020-04-08,Restaurant Limits,South Carolina,qrpvgaxl
+1587,2020-06-15,Non-Essential Business Closures,California,wxztzej
+1588,2020-06-22,Mandatory Quarantine for Travelers,Montana,onajodd
+1589,2020-07-20,Status of Reopening,Wyoming,itmoyzyo
+1590,2020-08-27,Restaurant Limits,Colorado,tndagv
+1591,2020-06-27,Non-Essential Business Closures,Arizona,wsfhwudy
+1592,2020-05-02,Stay at Home Order,South Dakota,vbziyaqd
+1593,2020-07-30,Mandatory Quarantine for Travelers,Delaware,epealfjru
+1594,2020-09-28,Restaurant Limits,Ohio,goxyl
+1595,2020-05-29,Stay at Home Order,Florida,bkfntg
+1596,2020-07-12,Restaurant Limits,Pennsylvania,cpjfwrn
+1597,2020-05-27,Non-Essential Business Closures,Georgia,xqsjlnyn
+1598,2020-04-30,Large Gatherings Ban,New York,dblfh
+1599,2020-07-14,Restaurant Limits,California,goxyl
+1600,2020-08-07,Non-Essential Business Closures,Massachusetts,cxghe
+1601,2020-04-02,Restaurant Limits,Hawaii,hseya
+1602,2020-09-28,Non-Essential Business Closures,Nebraska,mgljp
+1603,2020-06-20,Restaurant Limits,Montana,btylwxc
+1604,2020-07-30,Restaurant Limits,Illinois,gmylw
+1605,2020-08-18,Restaurant Limits,Pennsylvania,fxgkdjmev
+1606,2020-05-04,Status of Reopening,Connecticut,dzgvfzz
+1607,2020-09-18,Stay at Home Order,New Mexico,jnqij
+1608,2020-06-20,Restaurant Limits,Hawaii,ywsnpx
+1609,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,gpozxuy
+1610,2020-06-06,Stay at Home Order,New Hampshire,sovfygafs
+1611,2020-06-18,Status of Reopening,Florida,cxwjqu
+1612,2020-07-25,Large Gatherings Ban,Idaho,cyzmonh
+1613,2020-05-17,Restaurant Limits,Rhode Island,cgbis
+1614,2020-06-11,Large Gatherings Ban,California,rfjvvtuc
+1615,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,ywsnpx
+1616,2020-09-05,Non-Essential Business Closures,Missouri,uzaaqup
+1617,2020-09-14,Restaurant Limits,Iowa,cgbis
+1618,2020-04-07,Stay at Home Order,Nevada,wjudsi
+1619,2020-05-07,Restaurant Limits,Connecticut,fputxq
+1620,2020-09-08,Large Gatherings Ban,Alaska,uwzaanhs
+1621,2020-05-05,Non-Essential Business Closures,Virginia,fagoup
+1622,2020-07-11,Non-Essential Business Closures,California,glqagidzq
+1623,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,swxsv
+1624,2020-08-14,Status of Reopening,West Virginia,tocnff
+1625,2020-07-06,Stay at Home Order,Iowa,hiujeh
+1626,2020-09-18,Mandatory Quarantine for Travelers,Alaska,slwhtlcpr
+1627,2020-09-05,Mandatory Quarantine for Travelers,Texas,twhtpy
+1628,2020-05-09,Restaurant Limits,Nevada,czahakeu
+1629,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,rseua
+1630,2020-08-13,Large Gatherings Ban,North Dakota,cpjfwrn
+1631,2020-07-10,Large Gatherings Ban,Rhode Island,ybspuxb
+1632,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,irgwtald
+1633,2020-06-25,Stay at Home Order,New Mexico,qhntpaf
+1634,2020-10-01,Mandatory Quarantine for Travelers,Arizona,phscvqlgd
+1635,2020-04-30,Status of Reopening,Alabama,piovcja
+1636,2020-04-08,Restaurant Limits,South Carolina,czahakeu
+1637,2020-06-15,Non-Essential Business Closures,California,ndkkipwb
+1638,2020-06-22,Mandatory Quarantine for Travelers,Montana,zqoehi
+1639,2020-07-20,Status of Reopening,Wyoming,lalbxp
+1640,2020-08-27,Restaurant Limits,Colorado,ohdbk
+1641,2020-06-27,Non-Essential Business Closures,Arizona,blpejr
+1642,2020-05-02,Stay at Home Order,South Dakota,ndkkipwb
+1643,2020-07-30,Mandatory Quarantine for Travelers,Delaware,dblfh
+1644,2020-09-28,Restaurant Limits,Ohio,mbfjwy
+1645,2020-05-29,Stay at Home Order,Florida,vlyhre
+1646,2020-07-12,Restaurant Limits,Pennsylvania,nofem
+1647,2020-05-27,Non-Essential Business Closures,Georgia,ldiyqvofg
+1648,2020-04-30,Large Gatherings Ban,New York,xgpefedsa
+1649,2020-07-14,Restaurant Limits,California,nvnfzzc
+1650,2020-08-07,Non-Essential Business Closures,Massachusetts,fbtbvgepe
+1651,2020-04-02,Restaurant Limits,Hawaii,ydvtqxy
+1652,2020-09-28,Non-Essential Business Closures,Nebraska,rfjvvtuc
+1653,2020-06-20,Restaurant Limits,Montana,psivtfhh
+1654,2020-07-30,Restaurant Limits,Illinois,cxwjqu
+1655,2020-08-18,Restaurant Limits,Pennsylvania,gmylw
+1656,2020-05-04,Status of Reopening,Connecticut,pkhhhq
+1657,2020-09-18,Stay at Home Order,New Mexico,hiujeh
+1658,2020-06-20,Restaurant Limits,Hawaii,piovcja
+1659,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,ydvtqxy
+1660,2020-06-06,Stay at Home Order,New Hampshire,ohdbk
+1661,2020-06-18,Status of Reopening,Florida,bcyljofl
+1662,2020-07-25,Large Gatherings Ban,Idaho,mpdvpopa
+1663,2020-05-17,Restaurant Limits,Rhode Island,qpzdgam
+1664,2020-06-11,Large Gatherings Ban,California,onajodd
+1665,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,zmzvxy
+1666,2020-09-05,Non-Essential Business Closures,Missouri,jnqij
+1667,2020-09-14,Restaurant Limits,Iowa,uwzaanhs
+1668,2020-04-07,Stay at Home Order,Nevada,bjphdiar
+1669,2020-05-07,Restaurant Limits,Connecticut,xzwflsd
+1670,2020-09-08,Large Gatherings Ban,Alaska,swjgvyqm
+1671,2020-05-05,Non-Essential Business Closures,Virginia,siyfvoohi
+1672,2020-07-11,Non-Essential Business Closures,California,moxvu
+1673,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,xqsjlnyn
+1674,2020-08-14,Status of Reopening,West Virginia,phscvqlgd
+1675,2020-07-06,Stay at Home Order,Iowa,iztgagei
+1676,2020-09-18,Mandatory Quarantine for Travelers,Alaska,nxzijgbp
+1677,2020-09-05,Mandatory Quarantine for Travelers,Texas,twhtpy
+1678,2020-05-09,Restaurant Limits,Nevada,vmoga
+1679,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,usykgh
+1680,2020-08-13,Large Gatherings Ban,North Dakota,rtyzyeecd
+1681,2020-07-10,Large Gatherings Ban,Rhode Island,uzaaqup
+1682,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,mhglttlcr
+1683,2020-06-25,Stay at Home Order,New Mexico,ybspuxb
+1684,2020-10-01,Mandatory Quarantine for Travelers,Arizona,bcyljofl
+1685,2020-04-30,Status of Reopening,Alabama,tdzmeoupp
+1686,2020-04-08,Restaurant Limits,South Carolina,tkpaxfzq
+1687,2020-06-15,Non-Essential Business Closures,California,azvzoa
+1688,2020-06-22,Mandatory Quarantine for Travelers,Montana,dikmn
+1689,2020-07-20,Status of Reopening,Wyoming,ltquhmlti
+1690,2020-08-27,Restaurant Limits,Colorado,cyzmonh
+1691,2020-06-27,Non-Essential Business Closures,Arizona,dzgvfzz
+1692,2020-05-02,Stay at Home Order,South Dakota,orepyvmc
+1693,2020-07-30,Mandatory Quarantine for Travelers,Delaware,sdbsqvcqs
+1694,2020-09-28,Restaurant Limits,Ohio,kedacygmi
+1695,2020-05-29,Stay at Home Order,Florida,uzaaqup
+1696,2020-07-12,Restaurant Limits,Pennsylvania,xrpkexzc
+1697,2020-05-27,Non-Essential Business Closures,Georgia,gjgndyd
+1698,2020-04-30,Large Gatherings Ban,New York,mgljp
+1699,2020-07-14,Restaurant Limits,California,yerxuu
+1700,2020-08-07,Non-Essential Business Closures,Massachusetts,kdbxne
+1701,2020-04-02,Restaurant Limits,Hawaii,mabvjzzor
+1702,2020-09-28,Non-Essential Business Closures,Nebraska,wovwkrwhr
+1703,2020-06-20,Restaurant Limits,Montana,swjgvyqm
+1704,2020-07-30,Restaurant Limits,Illinois,tocnff
+1705,2020-08-18,Restaurant Limits,Pennsylvania,ynhdxa
+1706,2020-05-04,Status of Reopening,Connecticut,kbvybotu
+1707,2020-09-18,Stay at Home Order,New Mexico,bkfntg
+1708,2020-06-20,Restaurant Limits,Hawaii,nvnfzzc
+1709,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,qdjfbdum
+1710,2020-06-06,Stay at Home Order,New Hampshire,rxrgeckzc
+1711,2020-06-18,Status of Reopening,Florida,gjygdaq
+1712,2020-07-25,Large Gatherings Ban,Idaho,wbcehugc
+1713,2020-05-17,Restaurant Limits,Rhode Island,bcyljofl
+1714,2020-06-11,Large Gatherings Ban,California,kbvybotu
+1715,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,cvccqmrc
+1716,2020-09-05,Non-Essential Business Closures,Missouri,wxztzej
+1717,2020-09-14,Restaurant Limits,Iowa,ybspuxb
+1718,2020-04-07,Stay at Home Order,Nevada,piovcja
+1719,2020-05-07,Restaurant Limits,Connecticut,sovfygafs
+1720,2020-09-08,Large Gatherings Ban,Alaska,jnqij
+1721,2020-05-05,Non-Essential Business Closures,Virginia,vmoga
+1722,2020-07-11,Non-Essential Business Closures,California,blpejr
+1723,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ndkkipwb
+1724,2020-08-14,Status of Reopening,West Virginia,fxgkdjmev
+1725,2020-07-06,Stay at Home Order,Iowa,kedacygmi
+1726,2020-09-18,Mandatory Quarantine for Travelers,Alaska,wbcehugc
+1727,2020-09-05,Mandatory Quarantine for Travelers,Texas,thaknfgjo
+1728,2020-05-09,Restaurant Limits,Nevada,pqdyirohd
+1729,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,opweoqiv
+1730,2020-08-13,Large Gatherings Ban,North Dakota,twhtpy
+1731,2020-07-10,Large Gatherings Ban,Rhode Island,sovfygafs
+1732,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,epealfjru
+1733,2020-06-25,Stay at Home Order,New Mexico,lalbxp
+1734,2020-10-01,Mandatory Quarantine for Travelers,Arizona,uiyzjt
+1735,2020-04-30,Status of Reopening,Alabama,pkhhhq
+1736,2020-04-08,Restaurant Limits,South Carolina,siyfvoohi
+1737,2020-06-15,Non-Essential Business Closures,California,isazd
+1738,2020-06-22,Mandatory Quarantine for Travelers,Montana,qhntpaf
+1739,2020-07-20,Status of Reopening,Wyoming,cvbbem
+1740,2020-08-27,Restaurant Limits,Colorado,dikmn
+1741,2020-06-27,Non-Essential Business Closures,Arizona,vlyhre
+1742,2020-05-02,Stay at Home Order,South Dakota,wkborr
+1743,2020-07-30,Mandatory Quarantine for Travelers,Delaware,cvbbem
+1744,2020-09-28,Restaurant Limits,Ohio,fubehhu
+1745,2020-05-29,Stay at Home Order,Florida,dblfh
+1746,2020-07-12,Restaurant Limits,Pennsylvania,rloyg
+1747,2020-05-27,Non-Essential Business Closures,Georgia,epqwkjzn
+1748,2020-04-30,Large Gatherings Ban,New York,cyzmonh
+1749,2020-07-14,Restaurant Limits,California,phscvqlgd
+1750,2020-08-07,Non-Essential Business Closures,Massachusetts,cgbis
+1751,2020-04-02,Restaurant Limits,Hawaii,heyhbl
+1752,2020-09-28,Non-Essential Business Closures,Nebraska,jvfobuyi
+1753,2020-06-20,Restaurant Limits,Montana,bjphdiar
+1754,2020-07-30,Restaurant Limits,Illinois,wovwkrwhr
+1755,2020-08-18,Restaurant Limits,Pennsylvania,btylwxc
+1756,2020-05-04,Status of Reopening,Connecticut,qqipl
+1757,2020-09-18,Stay at Home Order,New Mexico,wbcehugc
+1758,2020-06-20,Restaurant Limits,Hawaii,moxvu
+1759,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,judabf
+1760,2020-06-06,Stay at Home Order,New Hampshire,jbnxa
+1761,2020-06-18,Status of Reopening,Florida,swxsv
+1762,2020-07-25,Large Gatherings Ban,Idaho,mneshh
+1763,2020-05-17,Restaurant Limits,Rhode Island,wovwkrwhr
+1764,2020-06-11,Large Gatherings Ban,California,heyhbl
+1765,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,qqipl
+1766,2020-09-05,Non-Essential Business Closures,Missouri,cniurxv
+1767,2020-09-14,Restaurant Limits,Iowa,judabf
+1768,2020-04-07,Stay at Home Order,Nevada,kmftllsnp
+1769,2020-05-07,Restaurant Limits,Connecticut,spjmtvy
+1770,2020-09-08,Large Gatherings Ban,Alaska,rloyg
+1771,2020-05-05,Non-Essential Business Closures,Virginia,zqoehi
+1772,2020-07-11,Non-Essential Business Closures,California,mdpnrdqjc
+1773,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,piovcja
+1774,2020-08-14,Status of Reopening,West Virginia,wxztzej
+1775,2020-07-06,Stay at Home Order,Iowa,irgwtald
+1776,2020-09-18,Mandatory Quarantine for Travelers,Alaska,ycvaedq
+1777,2020-09-05,Mandatory Quarantine for Travelers,Texas,cvbbem
+1778,2020-05-09,Restaurant Limits,Nevada,gpvvf
+1779,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,qvqkn
+1780,2020-08-13,Large Gatherings Ban,North Dakota,ybzsnnaew
+1781,2020-07-10,Large Gatherings Ban,Rhode Island,ybspuxb
+1782,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,asowo
+1783,2020-06-25,Stay at Home Order,New Mexico,kmftllsnp
+1784,2020-10-01,Mandatory Quarantine for Travelers,Arizona,kedacygmi
+1785,2020-04-30,Status of Reopening,Alabama,aiutsjbl
+1786,2020-04-08,Restaurant Limits,South Carolina,rxrgeckzc
+1787,2020-06-15,Non-Essential Business Closures,California,tbtbi
+1788,2020-06-22,Mandatory Quarantine for Travelers,Montana,xeccg
+1789,2020-07-20,Status of Reopening,Wyoming,ctpxvrny
+1790,2020-08-27,Restaurant Limits,Colorado,wjncso
+1791,2020-06-27,Non-Essential Business Closures,Arizona,rseua
+1792,2020-05-02,Stay at Home Order,South Dakota,twmetnyj
+1793,2020-07-30,Mandatory Quarantine for Travelers,Delaware,spjmtvy
+1794,2020-09-28,Restaurant Limits,Ohio,jvfobuyi
+1795,2020-05-29,Stay at Home Order,Florida,mneshh
+1796,2020-07-12,Restaurant Limits,Pennsylvania,yfwprmojp
+1797,2020-05-27,Non-Essential Business Closures,Georgia,adthvndl
+1798,2020-04-30,Large Gatherings Ban,New York,glqagidzq
+1799,2020-07-14,Restaurant Limits,California,gpozxuy
+1800,2020-08-07,Non-Essential Business Closures,Massachusetts,mdpnrdqjc
+1801,2020-04-02,Restaurant Limits,Hawaii,zoruamyn
+1802,2020-09-28,Non-Essential Business Closures,Nebraska,ybspuxb
+1803,2020-06-20,Restaurant Limits,Montana,cpjfwrn
+1804,2020-07-30,Restaurant Limits,Illinois,glqagidzq
+1805,2020-08-18,Restaurant Limits,Pennsylvania,xrpkexzc
+1806,2020-05-04,Status of Reopening,Connecticut,aixbu
+1807,2020-09-18,Stay at Home Order,New Mexico,phfqr
+1808,2020-06-20,Restaurant Limits,Hawaii,hrlfga
+1809,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,kmftllsnp
+1810,2020-06-06,Stay at Home Order,New Hampshire,zxncxhfp
+1811,2020-06-18,Status of Reopening,Florida,kkelwdcs
+1812,2020-07-25,Large Gatherings Ban,Idaho,wovwkrwhr
+1813,2020-05-17,Restaurant Limits,Rhode Island,eygeh
+1814,2020-06-11,Large Gatherings Ban,California,kbvybotu
+1815,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,gjygdaq
+1816,2020-09-05,Non-Essential Business Closures,Missouri,pfluqftg
+1817,2020-09-14,Restaurant Limits,Iowa,kzusvwveq
+1818,2020-04-07,Stay at Home Order,Nevada,tocnff
+1819,2020-05-07,Restaurant Limits,Connecticut,sovfygafs
+1820,2020-09-08,Large Gatherings Ban,Alaska,ctpxvrny
+1821,2020-05-05,Non-Essential Business Closures,Virginia,mabvjzzor
+1822,2020-07-11,Non-Essential Business Closures,California,kdbxne
+1823,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,dblfh
+1824,2020-08-14,Status of Reopening,West Virginia,sovfygafs
+1825,2020-07-06,Stay at Home Order,Iowa,jxvxcu
+1826,2020-09-18,Mandatory Quarantine for Travelers,Alaska,jvfobuyi
+1827,2020-09-05,Mandatory Quarantine for Travelers,Texas,ozebi
+1828,2020-05-09,Restaurant Limits,Nevada,gmylw
+1829,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,uwzaanhs
+1830,2020-08-13,Large Gatherings Ban,North Dakota,zxncxhfp
+1831,2020-07-10,Large Gatherings Ban,Rhode Island,xzwflsd
+1832,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,czahakeu
+1833,2020-06-25,Stay at Home Order,New Mexico,zqoehi
+1834,2020-10-01,Mandatory Quarantine for Travelers,Arizona,yfwprmojp
+1835,2020-04-30,Status of Reopening,Alabama,ozebi
+1836,2020-04-08,Restaurant Limits,South Carolina,fputxq
+1837,2020-06-15,Non-Essential Business Closures,California,glqagidzq
+1838,2020-06-22,Mandatory Quarantine for Travelers,Montana,nvnfzzc
+1839,2020-07-20,Status of Reopening,Wyoming,fubehhu
+1840,2020-08-27,Restaurant Limits,Colorado,ldiyqvofg
+1841,2020-06-27,Non-Essential Business Closures,Arizona,xgpefedsa
+1842,2020-05-02,Stay at Home Order,South Dakota,mgljp
+1843,2020-07-30,Mandatory Quarantine for Travelers,Delaware,sjrmmmvsr
+1844,2020-09-28,Restaurant Limits,Ohio,jvfobuyi
+1845,2020-05-29,Stay at Home Order,Florida,jbnxa
+1846,2020-07-12,Restaurant Limits,Pennsylvania,ctpvrfwp
+1847,2020-05-27,Non-Essential Business Closures,Georgia,xqsjlnyn
+1848,2020-04-30,Large Gatherings Ban,New York,iojjr
+1849,2020-07-14,Restaurant Limits,California,swxsv
+1850,2020-08-07,Non-Essential Business Closures,Massachusetts,ydvtqxy
+1851,2020-04-02,Restaurant Limits,Hawaii,qvqkn
+1852,2020-09-28,Non-Essential Business Closures,Nebraska,zxncxhfp
+1853,2020-06-20,Restaurant Limits,Montana,wxztzej
+1854,2020-07-30,Restaurant Limits,Illinois,xqsjlnyn
+1855,2020-08-18,Restaurant Limits,Pennsylvania,iztgagei
+1856,2020-05-04,Status of Reopening,Connecticut,fxgkdjmev
+1857,2020-09-18,Stay at Home Order,New Mexico,gmlsapza
+1858,2020-06-20,Restaurant Limits,Hawaii,slwhtlcpr
+1859,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,qqipl
+1860,2020-06-06,Stay at Home Order,New Hampshire,zmzvxy
+1861,2020-06-18,Status of Reopening,Florida,ozebi
+1862,2020-07-25,Large Gatherings Ban,Idaho,btylwxc
+1863,2020-05-17,Restaurant Limits,Rhode Island,cxwjqu
+1864,2020-06-11,Large Gatherings Ban,California,uqtvzz
+1865,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,fbpenqttm
+1866,2020-09-05,Non-Essential Business Closures,Missouri,pfwnr
+1867,2020-09-14,Restaurant Limits,Iowa,hiujeh
+1868,2020-04-07,Stay at Home Order,Nevada,ybzsnnaew
+1869,2020-05-07,Restaurant Limits,Connecticut,wjncso
+1870,2020-09-08,Large Gatherings Ban,Alaska,wjncso
+1871,2020-05-05,Non-Essential Business Closures,Virginia,cxghe
+1872,2020-07-11,Non-Essential Business Closures,California,kzusvwveq
+1873,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,wjudsi
+1874,2020-08-14,Status of Reopening,West Virginia,wjudsi
+1875,2020-07-06,Stay at Home Order,Iowa,cxwjqu
+1876,2020-09-18,Mandatory Quarantine for Travelers,Alaska,dikmn
+1877,2020-09-05,Mandatory Quarantine for Travelers,Texas,xeccg
+1878,2020-05-09,Restaurant Limits,Nevada,slysj
+1879,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,gmylw
+1880,2020-08-13,Large Gatherings Ban,North Dakota,orepyvmc
+1881,2020-07-10,Large Gatherings Ban,Rhode Island,yfwprmojp
+1882,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,spjmtvy
+1883,2020-06-25,Stay at Home Order,New Mexico,cvccqmrc
+1884,2020-10-01,Mandatory Quarantine for Travelers,Arizona,fputxq
+1885,2020-04-30,Status of Reopening,Alabama,mhglttlcr
+1886,2020-04-08,Restaurant Limits,South Carolina,kktggkh
+1887,2020-06-15,Non-Essential Business Closures,California,ortxwrs
+1888,2020-06-22,Mandatory Quarantine for Travelers,Montana,sdhacub
+1889,2020-07-20,Status of Reopening,Wyoming,asowo
+1890,2020-08-27,Restaurant Limits,Colorado,qpzdgam
+1891,2020-06-27,Non-Essential Business Closures,Arizona,ydvtqxy
+1892,2020-05-02,Stay at Home Order,South Dakota,mneshh
+1893,2020-07-30,Mandatory Quarantine for Travelers,Delaware,ctpxvrny
+1894,2020-09-28,Restaurant Limits,Ohio,vlyhre
+1895,2020-05-29,Stay at Home Order,Florida,hgykucnca
+1896,2020-07-12,Restaurant Limits,Pennsylvania,adthvndl
+1897,2020-05-27,Non-Essential Business Closures,Georgia,phscvqlgd
+1898,2020-04-30,Large Gatherings Ban,New York,ftmjep
+1899,2020-07-14,Restaurant Limits,California,mgljp
+1900,2020-08-07,Non-Essential Business Closures,Massachusetts,czrwhvek
+1901,2020-04-02,Restaurant Limits,Hawaii,nmyynf
+1902,2020-09-28,Non-Essential Business Closures,Nebraska,kktggkh
+1903,2020-06-20,Restaurant Limits,Montana,sdbsqvcqs
+1904,2020-07-30,Restaurant Limits,Illinois,wjudsi
+1905,2020-08-18,Restaurant Limits,Pennsylvania,gmlsapza
+1906,2020-05-04,Status of Reopening,Connecticut,itmoyzyo
+1907,2020-09-18,Stay at Home Order,New Mexico,tkpaxfzq
+1908,2020-06-20,Restaurant Limits,Hawaii,tocnff
+1909,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,qdjfbdum
+1910,2020-06-06,Stay at Home Order,New Hampshire,kwcfpob
+1911,2020-06-18,Status of Reopening,Florida,uwzaanhs
+1912,2020-07-25,Large Gatherings Ban,Idaho,dzgvfzz
+1913,2020-05-17,Restaurant Limits,Rhode Island,xrpkexzc
+1914,2020-06-11,Large Gatherings Ban,California,ydvtqxy
+1915,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,gjgndyd
+1916,2020-09-05,Non-Essential Business Closures,Missouri,zqoehi
+1917,2020-09-14,Restaurant Limits,Iowa,orepyvmc
+1918,2020-04-07,Stay at Home Order,Nevada,swjgvyqm
+1919,2020-05-07,Restaurant Limits,Connecticut,lshyh
+1920,2020-09-08,Large Gatherings Ban,Alaska,mhglttlcr
+1921,2020-05-05,Non-Essential Business Closures,Virginia,cxghe
+1922,2020-07-11,Non-Essential Business Closures,California,zmzvxy
+1923,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,slwhtlcpr
+1924,2020-08-14,Status of Reopening,West Virginia,snnnsa
+1925,2020-07-06,Stay at Home Order,Iowa,lrzmp
+1926,2020-09-18,Mandatory Quarantine for Travelers,Alaska,dzxutl
+1927,2020-09-05,Mandatory Quarantine for Travelers,Texas,ktqqr
+1928,2020-05-09,Restaurant Limits,Nevada,vlyhre
+1929,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,sjrmmmvsr
+1930,2020-08-13,Large Gatherings Ban,North Dakota,siyfvoohi
+1931,2020-07-10,Large Gatherings Ban,Rhode Island,ctdfmi
+1932,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,dzntp
+1933,2020-06-25,Stay at Home Order,New Mexico,eygeh
+1934,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ftmjep
+1935,2020-04-30,Status of Reopening,Alabama,cfjolp
+1936,2020-04-08,Restaurant Limits,South Carolina,xqsjlnyn
+1937,2020-06-15,Non-Essential Business Closures,California,nvnfzzc
+1938,2020-06-22,Mandatory Quarantine for Travelers,Montana,uzaaqup
+1939,2020-07-20,Status of Reopening,Wyoming,pkhhhq
+1940,2020-08-27,Restaurant Limits,Colorado,heyhbl
+1941,2020-06-27,Non-Essential Business Closures,Arizona,cgbis
+1942,2020-05-02,Stay at Home Order,South Dakota,yerxuu
+1943,2020-07-30,Mandatory Quarantine for Travelers,Delaware,ywsnpx
+1944,2020-09-28,Restaurant Limits,Ohio,pqdyirohd
+1945,2020-05-29,Stay at Home Order,Florida,dblfh
+1946,2020-07-12,Restaurant Limits,Pennsylvania,dblfh
+1947,2020-05-27,Non-Essential Business Closures,Georgia,ckafrdc
+1948,2020-04-30,Large Gatherings Ban,New York,yfwprmojp
+1949,2020-07-14,Restaurant Limits,California,cfjolp
+1950,2020-08-07,Non-Essential Business Closures,Massachusetts,btylwxc
+1951,2020-04-02,Restaurant Limits,Hawaii,honlxqdt
+1952,2020-09-28,Non-Essential Business Closures,Nebraska,qpzdgam
+1953,2020-06-20,Restaurant Limits,Montana,qdjfbdum
+1954,2020-07-30,Restaurant Limits,Illinois,tubqkldz
+1955,2020-08-18,Restaurant Limits,Pennsylvania,zcuezd
+1956,2020-05-04,Status of Reopening,Connecticut,ltquhmlti
+1957,2020-09-18,Stay at Home Order,New Mexico,usykgh
+1958,2020-06-20,Restaurant Limits,Hawaii,hgykucnca
+1959,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,psivtfhh
+1960,2020-06-06,Stay at Home Order,New Hampshire,qhntpaf
+1961,2020-06-18,Status of Reopening,Florida,ortxwrs
+1962,2020-07-25,Large Gatherings Ban,Idaho,pfwnr
+1963,2020-05-17,Restaurant Limits,Rhode Island,rseua
+1964,2020-06-11,Large Gatherings Ban,California,wovwkrwhr
+1965,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,dzxutl
+1966,2020-09-05,Non-Essential Business Closures,Missouri,bkfntg
+1967,2020-09-14,Restaurant Limits,Iowa,bkfntg
+1968,2020-04-07,Stay at Home Order,Nevada,dzgvfzz
+1969,2020-05-07,Restaurant Limits,Connecticut,swxsv
+1970,2020-09-08,Large Gatherings Ban,Alaska,swjgvyqm
+1971,2020-05-05,Non-Essential Business Closures,Virginia,azvzoa
+1972,2020-07-11,Non-Essential Business Closures,California,bkfntg
+1973,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,aixbu
+1974,2020-08-14,Status of Reopening,West Virginia,zxncxhfp
+1975,2020-07-06,Stay at Home Order,Iowa,ywsnpx
+1976,2020-09-18,Mandatory Quarantine for Travelers,Alaska,kkelwdcs
+1977,2020-09-05,Mandatory Quarantine for Travelers,Texas,xgpefedsa
+1978,2020-05-09,Restaurant Limits,Nevada,zcuezd
+1979,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,jvfobuyi
+1980,2020-08-13,Large Gatherings Ban,North Dakota,cgbis
+1981,2020-07-10,Large Gatherings Ban,Rhode Island,usykgh
+1982,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,cvbbem
+1983,2020-06-25,Stay at Home Order,New Mexico,zoruamyn
+1984,2020-10-01,Mandatory Quarantine for Travelers,Arizona,nvnfzzc
+1985,2020-04-30,Status of Reopening,Alabama,bkfntg
+1986,2020-04-08,Restaurant Limits,South Carolina,siyfvoohi
+1987,2020-06-15,Non-Essential Business Closures,California,nvnfzzc
+1988,2020-06-22,Mandatory Quarantine for Travelers,Montana,vmoga
+1989,2020-07-20,Status of Reopening,Wyoming,spjmtvy
+1990,2020-08-27,Restaurant Limits,Colorado,kdbxne
+1991,2020-06-27,Non-Essential Business Closures,Arizona,pfluqftg
+1992,2020-05-02,Stay at Home Order,South Dakota,wxnrabwfm
+1993,2020-07-30,Mandatory Quarantine for Travelers,Delaware,oyego
+1994,2020-09-28,Restaurant Limits,Ohio,wjncso
+1995,2020-05-29,Stay at Home Order,Florida,mznus
+1996,2020-07-12,Restaurant Limits,Pennsylvania,rafrwtuj
+1997,2020-05-27,Non-Essential Business Closures,Georgia,mdpnrdqjc
+1998,2020-04-30,Large Gatherings Ban,New York,vlyhre
+1999,2020-07-14,Restaurant Limits,California,spjmtvy
+2000,2020-08-07,Non-Essential Business Closures,Massachusetts,cniurxv
+2001,2020-04-02,Restaurant Limits,Hawaii,slwhtlcpr
+2002,2020-09-28,Non-Essential Business Closures,Nebraska,xeccg
+2003,2020-06-20,Restaurant Limits,Montana,ozebi
+2004,2020-07-30,Restaurant Limits,Illinois,ckafrdc
+2005,2020-08-18,Restaurant Limits,Pennsylvania,pfwnr
+2006,2020-05-04,Status of Reopening,Connecticut,wjncso
+2007,2020-09-18,Stay at Home Order,New Mexico,mpdvpopa
+2008,2020-06-20,Restaurant Limits,Hawaii,irgwtald
+2009,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,aiutsjbl
+2010,2020-06-06,Stay at Home Order,New Hampshire,aixbu
+2011,2020-06-18,Status of Reopening,Florida,smnpcwj
+2012,2020-07-25,Large Gatherings Ban,Idaho,zcuezd
+2013,2020-05-17,Restaurant Limits,Rhode Island,vceaav
+2014,2020-06-11,Large Gatherings Ban,California,ctpvrfwp
+2015,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,hiujeh
+2016,2020-09-05,Non-Essential Business Closures,Missouri,ybspuxb
+2017,2020-09-14,Restaurant Limits,Iowa,rseua
+2018,2020-04-07,Stay at Home Order,Nevada,uqtvzz
+2019,2020-05-07,Restaurant Limits,Connecticut,qpzdgam
+2020,2020-09-08,Large Gatherings Ban,Alaska,mboznhi
+2021,2020-05-05,Non-Essential Business Closures,Virginia,gpozxuy
+2022,2020-07-11,Non-Essential Business Closures,California,hgykucnca
+2023,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ctpxvrny
+2024,2020-08-14,Status of Reopening,West Virginia,tbtbi
+2025,2020-07-06,Stay at Home Order,Iowa,rloyg
+2026,2020-09-18,Mandatory Quarantine for Travelers,Alaska,pkhhhq
+2027,2020-09-05,Mandatory Quarantine for Travelers,Texas,opweoqiv
+2028,2020-05-09,Restaurant Limits,Nevada,dqstu
+2029,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,dzgvfzz
+2030,2020-08-13,Large Gatherings Ban,North Dakota,goxyl
+2031,2020-07-10,Large Gatherings Ban,Rhode Island,cqpqvld
+2032,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,fbtbvgepe
+2033,2020-06-25,Stay at Home Order,New Mexico,asowo
+2034,2020-10-01,Mandatory Quarantine for Travelers,Arizona,zmzvxy
+2035,2020-04-30,Status of Reopening,Alabama,cgbis
+2036,2020-04-08,Restaurant Limits,South Carolina,mbfjwy
+2037,2020-06-15,Non-Essential Business Closures,California,judabf
+2038,2020-06-22,Mandatory Quarantine for Travelers,Montana,cpjfwrn
+2039,2020-07-20,Status of Reopening,Wyoming,btylwxc
+2040,2020-08-27,Restaurant Limits,Colorado,jultq
+2041,2020-06-27,Non-Essential Business Closures,Arizona,uqtvzz
+2042,2020-05-02,Stay at Home Order,South Dakota,piovcja
+2043,2020-07-30,Mandatory Quarantine for Travelers,Delaware,epealfjru
+2044,2020-09-28,Restaurant Limits,Ohio,btylwxc
+2045,2020-05-29,Stay at Home Order,Florida,gpvvf
+2046,2020-07-12,Restaurant Limits,Pennsylvania,mznus
+2047,2020-05-27,Non-Essential Business Closures,Georgia,vceaav
+2048,2020-04-30,Large Gatherings Ban,New York,ybzsnnaew
+2049,2020-07-14,Restaurant Limits,California,ygfcxtab
+2050,2020-08-07,Non-Essential Business Closures,Massachusetts,pqdyirohd
+2051,2020-04-02,Restaurant Limits,Hawaii,aifaf
+2052,2020-09-28,Non-Essential Business Closures,Nebraska,mgljp
+2053,2020-06-20,Restaurant Limits,Montana,xgpefedsa
+2054,2020-07-30,Restaurant Limits,Illinois,ybzsnnaew
+2055,2020-08-18,Restaurant Limits,Pennsylvania,honlxqdt
+2056,2020-05-04,Status of Reopening,Connecticut,tubqkldz
+2057,2020-09-18,Stay at Home Order,New Mexico,kdbxne
+2058,2020-06-20,Restaurant Limits,Hawaii,zmzvxy
+2059,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,blpejr
+2060,2020-06-06,Stay at Home Order,New Hampshire,tubqkldz
+2061,2020-06-18,Status of Reopening,Florida,ortxwrs
+2062,2020-07-25,Large Gatherings Ban,Idaho,ynhdxa
+2063,2020-05-17,Restaurant Limits,Rhode Island,fbtbvgepe
+2064,2020-06-11,Large Gatherings Ban,California,epqwkjzn
+2065,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,pfwnr
+2066,2020-09-05,Non-Essential Business Closures,Missouri,vlyhre
+2067,2020-09-14,Restaurant Limits,Iowa,fbpenqttm
+2068,2020-04-07,Stay at Home Order,Nevada,heyhbl
+2069,2020-05-07,Restaurant Limits,Connecticut,epealfjru
+2070,2020-09-08,Large Gatherings Ban,Alaska,vceaav
+2071,2020-05-05,Non-Essential Business Closures,Virginia,cxwjqu
+2072,2020-07-11,Non-Essential Business Closures,California,xeccg
+2073,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ybspuxb
+2074,2020-08-14,Status of Reopening,West Virginia,gpvvf
+2075,2020-07-06,Stay at Home Order,Iowa,ckafrdc
+2076,2020-09-18,Mandatory Quarantine for Travelers,Alaska,piovcja
+2077,2020-09-05,Mandatory Quarantine for Travelers,Texas,swjgvyqm
+2078,2020-05-09,Restaurant Limits,Nevada,aiutsjbl
+2079,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,agwbamz
+2080,2020-08-13,Large Gatherings Ban,North Dakota,phfqr
+2081,2020-07-10,Large Gatherings Ban,Rhode Island,mgljp
+2082,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,moxvu
+2083,2020-06-25,Stay at Home Order,New Mexico,mznus
+2084,2020-10-01,Mandatory Quarantine for Travelers,Arizona,zoruamyn
+2085,2020-04-30,Status of Reopening,Alabama,zoruamyn
+2086,2020-04-08,Restaurant Limits,South Carolina,pqdyirohd
+2087,2020-06-15,Non-Essential Business Closures,California,ctpvrfwp
+2088,2020-06-22,Mandatory Quarantine for Travelers,Montana,ohdbk
+2089,2020-07-20,Status of Reopening,Wyoming,nfncjz
+2090,2020-08-27,Restaurant Limits,Colorado,cyzmonh
+2091,2020-06-27,Non-Essential Business Closures,Arizona,rloyg
+2092,2020-05-02,Stay at Home Order,South Dakota,zmzvxy
+2093,2020-07-30,Mandatory Quarantine for Travelers,Delaware,cfjolp
+2094,2020-09-28,Restaurant Limits,Ohio,phscvqlgd
+2095,2020-05-29,Stay at Home Order,Florida,cqpqvld
+2096,2020-07-12,Restaurant Limits,Pennsylvania,cxwjqu
+2097,2020-05-27,Non-Essential Business Closures,Georgia,cniurxv
+2098,2020-04-30,Large Gatherings Ban,New York,aiutsjbl
+2099,2020-07-14,Restaurant Limits,California,adthvndl
+2100,2020-08-07,Non-Essential Business Closures,Massachusetts,ktqqr
+2101,2020-04-02,Restaurant Limits,Hawaii,mdpnrdqjc
+2102,2020-09-28,Non-Essential Business Closures,Nebraska,qeydiiqtb
+2103,2020-06-20,Restaurant Limits,Montana,kktggkh
+2104,2020-07-30,Restaurant Limits,Illinois,ebolnx
+2105,2020-08-18,Restaurant Limits,Pennsylvania,iojjr
+2106,2020-05-04,Status of Reopening,Connecticut,cfjolp
+2107,2020-09-18,Stay at Home Order,New Mexico,mpdvpopa
+2108,2020-06-20,Restaurant Limits,Hawaii,tzfnlz
+2109,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,dzntp
+2110,2020-06-06,Stay at Home Order,New Hampshire,thaknfgjo
+2111,2020-06-18,Status of Reopening,Florida,lmdlbej
+2112,2020-07-25,Large Gatherings Ban,Idaho,iojjr
+2113,2020-05-17,Restaurant Limits,Rhode Island,ftmjep
+2114,2020-06-11,Large Gatherings Ban,California,twhtpy
+2115,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,smnpcwj
+2116,2020-09-05,Non-Essential Business Closures,Missouri,jnqij
+2117,2020-09-14,Restaurant Limits,Iowa,ctdfmi
+2118,2020-04-07,Stay at Home Order,Nevada,wbcehugc
+2119,2020-05-07,Restaurant Limits,Connecticut,hseya
+2120,2020-09-08,Large Gatherings Ban,Alaska,nxzijgbp
+2121,2020-05-05,Non-Essential Business Closures,Virginia,waitmklgf
+2122,2020-07-11,Non-Essential Business Closures,California,rmouvpcqh
+2123,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,cvbbem
+2124,2020-08-14,Status of Reopening,West Virginia,wovwkrwhr
+2125,2020-07-06,Stay at Home Order,Iowa,slwhtlcpr
+2126,2020-09-18,Mandatory Quarantine for Travelers,Alaska,swjgvyqm
+2127,2020-09-05,Mandatory Quarantine for Travelers,Texas,ctpvrfwp
+2128,2020-05-09,Restaurant Limits,Nevada,fxgkdjmev
+2129,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,adthvndl
+2130,2020-08-13,Large Gatherings Ban,North Dakota,jbnxa
+2131,2020-07-10,Large Gatherings Ban,Rhode Island,isazd
+2132,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,oyego
+2133,2020-06-25,Stay at Home Order,New Mexico,dikmn
+2134,2020-10-01,Mandatory Quarantine for Travelers,Arizona,bkfntg
+2135,2020-04-30,Status of Reopening,Alabama,qqipl
+2136,2020-04-08,Restaurant Limits,South Carolina,tbtbi
+2137,2020-06-15,Non-Essential Business Closures,California,ihoyarv
+2138,2020-06-22,Mandatory Quarantine for Travelers,Montana,cpjfwrn
+2139,2020-07-20,Status of Reopening,Wyoming,moxvu
+2140,2020-08-27,Restaurant Limits,Colorado,xrpkexzc
+2141,2020-06-27,Non-Essential Business Closures,Arizona,hzqtjx
+2142,2020-05-02,Stay at Home Order,South Dakota,dqstu
+2143,2020-07-30,Mandatory Quarantine for Travelers,Delaware,uiyzjt
+2144,2020-09-28,Restaurant Limits,Ohio,dzntp
+2145,2020-05-29,Stay at Home Order,Florida,epqwkjzn
+2146,2020-07-12,Restaurant Limits,Pennsylvania,epealfjru
+2147,2020-05-27,Non-Essential Business Closures,Georgia,ywsnpx
+2148,2020-04-30,Large Gatherings Ban,New York,iztgagei
+2149,2020-07-14,Restaurant Limits,California,psivtfhh
+2150,2020-08-07,Non-Essential Business Closures,Massachusetts,fxgkdjmev
+2151,2020-04-02,Restaurant Limits,Hawaii,mdpnrdqjc
+2152,2020-09-28,Non-Essential Business Closures,Nebraska,jnqij
+2153,2020-06-20,Restaurant Limits,Montana,ftmjep
+2154,2020-07-30,Restaurant Limits,Illinois,jnqij
+2155,2020-08-18,Restaurant Limits,Pennsylvania,fubehhu
+2156,2020-05-04,Status of Reopening,Connecticut,qdjfbdum
+2157,2020-09-18,Stay at Home Order,New Mexico,aiutsjbl
+2158,2020-06-20,Restaurant Limits,Hawaii,fbtbvgepe
+2159,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,siyfvoohi
+2160,2020-06-06,Stay at Home Order,New Hampshire,ygfcxtab
+2161,2020-06-18,Status of Reopening,Florida,lrzmp
+2162,2020-07-25,Large Gatherings Ban,Idaho,sdbsqvcqs
+2163,2020-05-17,Restaurant Limits,Rhode Island,rafrwtuj
+2164,2020-06-11,Large Gatherings Ban,California,mznus
+2165,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,ctdfmi
+2166,2020-09-05,Non-Essential Business Closures,Missouri,gpozxuy
+2167,2020-09-14,Restaurant Limits,Iowa,zqoehi
+2168,2020-04-07,Stay at Home Order,Nevada,zoruamyn
+2169,2020-05-07,Restaurant Limits,Connecticut,ozebi
+2170,2020-09-08,Large Gatherings Ban,Alaska,iztgagei
+2171,2020-05-05,Non-Essential Business Closures,Virginia,mybugf
+2172,2020-07-11,Non-Essential Business Closures,California,heyhbl
+2173,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,cvccqmrc
+2174,2020-08-14,Status of Reopening,West Virginia,kzusvwveq
+2175,2020-07-06,Stay at Home Order,Iowa,fagoup
+2176,2020-09-18,Mandatory Quarantine for Travelers,Alaska,wkborr
+2177,2020-09-05,Mandatory Quarantine for Travelers,Texas,dzgvfzz
+2178,2020-05-09,Restaurant Limits,Nevada,wsfhwudy
+2179,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,lrzmp
+2180,2020-08-13,Large Gatherings Ban,North Dakota,slwhtlcpr
+2181,2020-07-10,Large Gatherings Ban,Rhode Island,kwcfpob
+2182,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,zmzvxy
+2183,2020-06-25,Stay at Home Order,New Mexico,nvnfzzc
+2184,2020-10-01,Mandatory Quarantine for Travelers,Arizona,hiujeh
+2185,2020-04-30,Status of Reopening,Alabama,gmlsapza
+2186,2020-04-08,Restaurant Limits,South Carolina,snnnsa
+2187,2020-06-15,Non-Essential Business Closures,California,cniurxv
+2188,2020-06-22,Mandatory Quarantine for Travelers,Montana,jultq
+2189,2020-07-20,Status of Reopening,Wyoming,sjrmmmvsr
+2190,2020-08-27,Restaurant Limits,Colorado,wkborr
+2191,2020-06-27,Non-Essential Business Closures,Arizona,tndagv
+2192,2020-05-02,Stay at Home Order,South Dakota,jxvxcu
+2193,2020-07-30,Mandatory Quarantine for Travelers,Delaware,jvfobuyi
+2194,2020-09-28,Restaurant Limits,Ohio,zxncxhfp
+2195,2020-05-29,Stay at Home Order,Florida,ispix
+2196,2020-07-12,Restaurant Limits,Pennsylvania,kktggkh
+2197,2020-05-27,Non-Essential Business Closures,Georgia,wjudsi
+2198,2020-04-30,Large Gatherings Ban,New York,irlanzxsw
+2199,2020-07-14,Restaurant Limits,California,slwhtlcpr
+2200,2020-08-07,Non-Essential Business Closures,Massachusetts,lshyh
+2201,2020-04-02,Restaurant Limits,Hawaii,tkpaxfzq
+2202,2020-09-28,Non-Essential Business Closures,Nebraska,ctpvrfwp
+2203,2020-06-20,Restaurant Limits,Montana,lshyh
+2204,2020-07-30,Restaurant Limits,Illinois,spjmtvy
+2205,2020-08-18,Restaurant Limits,Pennsylvania,asowo
+2206,2020-05-04,Status of Reopening,Connecticut,xgpefedsa
+2207,2020-09-18,Stay at Home Order,New Mexico,psivtfhh
+2208,2020-06-20,Restaurant Limits,Hawaii,epealfjru
+2209,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,qeydiiqtb
+2210,2020-06-06,Stay at Home Order,New Hampshire,lmdlbej
+2211,2020-06-18,Status of Reopening,Florida,gpvvf
+2212,2020-07-25,Large Gatherings Ban,Idaho,aifaf
+2213,2020-05-17,Restaurant Limits,Rhode Island,ybzsnnaew
+2214,2020-06-11,Large Gatherings Ban,California,qpzdgam
+2215,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,siyfvoohi
+2216,2020-09-05,Non-Essential Business Closures,Missouri,rtyzyeecd
+2217,2020-09-14,Restaurant Limits,Iowa,dkjrlfyx
+2218,2020-04-07,Stay at Home Order,Nevada,aifaf
+2219,2020-05-07,Restaurant Limits,Connecticut,wxztzej
+2220,2020-09-08,Large Gatherings Ban,Alaska,iljakqa
+2221,2020-05-05,Non-Essential Business Closures,Virginia,nvnfzzc
+2222,2020-07-11,Non-Essential Business Closures,California,rmouvpcqh
+2223,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,gjgcws
+2224,2020-08-14,Status of Reopening,West Virginia,uzaaqup
+2225,2020-07-06,Stay at Home Order,Iowa,snnnsa
+2226,2020-09-18,Mandatory Quarantine for Travelers,Alaska,ebolnx
+2227,2020-09-05,Mandatory Quarantine for Travelers,Texas,rxrgeckzc
+2228,2020-05-09,Restaurant Limits,Nevada,xqsjlnyn
+2229,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,ygfcxtab
+2230,2020-08-13,Large Gatherings Ban,North Dakota,twhtpy
+2231,2020-07-10,Large Gatherings Ban,Rhode Island,dzntp
+2232,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,rxrgeckzc
+2233,2020-06-25,Stay at Home Order,New Mexico,ispix
+2234,2020-10-01,Mandatory Quarantine for Travelers,Arizona,kkelwdcs
+2235,2020-04-30,Status of Reopening,Alabama,ihoyarv
+2236,2020-04-08,Restaurant Limits,South Carolina,gmylw
+2237,2020-06-15,Non-Essential Business Closures,California,mneshh
+2238,2020-06-22,Mandatory Quarantine for Travelers,Montana,fxgkdjmev
+2239,2020-07-20,Status of Reopening,Wyoming,mbfjwy
+2240,2020-08-27,Restaurant Limits,Colorado,uwzaanhs
+2241,2020-06-27,Non-Essential Business Closures,Arizona,rafrwtuj
+2242,2020-05-02,Stay at Home Order,South Dakota,uzaaqup
+2243,2020-07-30,Mandatory Quarantine for Travelers,Delaware,oyego
+2244,2020-09-28,Restaurant Limits,Ohio,zmzvxy
+2245,2020-05-29,Stay at Home Order,Florida,ftmjep
+2246,2020-07-12,Restaurant Limits,Pennsylvania,fagoup
+2247,2020-05-27,Non-Essential Business Closures,Georgia,piovcja
+2248,2020-04-30,Large Gatherings Ban,New York,pfwnr
+2249,2020-07-14,Restaurant Limits,California,cniurxv
+2250,2020-08-07,Non-Essential Business Closures,Massachusetts,xrpkexzc
+2251,2020-04-02,Restaurant Limits,Hawaii,nxzijgbp
+2252,2020-09-28,Non-Essential Business Closures,Nebraska,lmdlbej
+2253,2020-06-20,Restaurant Limits,Montana,uzaaqup
+2254,2020-07-30,Restaurant Limits,Illinois,swjgvyqm
+2255,2020-08-18,Restaurant Limits,Pennsylvania,kzusvwveq
+2256,2020-05-04,Status of Reopening,Connecticut,isazd
+2257,2020-09-18,Stay at Home Order,New Mexico,ctdfmi
+2258,2020-06-20,Restaurant Limits,Hawaii,zoruamyn
+2259,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,dqstu
+2260,2020-06-06,Stay at Home Order,New Hampshire,qpzdgam
+2261,2020-06-18,Status of Reopening,Florida,hrlfga
+2262,2020-07-25,Large Gatherings Ban,Idaho,slwhtlcpr
+2263,2020-05-17,Restaurant Limits,Rhode Island,iztgagei
+2264,2020-06-11,Large Gatherings Ban,California,ndkkipwb
+2265,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,vlyhre
+2266,2020-09-05,Non-Essential Business Closures,Missouri,usykgh
+2267,2020-09-14,Restaurant Limits,Iowa,fbtbvgepe
+2268,2020-04-07,Stay at Home Order,Nevada,oyego
+2269,2020-05-07,Restaurant Limits,Connecticut,mboznhi
+2270,2020-09-08,Large Gatherings Ban,Alaska,zoruamyn
+2271,2020-05-05,Non-Essential Business Closures,Virginia,xrpkexzc
+2272,2020-07-11,Non-Essential Business Closures,California,jxvxcu
+2273,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,qvqkn
+2274,2020-08-14,Status of Reopening,West Virginia,phscvqlgd
+2275,2020-07-06,Stay at Home Order,Iowa,fbtbvgepe
+2276,2020-09-18,Mandatory Quarantine for Travelers,Alaska,azvzoa
+2277,2020-09-05,Mandatory Quarantine for Travelers,Texas,xgpefedsa
+2278,2020-05-09,Restaurant Limits,Nevada,cvccqmrc
+2279,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,zxncxhfp
+2280,2020-08-13,Large Gatherings Ban,North Dakota,vbziyaqd
+2281,2020-07-10,Large Gatherings Ban,Rhode Island,mbfjwy
+2282,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,nxzijgbp
+2283,2020-06-25,Stay at Home Order,New Mexico,sjrmmmvsr
+2284,2020-10-01,Mandatory Quarantine for Travelers,Arizona,wjudsi
+2285,2020-04-30,Status of Reopening,Alabama,ydvtqxy
+2286,2020-04-08,Restaurant Limits,South Carolina,cqpqvld
+2287,2020-06-15,Non-Essential Business Closures,California,rafrwtuj
+2288,2020-06-22,Mandatory Quarantine for Travelers,Montana,mbfjwy
+2289,2020-07-20,Status of Reopening,Wyoming,twmetnyj
+2290,2020-08-27,Restaurant Limits,Colorado,pfluqftg
+2291,2020-06-27,Non-Essential Business Closures,Arizona,zmzvxy
+2292,2020-05-02,Stay at Home Order,South Dakota,wbcehugc
+2293,2020-07-30,Mandatory Quarantine for Travelers,Delaware,bcyljofl
+2294,2020-09-28,Restaurant Limits,Ohio,irgwtald
+2295,2020-05-29,Stay at Home Order,Florida,ywsnpx
+2296,2020-07-12,Restaurant Limits,Pennsylvania,dqstu
+2297,2020-05-27,Non-Essential Business Closures,Georgia,kedacygmi
+2298,2020-04-30,Large Gatherings Ban,New York,jultq
+2299,2020-07-14,Restaurant Limits,California,bjphdiar
+2300,2020-08-07,Non-Essential Business Closures,Massachusetts,blpejr
+2301,2020-04-02,Restaurant Limits,Hawaii,goxyl
+2302,2020-09-28,Non-Essential Business Closures,Nebraska,aixbu
+2303,2020-06-20,Restaurant Limits,Montana,sdbsqvcqs
+2304,2020-07-30,Restaurant Limits,Illinois,ltquhmlti
+2305,2020-08-18,Restaurant Limits,Pennsylvania,phscvqlgd
+2306,2020-05-04,Status of Reopening,Connecticut,opweoqiv
+2307,2020-09-18,Stay at Home Order,New Mexico,iljakqa
+2308,2020-06-20,Restaurant Limits,Hawaii,rafrwtuj
+2309,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,jxvxcu
+2310,2020-06-06,Stay at Home Order,New Hampshire,gjgndyd
+2311,2020-06-18,Status of Reopening,Florida,oyego
+2312,2020-07-25,Large Gatherings Ban,Idaho,heyhbl
+2313,2020-05-17,Restaurant Limits,Rhode Island,piovcja
+2314,2020-06-11,Large Gatherings Ban,California,dikmn
+2315,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,fbtbvgepe
+2316,2020-09-05,Non-Essential Business Closures,Missouri,rfjvvtuc
+2317,2020-09-14,Restaurant Limits,Iowa,gjygdaq
+2318,2020-04-07,Stay at Home Order,Nevada,fputxq
+2319,2020-05-07,Restaurant Limits,Connecticut,vceaav
+2320,2020-09-08,Large Gatherings Ban,Alaska,qvqkn
+2321,2020-05-05,Non-Essential Business Closures,Virginia,tbtbi
+2322,2020-07-11,Non-Essential Business Closures,California,itmoyzyo
+2323,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,uzaaqup
+2324,2020-08-14,Status of Reopening,West Virginia,waitmklgf
+2325,2020-07-06,Stay at Home Order,Iowa,ydvtqxy
+2326,2020-09-18,Mandatory Quarantine for Travelers,Alaska,jultq
+2327,2020-09-05,Mandatory Quarantine for Travelers,Texas,ihoyarv
+2328,2020-05-09,Restaurant Limits,Nevada,pfluqftg
+2329,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,azvzoa
+2330,2020-08-13,Large Gatherings Ban,North Dakota,tdzmeoupp
+2331,2020-07-10,Large Gatherings Ban,Rhode Island,ihoyarv
+2332,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ybzsnnaew
+2333,2020-06-25,Stay at Home Order,New Mexico,rloyg
+2334,2020-10-01,Mandatory Quarantine for Travelers,Arizona,kbvybotu
+2335,2020-04-30,Status of Reopening,Alabama,cfjolp
+2336,2020-04-08,Restaurant Limits,South Carolina,ltquhmlti
+2337,2020-06-15,Non-Essential Business Closures,California,evcrzxovq
+2338,2020-06-22,Mandatory Quarantine for Travelers,Montana,tdzmeoupp
+2339,2020-07-20,Status of Reopening,Wyoming,czahakeu
+2340,2020-08-27,Restaurant Limits,Colorado,phfqr
+2341,2020-06-27,Non-Essential Business Closures,Arizona,cvbbem
+2342,2020-05-02,Stay at Home Order,South Dakota,sovfygafs
+2343,2020-07-30,Mandatory Quarantine for Travelers,Delaware,mhglttlcr
+2344,2020-09-28,Restaurant Limits,Ohio,swxsv
+2345,2020-05-29,Stay at Home Order,Florida,twmetnyj
+2346,2020-07-12,Restaurant Limits,Pennsylvania,thaknfgjo
+2347,2020-05-27,Non-Essential Business Closures,Georgia,iljakqa
+2348,2020-04-30,Large Gatherings Ban,New York,lmdlbej
+2349,2020-07-14,Restaurant Limits,California,xzwflsd
+2350,2020-08-07,Non-Essential Business Closures,Massachusetts,czahakeu
+2351,2020-04-02,Restaurant Limits,Hawaii,wjudsi
+2352,2020-09-28,Non-Essential Business Closures,Nebraska,fbpenqttm
+2353,2020-06-20,Restaurant Limits,Montana,aifaf
+2354,2020-07-30,Restaurant Limits,Illinois,ynhdxa
+2355,2020-08-18,Restaurant Limits,Pennsylvania,heyhbl
+2356,2020-05-04,Status of Reopening,Connecticut,gpozxuy
+2357,2020-09-18,Stay at Home Order,New Mexico,uiyzjt
+2358,2020-06-20,Restaurant Limits,Hawaii,pkhhhq
+2359,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,pqdyirohd
+2360,2020-06-06,Stay at Home Order,New Hampshire,vceaav
+2361,2020-06-18,Status of Reopening,Florida,vceaav
+2362,2020-07-25,Large Gatherings Ban,Idaho,ndkkipwb
+2363,2020-05-17,Restaurant Limits,Rhode Island,rtyzyeecd
+2364,2020-06-11,Large Gatherings Ban,California,smnpcwj
+2365,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,tzfnlz
+2366,2020-09-05,Non-Essential Business Closures,Missouri,siyfvoohi
+2367,2020-09-14,Restaurant Limits,Iowa,tkpaxfzq
+2368,2020-04-07,Stay at Home Order,Nevada,hiujeh
+2369,2020-05-07,Restaurant Limits,Connecticut,qpzdgam
+2370,2020-09-08,Large Gatherings Ban,Alaska,vlyhre
+2371,2020-05-05,Non-Essential Business Closures,Virginia,gpozxuy
+2372,2020-07-11,Non-Essential Business Closures,California,qrpvgaxl
+2373,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,kkelwdcs
+2374,2020-08-14,Status of Reopening,West Virginia,opweoqiv
+2375,2020-07-06,Stay at Home Order,Iowa,jxvxcu
+2376,2020-09-18,Mandatory Quarantine for Travelers,Alaska,tbtbi
+2377,2020-09-05,Mandatory Quarantine for Travelers,Texas,agwbamz
+2378,2020-05-09,Restaurant Limits,Nevada,phscvqlgd
+2379,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,fbpenqttm
+2380,2020-08-13,Large Gatherings Ban,North Dakota,tocnff
+2381,2020-07-10,Large Gatherings Ban,Rhode Island,lmdlbej
+2382,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,lalbxp
+2383,2020-06-25,Stay at Home Order,New Mexico,mbfjwy
+2384,2020-10-01,Mandatory Quarantine for Travelers,Arizona,epqwkjzn
+2385,2020-04-30,Status of Reopening,Alabama,lalbxp
+2386,2020-04-08,Restaurant Limits,South Carolina,usykgh
+2387,2020-06-15,Non-Essential Business Closures,California,slysj
+2388,2020-06-22,Mandatory Quarantine for Travelers,Montana,gjgndyd
+2389,2020-07-20,Status of Reopening,Wyoming,bkfntg
+2390,2020-08-27,Restaurant Limits,Colorado,ygfcxtab
+2391,2020-06-27,Non-Essential Business Closures,Arizona,tbtbi
+2392,2020-05-02,Stay at Home Order,South Dakota,gjygdaq
+2393,2020-07-30,Mandatory Quarantine for Travelers,Delaware,gjgndyd
+2394,2020-09-28,Restaurant Limits,Ohio,yerxuu
+2395,2020-05-29,Stay at Home Order,Florida,siyfvoohi
+2396,2020-07-12,Restaurant Limits,Pennsylvania,bcyljofl
+2397,2020-05-27,Non-Essential Business Closures,Georgia,cgbis
+2398,2020-04-30,Large Gatherings Ban,New York,uwzaanhs
+2399,2020-07-14,Restaurant Limits,California,nvnfzzc
+2400,2020-08-07,Non-Essential Business Closures,Massachusetts,dblfh
+2401,2020-04-02,Restaurant Limits,Hawaii,gjgndyd
+2402,2020-09-28,Non-Essential Business Closures,Nebraska,cvccqmrc
+2403,2020-06-20,Restaurant Limits,Montana,jultq
+2404,2020-07-30,Restaurant Limits,Illinois,xqsjlnyn
+2405,2020-08-18,Restaurant Limits,Pennsylvania,irlanzxsw
+2406,2020-05-04,Status of Reopening,Connecticut,piovcja
+2407,2020-09-18,Stay at Home Order,New Mexico,wovwkrwhr
+2408,2020-06-20,Restaurant Limits,Hawaii,goxyl
+2409,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,jvfobuyi
+2410,2020-06-06,Stay at Home Order,New Hampshire,hseya
+2411,2020-06-18,Status of Reopening,Florida,ktqqr
+2412,2020-07-25,Large Gatherings Ban,Idaho,dkjrlfyx
+2413,2020-05-17,Restaurant Limits,Rhode Island,ctdfmi
+2414,2020-06-11,Large Gatherings Ban,California,wkborr
+2415,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,ortxwrs
+2416,2020-09-05,Non-Essential Business Closures,Missouri,jbnxa
+2417,2020-09-14,Restaurant Limits,Iowa,irlanzxsw
+2418,2020-04-07,Stay at Home Order,Nevada,gjgndyd
+2419,2020-05-07,Restaurant Limits,Connecticut,heyhbl
+2420,2020-09-08,Large Gatherings Ban,Alaska,czahakeu
+2421,2020-05-05,Non-Essential Business Closures,Virginia,rtyzyeecd
+2422,2020-07-11,Non-Essential Business Closures,California,lnoqfd
+2423,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,honlxqdt
+2424,2020-08-14,Status of Reopening,West Virginia,vbziyaqd
+2425,2020-07-06,Stay at Home Order,Iowa,cgbis
+2426,2020-09-18,Mandatory Quarantine for Travelers,Alaska,vceaav
+2427,2020-09-05,Mandatory Quarantine for Travelers,Texas,jultq
+2428,2020-05-09,Restaurant Limits,Nevada,cniurxv
+2429,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,cpjfwrn
+2430,2020-08-13,Large Gatherings Ban,North Dakota,mdpnrdqjc
+2431,2020-07-10,Large Gatherings Ban,Rhode Island,snnnsa
+2432,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ldiyqvofg
+2433,2020-06-25,Stay at Home Order,New Mexico,yerxuu
+2434,2020-10-01,Mandatory Quarantine for Travelers,Arizona,uqtvzz
+2435,2020-04-30,Status of Reopening,Alabama,uiyzjt
+2436,2020-04-08,Restaurant Limits,South Carolina,moxvu
+2437,2020-06-15,Non-Essential Business Closures,California,uiyzjt
+2438,2020-06-22,Mandatory Quarantine for Travelers,Montana,kkelwdcs
+2439,2020-07-20,Status of Reopening,Wyoming,rmouvpcqh
+2440,2020-08-27,Restaurant Limits,Colorado,glqagidzq
+2441,2020-06-27,Non-Essential Business Closures,Arizona,jultq
+2442,2020-05-02,Stay at Home Order,South Dakota,cxghe
+2443,2020-07-30,Mandatory Quarantine for Travelers,Delaware,cvccqmrc
+2444,2020-09-28,Restaurant Limits,Ohio,kwcfpob
+2445,2020-05-29,Stay at Home Order,Florida,gjgndyd
+2446,2020-07-12,Restaurant Limits,Pennsylvania,smnpcwj
+2447,2020-05-27,Non-Essential Business Closures,Georgia,jultq
+2448,2020-04-30,Large Gatherings Ban,New York,aixbu
+2449,2020-07-14,Restaurant Limits,California,adthvndl
+2450,2020-08-07,Non-Essential Business Closures,Massachusetts,rseua
+2451,2020-04-02,Restaurant Limits,Hawaii,tzfnlz
+2452,2020-09-28,Non-Essential Business Closures,Nebraska,rfjvvtuc
+2453,2020-06-20,Restaurant Limits,Montana,fxgkdjmev
+2454,2020-07-30,Restaurant Limits,Illinois,yerxuu
+2455,2020-08-18,Restaurant Limits,Pennsylvania,cpjfwrn
+2456,2020-05-04,Status of Reopening,Connecticut,mznus
+2457,2020-09-18,Stay at Home Order,New Mexico,fubehhu
+2458,2020-06-20,Restaurant Limits,Hawaii,jnqij
+2459,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,opweoqiv
+2460,2020-06-06,Stay at Home Order,New Hampshire,piovcja
+2461,2020-06-18,Status of Reopening,Florida,bkfntg
+2462,2020-07-25,Large Gatherings Ban,Idaho,irgwtald
+2463,2020-05-17,Restaurant Limits,Rhode Island,dqstu
+2464,2020-06-11,Large Gatherings Ban,California,usykgh
+2465,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,swxsv
+2466,2020-09-05,Non-Essential Business Closures,Missouri,twmetnyj
+2467,2020-09-14,Restaurant Limits,Iowa,gjgcws
+2468,2020-04-07,Stay at Home Order,Nevada,glqagidzq
+2469,2020-05-07,Restaurant Limits,Connecticut,hseya
+2470,2020-09-08,Large Gatherings Ban,Alaska,iojjr
+2471,2020-05-05,Non-Essential Business Closures,Virginia,gjygdaq
+2472,2020-07-11,Non-Essential Business Closures,California,heyhbl
+2473,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,ihoyarv
+2474,2020-08-14,Status of Reopening,West Virginia,ctpvrfwp
+2475,2020-07-06,Stay at Home Order,Iowa,sovfygafs
+2476,2020-09-18,Mandatory Quarantine for Travelers,Alaska,fputxq
+2477,2020-09-05,Mandatory Quarantine for Travelers,Texas,gjygdaq
+2478,2020-05-09,Restaurant Limits,Nevada,hseya
+2479,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,ispix
+2480,2020-08-13,Large Gatherings Ban,North Dakota,lalbxp
+2481,2020-07-10,Large Gatherings Ban,Rhode Island,goxyl
+2482,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ndkkipwb
+2483,2020-06-25,Stay at Home Order,New Mexico,mdpnrdqjc
+2484,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ctpxvrny
+2485,2020-04-30,Status of Reopening,Alabama,kbvybotu
+2486,2020-04-08,Restaurant Limits,South Carolina,yfwprmojp
+2487,2020-06-15,Non-Essential Business Closures,California,fagoup
+2488,2020-06-22,Mandatory Quarantine for Travelers,Montana,rloyg
+2489,2020-07-20,Status of Reopening,Wyoming,xrpkexzc
+2490,2020-08-27,Restaurant Limits,Colorado,qeydiiqtb
+2491,2020-06-27,Non-Essential Business Closures,Arizona,qqipl
+2492,2020-05-02,Stay at Home Order,South Dakota,fxgkdjmev
+2493,2020-07-30,Mandatory Quarantine for Travelers,Delaware,aixbu
+2494,2020-09-28,Restaurant Limits,Ohio,spjmtvy
+2495,2020-05-29,Stay at Home Order,Florida,iojjr
+2496,2020-07-12,Restaurant Limits,Pennsylvania,dzntp
+2497,2020-05-27,Non-Essential Business Closures,Georgia,irgwtald
+2498,2020-04-30,Large Gatherings Ban,New York,qeydiiqtb
+2499,2020-07-14,Restaurant Limits,California,gmylw
+2500,2020-08-07,Non-Essential Business Closures,Massachusetts,eygeh
+2501,2020-04-02,Restaurant Limits,Hawaii,evcrzxovq
+2502,2020-09-28,Non-Essential Business Closures,Nebraska,zqoehi
+2503,2020-06-20,Restaurant Limits,Montana,goxyl
+2504,2020-07-30,Restaurant Limits,Illinois,xrpkexzc
+2505,2020-08-18,Restaurant Limits,Pennsylvania,cfjolp
+2506,2020-05-04,Status of Reopening,Connecticut,fbtbvgepe
+2507,2020-09-18,Stay at Home Order,New Mexico,opweoqiv
+2508,2020-06-20,Restaurant Limits,Hawaii,hgykucnca
+2509,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,cpjfwrn
+2510,2020-06-06,Stay at Home Order,New Hampshire,nvnfzzc
+2511,2020-06-18,Status of Reopening,Florida,qdjfbdum
+2512,2020-07-25,Large Gatherings Ban,Idaho,ctdfmi
+2513,2020-05-17,Restaurant Limits,Rhode Island,judabf
+2514,2020-06-11,Large Gatherings Ban,California,ynhdxa
+2515,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,nxzijgbp
+2516,2020-09-05,Non-Essential Business Closures,Missouri,cxghe
+2517,2020-09-14,Restaurant Limits,Iowa,qpzdgam
+2518,2020-04-07,Stay at Home Order,Nevada,hseya
+2519,2020-05-07,Restaurant Limits,Connecticut,aiutsjbl
+2520,2020-09-08,Large Gatherings Ban,Alaska,opweoqiv
+2521,2020-05-05,Non-Essential Business Closures,Virginia,wsfhwudy
+2522,2020-07-11,Non-Essential Business Closures,California,swjgvyqm
+2523,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,sovfygafs
+2524,2020-08-14,Status of Reopening,West Virginia,cgbis
+2525,2020-07-06,Stay at Home Order,Iowa,irgwtald
+2526,2020-09-18,Mandatory Quarantine for Travelers,Alaska,lnoqfd
+2527,2020-09-05,Mandatory Quarantine for Travelers,Texas,bjphdiar
+2528,2020-05-09,Restaurant Limits,Nevada,gjygdaq
+2529,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,gjgndyd
+2530,2020-08-13,Large Gatherings Ban,North Dakota,gjgndyd
+2531,2020-07-10,Large Gatherings Ban,Rhode Island,ckafrdc
+2532,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,rmouvpcqh
+2533,2020-06-25,Stay at Home Order,New Mexico,ctpxvrny
+2534,2020-10-01,Mandatory Quarantine for Travelers,Arizona,sjrmmmvsr
+2535,2020-04-30,Status of Reopening,Alabama,qhntpaf
+2536,2020-04-08,Restaurant Limits,South Carolina,qqipl
+2537,2020-06-15,Non-Essential Business Closures,California,swjgvyqm
+2538,2020-06-22,Mandatory Quarantine for Travelers,Montana,mdpnrdqjc
+2539,2020-07-20,Status of Reopening,Wyoming,epqwkjzn
+2540,2020-08-27,Restaurant Limits,Colorado,snnnsa
+2541,2020-06-27,Non-Essential Business Closures,Arizona,asowo
+2542,2020-05-02,Stay at Home Order,South Dakota,rseua
+2543,2020-07-30,Mandatory Quarantine for Travelers,Delaware,slwhtlcpr
+2544,2020-09-28,Restaurant Limits,Ohio,vmoga
+2545,2020-05-29,Stay at Home Order,Florida,rafrwtuj
+2546,2020-07-12,Restaurant Limits,Pennsylvania,cgbis
+2547,2020-05-27,Non-Essential Business Closures,Georgia,zcuezd
+2548,2020-04-30,Large Gatherings Ban,New York,rtyzyeecd
+2549,2020-07-14,Restaurant Limits,California,eygeh
+2550,2020-08-07,Non-Essential Business Closures,Massachusetts,ldiyqvofg
+2551,2020-04-02,Restaurant Limits,Hawaii,ortxwrs
+2552,2020-09-28,Non-Essential Business Closures,Nebraska,twmetnyj
+2553,2020-06-20,Restaurant Limits,Montana,phfqr
+2554,2020-07-30,Restaurant Limits,Illinois,asowo
+2555,2020-08-18,Restaurant Limits,Pennsylvania,zmzvxy
+2556,2020-05-04,Status of Reopening,Connecticut,isazd
+2557,2020-09-18,Stay at Home Order,New Mexico,sovfygafs
+2558,2020-06-20,Restaurant Limits,Hawaii,dzxutl
+2559,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,lalbxp
+2560,2020-06-06,Stay at Home Order,New Hampshire,qhntpaf
+2561,2020-06-18,Status of Reopening,Florida,vceaav
+2562,2020-07-25,Large Gatherings Ban,Idaho,jnqij
+2563,2020-05-17,Restaurant Limits,Rhode Island,mboznhi
+2564,2020-06-11,Large Gatherings Ban,California,ldiyqvofg
+2565,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,epqwkjzn
+2566,2020-09-05,Non-Essential Business Closures,Missouri,wjncso
+2567,2020-09-14,Restaurant Limits,Iowa,iljakqa
+2568,2020-04-07,Stay at Home Order,Nevada,ebolnx
+2569,2020-05-07,Restaurant Limits,Connecticut,honlxqdt
+2570,2020-09-08,Large Gatherings Ban,Alaska,ltquhmlti
+2571,2020-05-05,Non-Essential Business Closures,Virginia,fxgkdjmev
+2572,2020-07-11,Non-Essential Business Closures,California,lmdlbej
+2573,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,wxnrabwfm
+2574,2020-08-14,Status of Reopening,West Virginia,ozebi
+2575,2020-07-06,Stay at Home Order,Iowa,aifaf
+2576,2020-09-18,Mandatory Quarantine for Travelers,Alaska,vceaav
+2577,2020-09-05,Mandatory Quarantine for Travelers,Texas,ycvaedq
+2578,2020-05-09,Restaurant Limits,Nevada,sdbsqvcqs
+2579,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,gjygdaq
+2580,2020-08-13,Large Gatherings Ban,North Dakota,xgpefedsa
+2581,2020-07-10,Large Gatherings Ban,Rhode Island,ihoyarv
+2582,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,zmzvxy
+2583,2020-06-25,Stay at Home Order,New Mexico,moxvu
+2584,2020-10-01,Mandatory Quarantine for Travelers,Arizona,wjncso
+2585,2020-04-30,Status of Reopening,Alabama,qvqkn
+2586,2020-04-08,Restaurant Limits,South Carolina,ndkkipwb
+2587,2020-06-15,Non-Essential Business Closures,California,uiyzjt
+2588,2020-06-22,Mandatory Quarantine for Travelers,Montana,judabf
+2589,2020-07-20,Status of Reopening,Wyoming,tbtbi
+2590,2020-08-27,Restaurant Limits,Colorado,qdjfbdum
+2591,2020-06-27,Non-Essential Business Closures,Arizona,mpdvpopa
+2592,2020-05-02,Stay at Home Order,South Dakota,qeydiiqtb
+2593,2020-07-30,Mandatory Quarantine for Travelers,Delaware,pkhhhq
+2594,2020-09-28,Restaurant Limits,Ohio,irlanzxsw
+2595,2020-05-29,Stay at Home Order,Florida,yfwprmojp
+2596,2020-07-12,Restaurant Limits,Pennsylvania,tndagv
+2597,2020-05-27,Non-Essential Business Closures,Georgia,dqstu
+2598,2020-04-30,Large Gatherings Ban,New York,vlyhre
+2599,2020-07-14,Restaurant Limits,California,hseya
+2600,2020-08-07,Non-Essential Business Closures,Massachusetts,heyhbl
+2601,2020-04-02,Restaurant Limits,Hawaii,jbnxa
+2602,2020-09-28,Non-Essential Business Closures,Nebraska,fbpenqttm
+2603,2020-06-20,Restaurant Limits,Montana,uzaaqup
+2604,2020-07-30,Restaurant Limits,Illinois,lshyh
+2605,2020-08-18,Restaurant Limits,Pennsylvania,ahrzckr
+2606,2020-05-04,Status of Reopening,Connecticut,tdzmeoupp
+2607,2020-09-18,Stay at Home Order,New Mexico,tubqkldz
+2608,2020-06-20,Restaurant Limits,Hawaii,ndkkipwb
+2609,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,wkborr
+2610,2020-06-06,Stay at Home Order,New Hampshire,slysj
+2611,2020-06-18,Status of Reopening,Florida,kktggkh
+2612,2020-07-25,Large Gatherings Ban,Idaho,gmlsapza
+2613,2020-05-17,Restaurant Limits,Rhode Island,jvfobuyi
+2614,2020-06-11,Large Gatherings Ban,California,heyhbl
+2615,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,fbtbvgepe
+2616,2020-09-05,Non-Essential Business Closures,Missouri,ohdbk
+2617,2020-09-14,Restaurant Limits,Iowa,cyzmonh
+2618,2020-04-07,Stay at Home Order,Nevada,ispix
+2619,2020-05-07,Restaurant Limits,Connecticut,isazd
+2620,2020-09-08,Large Gatherings Ban,Alaska,kwcfpob
+2621,2020-05-05,Non-Essential Business Closures,Virginia,thaknfgjo
+2622,2020-07-11,Non-Essential Business Closures,California,dblfh
+2623,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,iljakqa
+2624,2020-08-14,Status of Reopening,West Virginia,zcuezd
+2625,2020-07-06,Stay at Home Order,Iowa,iojjr
+2626,2020-09-18,Mandatory Quarantine for Travelers,Alaska,tndagv
+2627,2020-09-05,Mandatory Quarantine for Travelers,Texas,mgljp
+2628,2020-05-09,Restaurant Limits,Nevada,ynhdxa
+2629,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,sjrmmmvsr
+2630,2020-08-13,Large Gatherings Ban,North Dakota,jultq
+2631,2020-07-10,Large Gatherings Ban,Rhode Island,hiujeh
+2632,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,tkpaxfzq
+2633,2020-06-25,Stay at Home Order,New Mexico,lrzmp
+2634,2020-10-01,Mandatory Quarantine for Travelers,Arizona,tdzmeoupp
+2635,2020-04-30,Status of Reopening,Alabama,hgykucnca
+2636,2020-04-08,Restaurant Limits,South Carolina,usykgh
+2637,2020-06-15,Non-Essential Business Closures,California,tndagv
+2638,2020-06-22,Mandatory Quarantine for Travelers,Montana,ctdfmi
+2639,2020-07-20,Status of Reopening,Wyoming,sdhacub
+2640,2020-08-27,Restaurant Limits,Colorado,ftmjep
+2641,2020-06-27,Non-Essential Business Closures,Arizona,thaknfgjo
+2642,2020-05-02,Stay at Home Order,South Dakota,vbziyaqd
+2643,2020-07-30,Mandatory Quarantine for Travelers,Delaware,ispix
+2644,2020-09-28,Restaurant Limits,Ohio,aiutsjbl
+2645,2020-05-29,Stay at Home Order,Florida,ydvtqxy
+2646,2020-07-12,Restaurant Limits,Pennsylvania,kkelwdcs
+2647,2020-05-27,Non-Essential Business Closures,Georgia,sovfygafs
+2648,2020-04-30,Large Gatherings Ban,New York,uiyzjt
+2649,2020-07-14,Restaurant Limits,California,fxgkdjmev
+2650,2020-08-07,Non-Essential Business Closures,Massachusetts,lnoqfd
+2651,2020-04-02,Restaurant Limits,Hawaii,rmouvpcqh
+2652,2020-09-28,Non-Essential Business Closures,Nebraska,itmoyzyo
+2653,2020-06-20,Restaurant Limits,Montana,kmftllsnp
+2654,2020-07-30,Restaurant Limits,Illinois,fxgkdjmev
+2655,2020-08-18,Restaurant Limits,Pennsylvania,ebolnx
+2656,2020-05-04,Status of Reopening,Connecticut,fbtbvgepe
+2657,2020-09-18,Stay at Home Order,New Mexico,wxnrabwfm
+2658,2020-06-20,Restaurant Limits,Hawaii,jultq
+2659,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,jultq
+2660,2020-06-06,Stay at Home Order,New Hampshire,dzntp
+2661,2020-06-18,Status of Reopening,Florida,pfluqftg
+2662,2020-07-25,Large Gatherings Ban,Idaho,czrwhvek
+2663,2020-05-17,Restaurant Limits,Rhode Island,ktqqr
+2664,2020-06-11,Large Gatherings Ban,California,dzgvfzz
+2665,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,rloyg
+2666,2020-09-05,Non-Essential Business Closures,Missouri,cniurxv
+2667,2020-09-14,Restaurant Limits,Iowa,qvqkn
+2668,2020-04-07,Stay at Home Order,Nevada,slwhtlcpr
+2669,2020-05-07,Restaurant Limits,Connecticut,itmoyzyo
+2670,2020-09-08,Large Gatherings Ban,Alaska,ycvaedq
+2671,2020-05-05,Non-Essential Business Closures,Virginia,ebolnx
+2672,2020-07-11,Non-Essential Business Closures,California,xgpefedsa
+2673,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,adthvndl
+2674,2020-08-14,Status of Reopening,West Virginia,goxyl
+2675,2020-07-06,Stay at Home Order,Iowa,cniurxv
+2676,2020-09-18,Mandatory Quarantine for Travelers,Alaska,asowo
+2677,2020-09-05,Mandatory Quarantine for Travelers,Texas,pqdyirohd
+2678,2020-05-09,Restaurant Limits,Nevada,mpdvpopa
+2679,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,xeccg
+2680,2020-08-13,Large Gatherings Ban,North Dakota,tzfnlz
+2681,2020-07-10,Large Gatherings Ban,Rhode Island,gpvvf
+2682,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,ygfcxtab
+2683,2020-06-25,Stay at Home Order,New Mexico,sjrmmmvsr
+2684,2020-10-01,Mandatory Quarantine for Travelers,Arizona,pkhhhq
+2685,2020-04-30,Status of Reopening,Alabama,aixbu
+2686,2020-04-08,Restaurant Limits,South Carolina,qrpvgaxl
+2687,2020-06-15,Non-Essential Business Closures,California,mdpnrdqjc
+2688,2020-06-22,Mandatory Quarantine for Travelers,Montana,aiutsjbl
+2689,2020-07-20,Status of Reopening,Wyoming,honlxqdt
+2690,2020-08-27,Restaurant Limits,Colorado,cxwjqu
+2691,2020-06-27,Non-Essential Business Closures,Arizona,tkpaxfzq
+2692,2020-05-02,Stay at Home Order,South Dakota,nmyynf
+2693,2020-07-30,Mandatory Quarantine for Travelers,Delaware,adthvndl
+2694,2020-09-28,Restaurant Limits,Ohio,hrlfga
+2695,2020-05-29,Stay at Home Order,Florida,wovwkrwhr
+2696,2020-07-12,Restaurant Limits,Pennsylvania,zqoehi
+2697,2020-05-27,Non-Essential Business Closures,Georgia,wjudsi
+2698,2020-04-30,Large Gatherings Ban,New York,phfqr
+2699,2020-07-14,Restaurant Limits,California,dqstu
+2700,2020-08-07,Non-Essential Business Closures,Massachusetts,zoruamyn
+2701,2020-04-02,Restaurant Limits,Hawaii,sjrmmmvsr
+2702,2020-09-28,Non-Essential Business Closures,Nebraska,cxghe
+2703,2020-06-20,Restaurant Limits,Montana,dzxutl
+2704,2020-07-30,Restaurant Limits,Illinois,qhntpaf
+2705,2020-08-18,Restaurant Limits,Pennsylvania,hzqtjx
+2706,2020-05-04,Status of Reopening,Connecticut,thaknfgjo
+2707,2020-09-18,Stay at Home Order,New Mexico,aiutsjbl
+2708,2020-06-20,Restaurant Limits,Hawaii,mneshh
+2709,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,sovfygafs
+2710,2020-06-06,Stay at Home Order,New Hampshire,xqsjlnyn
+2711,2020-06-18,Status of Reopening,Florida,mboznhi
+2712,2020-07-25,Large Gatherings Ban,Idaho,lmdlbej
+2713,2020-05-17,Restaurant Limits,Rhode Island,mpdvpopa
+2714,2020-06-11,Large Gatherings Ban,California,psivtfhh
+2715,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,yfwprmojp
+2716,2020-09-05,Non-Essential Business Closures,Missouri,heyhbl
+2717,2020-09-14,Restaurant Limits,Iowa,cvccqmrc
+2718,2020-04-07,Stay at Home Order,Nevada,ispix
+2719,2020-05-07,Restaurant Limits,Connecticut,gjygdaq
+2720,2020-09-08,Large Gatherings Ban,Alaska,zoruamyn
+2721,2020-05-05,Non-Essential Business Closures,Virginia,glqagidzq
+2722,2020-07-11,Non-Essential Business Closures,California,gjgcws
+2723,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,agwbamz
+2724,2020-08-14,Status of Reopening,West Virginia,glqagidzq
+2725,2020-07-06,Stay at Home Order,Iowa,usykgh
+2726,2020-09-18,Mandatory Quarantine for Travelers,Alaska,mdpnrdqjc
+2727,2020-09-05,Mandatory Quarantine for Travelers,Texas,cyzmonh
+2728,2020-05-09,Restaurant Limits,Nevada,honlxqdt
+2729,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,lshyh
+2730,2020-08-13,Large Gatherings Ban,North Dakota,xqsjlnyn
+2731,2020-07-10,Large Gatherings Ban,Rhode Island,dqstu
+2732,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,fbtbvgepe
+2733,2020-06-25,Stay at Home Order,New Mexico,ohdbk
+2734,2020-10-01,Mandatory Quarantine for Travelers,Arizona,ltquhmlti
+2735,2020-04-30,Status of Reopening,Alabama,uqtvzz
+2736,2020-04-08,Restaurant Limits,South Carolina,fbpenqttm
+2737,2020-06-15,Non-Essential Business Closures,California,bkfntg
+2738,2020-06-22,Mandatory Quarantine for Travelers,Montana,mgljp
+2739,2020-07-20,Status of Reopening,Wyoming,vlyhre
+2740,2020-08-27,Restaurant Limits,Colorado,adthvndl
+2741,2020-06-27,Non-Essential Business Closures,Arizona,snnnsa
+2742,2020-05-02,Stay at Home Order,South Dakota,dzgvfzz
+2743,2020-07-30,Mandatory Quarantine for Travelers,Delaware,kwcfpob
+2744,2020-09-28,Restaurant Limits,Ohio,tdzmeoupp
+2745,2020-05-29,Stay at Home Order,Florida,kkelwdcs
+2746,2020-07-12,Restaurant Limits,Pennsylvania,hgykucnca
+2747,2020-05-27,Non-Essential Business Closures,Georgia,ckafrdc
+2748,2020-04-30,Large Gatherings Ban,New York,swjgvyqm
+2749,2020-07-14,Restaurant Limits,California,lrzmp
+2750,2020-08-07,Non-Essential Business Closures,Massachusetts,ywsnpx
+2751,2020-04-02,Restaurant Limits,Hawaii,mdpnrdqjc
+2752,2020-09-28,Non-Essential Business Closures,Nebraska,rmouvpcqh
+2753,2020-06-20,Restaurant Limits,Montana,spjmtvy
+2754,2020-07-30,Restaurant Limits,Illinois,kktggkh
+2755,2020-08-18,Restaurant Limits,Pennsylvania,tkpaxfzq
+2756,2020-05-04,Status of Reopening,Connecticut,qvqkn
+2757,2020-09-18,Stay at Home Order,New Mexico,ihoyarv
+2758,2020-06-20,Restaurant Limits,Hawaii,rtyzyeecd
+2759,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,iljakqa
+2760,2020-06-06,Stay at Home Order,New Hampshire,dkjrlfyx
+2761,2020-06-18,Status of Reopening,Florida,qqipl
+2762,2020-07-25,Large Gatherings Ban,Idaho,bjphdiar
+2763,2020-05-17,Restaurant Limits,Rhode Island,fbpenqttm
+2764,2020-06-11,Large Gatherings Ban,California,qqipl
+2765,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,mgljp
+2766,2020-09-05,Non-Essential Business Closures,Missouri,wovwkrwhr
+2767,2020-09-14,Restaurant Limits,Iowa,blpejr
+2768,2020-04-07,Stay at Home Order,Nevada,slwhtlcpr
+2769,2020-05-07,Restaurant Limits,Connecticut,aiutsjbl
+2770,2020-09-08,Large Gatherings Ban,Alaska,dqstu
+2771,2020-05-05,Non-Essential Business Closures,Virginia,mabvjzzor
+2772,2020-07-11,Non-Essential Business Closures,California,epealfjru
+2773,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,zoruamyn
+2774,2020-08-14,Status of Reopening,West Virginia,gpozxuy
+2775,2020-07-06,Stay at Home Order,Iowa,psivtfhh
+2776,2020-09-18,Mandatory Quarantine for Travelers,Alaska,dblfh
+2777,2020-09-05,Mandatory Quarantine for Travelers,Texas,iljakqa
+2778,2020-05-09,Restaurant Limits,Nevada,phfqr
+2779,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,wkborr
+2780,2020-08-13,Large Gatherings Ban,North Dakota,ktqqr
+2781,2020-07-10,Large Gatherings Ban,Rhode Island,uqtvzz
+2782,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,kkelwdcs
+2783,2020-06-25,Stay at Home Order,New Mexico,dqstu
+2784,2020-10-01,Mandatory Quarantine for Travelers,Arizona,psivtfhh
+2785,2020-04-30,Status of Reopening,Alabama,onajodd
+2786,2020-04-08,Restaurant Limits,South Carolina,rseua
+2787,2020-06-15,Non-Essential Business Closures,California,pqdyirohd
+2788,2020-06-22,Mandatory Quarantine for Travelers,Montana,phscvqlgd
+2789,2020-07-20,Status of Reopening,Wyoming,gpozxuy
+2790,2020-08-27,Restaurant Limits,Colorado,uwzaanhs
+2791,2020-06-27,Non-Essential Business Closures,Arizona,pkhhhq
+2792,2020-05-02,Stay at Home Order,South Dakota,tocnff
+2793,2020-07-30,Mandatory Quarantine for Travelers,Delaware,ebolnx
+2794,2020-09-28,Restaurant Limits,Ohio,nxzijgbp
+2795,2020-05-29,Stay at Home Order,Florida,ydvtqxy
+2796,2020-07-12,Restaurant Limits,Pennsylvania,orepyvmc
+2797,2020-05-27,Non-Essential Business Closures,Georgia,bcyljofl
+2798,2020-04-30,Large Gatherings Ban,New York,slwhtlcpr
+2799,2020-07-14,Restaurant Limits,California,wbcehugc
+2800,2020-08-07,Non-Essential Business Closures,Massachusetts,kbvybotu
+2801,2020-04-02,Restaurant Limits,Hawaii,uwzaanhs
+2802,2020-09-28,Non-Essential Business Closures,Nebraska,ktqqr
+2803,2020-06-20,Restaurant Limits,Montana,thaknfgjo
+2804,2020-07-30,Restaurant Limits,Illinois,bcyljofl
+2805,2020-08-18,Restaurant Limits,Pennsylvania,qhntpaf
+2806,2020-05-04,Status of Reopening,Connecticut,ihoyarv
+2807,2020-09-18,Stay at Home Order,New Mexico,epealfjru
+2808,2020-06-20,Restaurant Limits,Hawaii,vbziyaqd
+2809,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,evcrzxovq
+2810,2020-06-06,Stay at Home Order,New Hampshire,bjphdiar
+2811,2020-06-18,Status of Reopening,Florida,tbtbi
+2812,2020-07-25,Large Gatherings Ban,Idaho,vceaav
+2813,2020-05-17,Restaurant Limits,Rhode Island,aifaf
+2814,2020-06-11,Large Gatherings Ban,California,iojjr
+2815,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,ebolnx
+2816,2020-09-05,Non-Essential Business Closures,Missouri,orepyvmc
+2817,2020-09-14,Restaurant Limits,Iowa,xrpkexzc
+2818,2020-04-07,Stay at Home Order,Nevada,eygeh
+2819,2020-05-07,Restaurant Limits,Connecticut,xgpefedsa
+2820,2020-09-08,Large Gatherings Ban,Alaska,hzqtjx
+2821,2020-05-05,Non-Essential Business Closures,Virginia,ctdfmi
+2822,2020-07-11,Non-Essential Business Closures,California,cgbis
+2823,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,lshyh
+2824,2020-08-14,Status of Reopening,West Virginia,zxncxhfp
+2825,2020-07-06,Stay at Home Order,Iowa,qeydiiqtb
+2826,2020-09-18,Mandatory Quarantine for Travelers,Alaska,xqsjlnyn
+2827,2020-09-05,Mandatory Quarantine for Travelers,Texas,snnnsa
+2828,2020-05-09,Restaurant Limits,Nevada,ybzsnnaew
+2829,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,rmouvpcqh
+2830,2020-08-13,Large Gatherings Ban,North Dakota,pqdyirohd
+2831,2020-07-10,Large Gatherings Ban,Rhode Island,ydvtqxy
+2832,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,dzxutl
+2833,2020-06-25,Stay at Home Order,New Mexico,kwcfpob
+2834,2020-10-01,Mandatory Quarantine for Travelers,Arizona,wxnrabwfm
+2835,2020-04-30,Status of Reopening,Alabama,rtyzyeecd
+2836,2020-04-08,Restaurant Limits,South Carolina,nxzijgbp
+2837,2020-06-15,Non-Essential Business Closures,California,aixbu
+2838,2020-06-22,Mandatory Quarantine for Travelers,Montana,gjgcws
+2839,2020-07-20,Status of Reopening,Wyoming,dqstu
+2840,2020-08-27,Restaurant Limits,Colorado,xgpefedsa
+2841,2020-06-27,Non-Essential Business Closures,Arizona,fagoup
+2842,2020-05-02,Stay at Home Order,South Dakota,usykgh
+2843,2020-07-30,Mandatory Quarantine for Travelers,Delaware,gjgndyd
+2844,2020-09-28,Restaurant Limits,Ohio,btylwxc
+2845,2020-05-29,Stay at Home Order,Florida,nmyynf
+2846,2020-07-12,Restaurant Limits,Pennsylvania,vlyhre
+2847,2020-05-27,Non-Essential Business Closures,Georgia,siyfvoohi
+2848,2020-04-30,Large Gatherings Ban,New York,cvbbem
+2849,2020-07-14,Restaurant Limits,California,ltquhmlti
+2850,2020-08-07,Non-Essential Business Closures,Massachusetts,cgbis
+2851,2020-04-02,Restaurant Limits,Hawaii,cvbbem
+2852,2020-09-28,Non-Essential Business Closures,Nebraska,cxghe
+2853,2020-06-20,Restaurant Limits,Montana,zoruamyn
+2854,2020-07-30,Restaurant Limits,Illinois,epealfjru
+2855,2020-08-18,Restaurant Limits,Pennsylvania,smnpcwj
+2856,2020-05-04,Status of Reopening,Connecticut,wxnrabwfm
+2857,2020-09-18,Stay at Home Order,New Mexico,swjgvyqm
+2858,2020-06-20,Restaurant Limits,Hawaii,lrzmp
+2859,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,iojjr
+2860,2020-06-06,Stay at Home Order,New Hampshire,zmzvxy
+2861,2020-06-18,Status of Reopening,Florida,ldiyqvofg
+2862,2020-07-25,Large Gatherings Ban,Idaho,tkpaxfzq
+2863,2020-05-17,Restaurant Limits,Rhode Island,gjgcws
+2864,2020-06-11,Large Gatherings Ban,California,ynhdxa
+2865,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,mneshh
+2866,2020-09-05,Non-Essential Business Closures,Missouri,ebolnx
+2867,2020-09-14,Restaurant Limits,Iowa,moxvu
+2868,2020-04-07,Stay at Home Order,Nevada,goxyl
+2869,2020-05-07,Restaurant Limits,Connecticut,gpvvf
+2870,2020-09-08,Large Gatherings Ban,Alaska,ctpxvrny
+2871,2020-05-05,Non-Essential Business Closures,Virginia,cxwjqu
+2872,2020-07-11,Non-Essential Business Closures,California,cxwjqu
+2873,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,sjrmmmvsr
+2874,2020-08-14,Status of Reopening,West Virginia,ctpxvrny
+2875,2020-07-06,Stay at Home Order,Iowa,ctpxvrny
+2876,2020-09-18,Mandatory Quarantine for Travelers,Alaska,fbpenqttm
+2877,2020-09-05,Mandatory Quarantine for Travelers,Texas,zxncxhfp
+2878,2020-05-09,Restaurant Limits,Nevada,wkborr
+2879,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,rafrwtuj
+2880,2020-08-13,Large Gatherings Ban,North Dakota,nvnfzzc
+2881,2020-07-10,Large Gatherings Ban,Rhode Island,jxvxcu
+2882,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,uwzaanhs
+2883,2020-06-25,Stay at Home Order,New Mexico,sjrmmmvsr
+2884,2020-10-01,Mandatory Quarantine for Travelers,Arizona,qeydiiqtb
+2885,2020-04-30,Status of Reopening,Alabama,gpozxuy
+2886,2020-04-08,Restaurant Limits,South Carolina,czrwhvek
+2887,2020-06-15,Non-Essential Business Closures,California,lalbxp
+2888,2020-06-22,Mandatory Quarantine for Travelers,Montana,twhtpy
+2889,2020-07-20,Status of Reopening,Wyoming,wjncso
+2890,2020-08-27,Restaurant Limits,Colorado,hgykucnca
+2891,2020-06-27,Non-Essential Business Closures,Arizona,siyfvoohi
+2892,2020-05-02,Stay at Home Order,South Dakota,tubqkldz
+2893,2020-07-30,Mandatory Quarantine for Travelers,Delaware,dzgvfzz
+2894,2020-09-28,Restaurant Limits,Ohio,mpdvpopa
+2895,2020-05-29,Stay at Home Order,Florida,onajodd
+2896,2020-07-12,Restaurant Limits,Pennsylvania,wkborr
+2897,2020-05-27,Non-Essential Business Closures,Georgia,ozebi
+2898,2020-04-30,Large Gatherings Ban,New York,gpozxuy
+2899,2020-07-14,Restaurant Limits,California,lmdlbej
+2900,2020-08-07,Non-Essential Business Closures,Massachusetts,kdbxne
+2901,2020-04-02,Restaurant Limits,Hawaii,iljakqa
+2902,2020-09-28,Non-Essential Business Closures,Nebraska,siyfvoohi
+2903,2020-06-20,Restaurant Limits,Montana,kwcfpob
+2904,2020-07-30,Restaurant Limits,Illinois,phscvqlgd
+2905,2020-08-18,Restaurant Limits,Pennsylvania,kzusvwveq
+2906,2020-05-04,Status of Reopening,Connecticut,psivtfhh
+2907,2020-09-18,Stay at Home Order,New Mexico,ynhdxa
+2908,2020-06-20,Restaurant Limits,Hawaii,heyhbl
+2909,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,qpzdgam
+2910,2020-06-06,Stay at Home Order,New Hampshire,czahakeu
+2911,2020-06-18,Status of Reopening,Florida,gmlsapza
+2912,2020-07-25,Large Gatherings Ban,Idaho,ydvtqxy
+2913,2020-05-17,Restaurant Limits,Rhode Island,ldiyqvofg
+2914,2020-06-11,Large Gatherings Ban,California,ftmjep
+2915,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,jbnxa
+2916,2020-09-05,Non-Essential Business Closures,Missouri,ihoyarv
+2917,2020-09-14,Restaurant Limits,Iowa,mdpnrdqjc
+2918,2020-04-07,Stay at Home Order,Nevada,rafrwtuj
+2919,2020-05-07,Restaurant Limits,Connecticut,ltquhmlti
+2920,2020-09-08,Large Gatherings Ban,Alaska,swjgvyqm
+2921,2020-05-05,Non-Essential Business Closures,Virginia,itmoyzyo
+2922,2020-07-11,Non-Essential Business Closures,California,kbvybotu
+2923,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,pfwnr
+2924,2020-08-14,Status of Reopening,West Virginia,wjncso
+2925,2020-07-06,Stay at Home Order,Iowa,tubqkldz
+2926,2020-09-18,Mandatory Quarantine for Travelers,Alaska,hseya
+2927,2020-09-05,Mandatory Quarantine for Travelers,Texas,honlxqdt
+2928,2020-05-09,Restaurant Limits,Nevada,wsfhwudy
+2929,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,rafrwtuj
+2930,2020-08-13,Large Gatherings Ban,North Dakota,fputxq
+2931,2020-07-10,Large Gatherings Ban,Rhode Island,hiujeh
+2932,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,hzqtjx
+2933,2020-06-25,Stay at Home Order,New Mexico,slwhtlcpr
+2934,2020-10-01,Mandatory Quarantine for Travelers,Arizona,yerxuu
+2935,2020-04-30,Status of Reopening,Alabama,rtyzyeecd
+2936,2020-04-08,Restaurant Limits,South Carolina,cxghe
+2937,2020-06-15,Non-Essential Business Closures,California,uwzaanhs
+2938,2020-06-22,Mandatory Quarantine for Travelers,Montana,sjrmmmvsr
+2939,2020-07-20,Status of Reopening,Wyoming,ybzsnnaew
+2940,2020-08-27,Restaurant Limits,Colorado,vceaav
+2941,2020-06-27,Non-Essential Business Closures,Arizona,nfncjz
+2942,2020-05-02,Stay at Home Order,South Dakota,qeydiiqtb
+2943,2020-07-30,Mandatory Quarantine for Travelers,Delaware,cvccqmrc
+2944,2020-09-28,Restaurant Limits,Ohio,tkpaxfzq
+2945,2020-05-29,Stay at Home Order,Florida,zoruamyn
+2946,2020-07-12,Restaurant Limits,Pennsylvania,dzntp
+2947,2020-05-27,Non-Essential Business Closures,Georgia,jbnxa
+2948,2020-04-30,Large Gatherings Ban,New York,wjncso
+2949,2020-07-14,Restaurant Limits,California,cxwjqu
+2950,2020-08-07,Non-Essential Business Closures,Massachusetts,ctdfmi
+2951,2020-04-02,Restaurant Limits,Hawaii,cvccqmrc
+2952,2020-09-28,Non-Essential Business Closures,Nebraska,xzwflsd
+2953,2020-06-20,Restaurant Limits,Montana,tocnff
+2954,2020-07-30,Restaurant Limits,Illinois,kmftllsnp
+2955,2020-08-18,Restaurant Limits,Pennsylvania,orepyvmc
+2956,2020-05-04,Status of Reopening,Connecticut,qhntpaf
+2957,2020-09-18,Stay at Home Order,New Mexico,lrzmp
+2958,2020-06-20,Restaurant Limits,Hawaii,pfwnr
+2959,2020-09-20,Mandatory Quarantine for Travelers,Nebraska,rafrwtuj
+2960,2020-06-06,Stay at Home Order,New Hampshire,czrwhvek
+2961,2020-06-18,Status of Reopening,Florida,orepyvmc
+2962,2020-07-25,Large Gatherings Ban,Idaho,cfjolp
+2963,2020-05-17,Restaurant Limits,Rhode Island,heyhbl
+2964,2020-06-11,Large Gatherings Ban,California,spjmtvy
+2965,2020-04-10,Mandatory Quarantine for Travelers,Mississippi,hiujeh
+2966,2020-09-05,Non-Essential Business Closures,Missouri,judabf
+2967,2020-09-14,Restaurant Limits,Iowa,xeccg
+2968,2020-04-07,Stay at Home Order,Nevada,blpejr
+2969,2020-05-07,Restaurant Limits,Connecticut,qqipl
+2970,2020-09-08,Large Gatherings Ban,Alaska,azvzoa
+2971,2020-05-05,Non-Essential Business Closures,Virginia,bjphdiar
+2972,2020-07-11,Non-Essential Business Closures,California,spjmtvy
+2973,2020-04-06,Mandatory Quarantine for Travelers,Hawaii,gmlsapza
+2974,2020-08-14,Status of Reopening,West Virginia,zmzvxy
+2975,2020-07-06,Stay at Home Order,Iowa,rmouvpcqh
+2976,2020-09-18,Mandatory Quarantine for Travelers,Alaska,itmoyzyo
+2977,2020-09-05,Mandatory Quarantine for Travelers,Texas,bcyljofl
+2978,2020-05-09,Restaurant Limits,Nevada,kbvybotu
+2979,2020-09-13,Mandatory Quarantine for Travelers,Rhode Island,twhtpy
+2980,2020-08-13,Large Gatherings Ban,North Dakota,ywsnpx
+2981,2020-07-10,Large Gatherings Ban,Rhode Island,evcrzxovq
+2982,2020-05-31,Mandatory Quarantine for Travelers,South Carolina,wxztzej
+2983,2020-06-25,Stay at Home Order,New Mexico,vlyhre
+2984,2020-10-01,Mandatory Quarantine for Travelers,Arizona,dkjrlfyx
+2985,2020-04-30,Status of Reopening,Alabama,dzxutl
+2986,2020-04-08,Restaurant Limits,South Carolina,iojjr
+2987,2020-06-15,Non-Essential Business Closures,California,thaknfgjo
+2988,2020-06-22,Mandatory Quarantine for Travelers,Montana,pqdyirohd
+2989,2020-07-20,Status of Reopening,Wyoming,rxrgeckzc
+2990,2020-08-27,Restaurant Limits,Colorado,ygfcxtab
+2991,2020-06-27,Non-Essential Business Closures,Arizona,slwhtlcpr
+2992,2020-05-02,Stay at Home Order,South Dakota,cqpqvld
+2993,2020-07-30,Mandatory Quarantine for Travelers,Delaware,dqstu
+2994,2020-09-28,Restaurant Limits,Ohio,gjgcws
+2995,2020-05-29,Stay at Home Order,Florida,gmylw
+2996,2020-07-12,Restaurant Limits,Pennsylvania,zxncxhfp
+2997,2020-05-27,Non-Essential Business Closures,Georgia,oyego
+2998,2020-04-30,Large Gatherings Ban,New York,onajodd
+2999,2020-07-14,Restaurant Limits,California,kmftllsnp
