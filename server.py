@@ -189,6 +189,74 @@ def state_policy():
     return render_template("state_policy.html")
 
 
+@app.route('/state_policy', method=['POST'])
+def state_policy_statistics():
+    context = {}
+    state = request.form['state']
+    policy_selection = request.form['policy_selection']
+    time_selection = request.form['time_selection']
+    try:
+        cursor = g.conn.execute(f"""SELECT policy_type, created_time
+                                    FROM Policy_published_by_state WHERE state_name = '{state}'""")
+        policy_statistics = []
+        for result in cursor:
+            policy_statistics.append(result)
+        cursor.close()
+        if len(policy_statistics) == 0:
+            context["state_look_up_e"] = "Wrong state"
+        context["policy_statistics"] = policy_statistics
+    except Exception as e:
+        context["state_look_up_e"] = str(e)
+    
+    try:
+        cursor = g.conn.execute(f"""SELECT details
+                                    FROM Policy_published_by_state 
+                                    WHERE state_name = '{state}' AND policy_type = '{policy_selection}'""")
+        policy_details = []
+        for result in cursor:
+            policy_details.append(result)
+        cursor.close()
+        if len(policy_details) == 0:
+            context["policy_details_e"] = "Wrong policy"
+        context["policy_details"] = policy_details
+    
+    except Exception as e:
+        context["policy_details_e"] = str(e)
+
+    try:
+        cursor = g.conn.execute(f"""SELECT B.attitude, COUNT(*) as number_of_users
+                                    FROM User_comment AS A, Comment AS B, Policy_published_by_state AS C
+                                    WHERE A.state_name = '{state}' AND C.policy_type = '{policy_selection}'
+                                    AND C.create_time = '{time_selection}' AND C.state_name = A.state_name
+                                    AND A.id = B.id
+                                    GROUP BY B.attitude""")
+        attitude_distribution = []
+        for result in cursor:
+            attitude_distribution.append(result)
+        cursor.close()
+        if len(attitude_distribution) == 0:
+            context["attitude_distribution_e"] = "Wrong state or No data available in this state."
+        context["attitude_distribution"] = attitude_distribution
+
+    except Exception as e:
+        context["attitude_distribution_e"] = str(e)
+
+    
+
+    return render_template("state_policy.html", **context)
+    
+@app.route('/add_comment', methods=['POST'])
+def add_comment():
+    comment = request.form['comment']
+    try:
+        count = g.conn.execute(f'SELECT COUNT(*) as number_of_comments FROM Comment')
+        g.conn.execute(f'INSERT INTO User_comment VALUES ({count+1, comment})')
+    except Exception as e:
+        context = dict(comment_e_msg=str(e))
+        return render_template("state_policy.html", **context)
+    return redirect('/state_policy')
+
+
 @app.route('/add_state', methods=['POST'])
 def add_state():
     state_value = request.form['state_value']
