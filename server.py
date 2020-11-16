@@ -182,11 +182,10 @@ def state_statistics():
         context["race_distribution_e"] = str(e)
 
     return render_template("state_cases.html", **context)
-
-
-@app.route('/state_policy')
-def state_policy():
-    return render_template("state_policy.html")
+#
+# @app.route('/state_policy')
+# def state_policy():
+#     return render_template("state_policy.html")
 
 
 @app.route('/state_policy', method=['POST'])
@@ -240,11 +239,9 @@ def state_policy_statistics():
 
     except Exception as e:
         context["attitude_distribution_e"] = str(e)
-
-    
-
     return render_template("state_policy.html", **context)
-    
+
+
 @app.route('/add_comment', methods=['POST'])
 def add_comment():
     comment = request.form['comment']
