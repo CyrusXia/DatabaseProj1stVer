@@ -8,8 +8,18 @@
 
 
 <body>
-  <h1>Some famous Computer Scientists</h1>
-  <div>{{data}}</div>
+  <h1>COMS4111 Project 1</h1>
+  <h2>Team Members: Peimou Sun (ps3136)  Ziren Xia (zx2249)</h2>
+  <p><a href="state_policy">Go to State Policy</a></p>
+  <p><a href="state_cases">Go to State Cases</a></p>
+  <h3>SQL Page</h3>
+  <div>{{table_names}}</div>
+  <HR SIZE=10>
+
+  <h4>SQL Query</h4>
+  <form method="POST" action="/query_data">
+  <p>SQL code: <input type="text" name="sql_code" autocomplete="off"> <input type="submit" value="Query"></p>
+  </form>
 
   <div>
     {% for n in data %}
@@ -17,11 +27,40 @@
     {% endfor %}
   </div>
 
-<p><a href="another">Go to the other page</a></p>
+  <HR SIZE=10>
+  <h4>Add New State</h4>
+  <form method="POST" action="/add_state">
+  <p>New State: <input type="text" name="state_value" autocomplete="off"> <input type="submit" value="Add"></p>
+  </form>
+  <div>{{state_e_msg}}</div>
 
-<form method="POST" action="/add">
-<p>Name of new computer scientist: <input type="text" name="name"> <input type="submit" value="Add"></p>
-</form>
+  <HR SIZE=10>
+  <h4>Add New City</h4>
+  <form method="POST" action="/add_city">
+  <p>New City: <input type="text" name="city_value" autocomplete="off"> <input type="submit" value="Add"></p>
+  </form>
+  <div>{{city_e_msg}}</div>
+
+  <HR SIZE=10>
+  <h4>Add New State</h4>
+  <form method="POST" action="/add_hospital">
+  <p>New Hospital: <input type="text" name="hospital_value" autocomplete="off"> <input type="submit" value="Add"></p>
+  </form>
+  <div>{{hospital_e_msg}}</div>
+
+  <HR SIZE=10>
+  <h4>Add New Policy</h4>
+  <form method="POST" action="/add_policy">
+  <p>New Hospital: <input type="text" name="policy_value" autocomplete="off"> <input type="submit" value="Add"></p>
+  </form>
+  <div>{{policy_e_msg}}</div>
+
+  <HR SIZE=10>
+  <h4>Add New User</h4>
+  <form method="POST" action="/add_user">
+  <p>New User: <input type="text" name="user_value" autocomplete="off"> <input type="submit" value="Add"></p>
+  </form>
+  <div>{{user_e_msg}}</div>
 
 </body>
 
