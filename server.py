@@ -72,6 +72,11 @@ def index():
     return render_template("index.html", **context)
 
 
+@app.route('/index')
+def return_index():
+    return index()
+
+
 @app.route('/state_cases')
 def state_cases():
     return render_template("state_cases.html")
