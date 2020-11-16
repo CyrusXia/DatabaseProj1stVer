@@ -82,6 +82,11 @@ def state_cases():
     return render_template("state_cases.html")
 
 
+@app.route('/state_policy')
+def state_policy():
+    return render_template("state_policy.html")
+
+
 @app.route('/state_statistics', methods=["POST"])
 def state_statistics():
     context = {}
@@ -182,13 +187,9 @@ def state_statistics():
         context["race_distribution_e"] = str(e)
 
     return render_template("state_cases.html", **context)
-#
-# @app.route('/state_policy')
-# def state_policy():
-#     return render_template("state_policy.html")
 
 
-@app.route('/state_policy', method=['POST'])
+@app.route('/state_policy_statistics', methods=['POST'])
 def state_policy_statistics():
     context = {}
     state = request.form['state']
