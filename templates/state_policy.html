@@ -27,9 +27,8 @@
   <div>{{state_look_up_e}}</div>
   <HR>
   <h3>Policy Details</h3>
-  <form method="POST" action="/state_policy">
-  <p>Select Policy Type: <input type="text" name="policy_selection"> <input type="submit" value="confirm"></p>
-  <p>Select Created Time: <input type="text" name="time_selection"> <input type="submit" value="confirm and query"></p>
+  <form method="POST" action="/state_policy_details">
+  <p>Select state: <input type="text" name="state"> </p> <p>Select Policy Type: <input type="text" name="policy_selection"></p> <p>Select Created Time: <input type="text" name="time_selection"> <input type="submit" value="confirm and query"></p>
   </form>
   <HR>
   <div>
@@ -49,6 +48,8 @@
   <HR>
   <h4>Add New Comment</h4>
   <form method="POST" action="/add_comment">
+  <p>Select state: <input type="text" name="state"> </p> <p>Select Policy Type: <input type="text" name="policy_selection"></p> <p>Select Created Time: <input type="text" name="time_selection"> </p>
+  </p> <p>Username: <input type="text" name="username"> </p> <p>Attitude: <input type="text" name="attitude"> </p>
   <p>New Comment: <input type="text" name="comment" autocomplete="off"> <input type="submit" value="Add"></p>
   </form>
   <div>{{comment_e_msg}}</div>

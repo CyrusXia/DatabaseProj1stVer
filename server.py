@@ -193,8 +193,6 @@ def state_statistics():
 def state_policy_statistics():
     context = {}
     state = request.form['state']
-    policy_selection = request.form['policy_selection']
-    time_selection = request.form['time_selection']
     try:
         cursor = g.conn.execute(f"""SELECT policy_type, created_time
                                     FROM Policy_published_by_state WHERE state_name = '{state}'""")
@@ -207,7 +205,14 @@ def state_policy_statistics():
         context["policy_statistics"] = policy_statistics
     except Exception as e:
         context["state_look_up_e"] = str(e)
-    
+    return render_template("state_policy.html", **context)
+
+@app.route('/state_policy_details', methods=['POST'])
+def state_policy_details():
+    context = {}
+    state = request.form['state']
+    policy_selection = request.form['policy_selection']
+    time_selection = request.form['time_selection']
     try:
         cursor = g.conn.execute(f"""SELECT details
                                     FROM Policy_published_by_state 
@@ -225,9 +230,9 @@ def state_policy_statistics():
 
     try:
         cursor = g.conn.execute(f"""SELECT B.attitude, COUNT(*) as number_of_users
-                                    FROM User_comment AS A, Comment AS B, Policy_published_by_state AS C
-                                    WHERE A.state_name = '{state}' AND C.policy_type = '{policy_selection}'
-                                    AND C.create_time = '{time_selection}' AND C.state_name = A.state_name
+                                    FROM User_comment AS A, Comment AS B
+                                    WHERE A.state_name = '{state}' AND A.policy_type = '{policy_selection}'
+                                    AND A.policy_created_time = '{time_selection}' AND A.state_name = A.state_name
                                     AND A.id = B.id
                                     GROUP BY B.attitude""")
         attitude_distribution = []
@@ -240,15 +245,24 @@ def state_policy_statistics():
 
     except Exception as e:
         context["attitude_distribution_e"] = str(e)
-    return render_template("state_policy.html", **context)
-
+    return render_template("state_policy.html",**context)
 
 @app.route('/add_comment', methods=['POST'])
 def add_comment():
+    state = request.form['state']
+    policy_selection = request.form['policy_selection']
+    time_selection = request.form['time_selection']
+    username = request.form['username']
     comment = request.form['comment']
+    attitude = request.form['attitude']
     try:
-        count = g.conn.execute(f'SELECT COUNT(*) as number_of_comments FROM Comment')
-        g.conn.execute(f'INSERT INTO User_comment VALUES ({count+1, comment})')
+        cursor = g.conn.execute(f"""SELECT MAX(id) + 1 FROM Comment""")
+        for result in cursor:
+            count = result
+        cursor.close()
+        num = str(count.items()[0][1])
+        g.conn.execute(f'INSERT INTO User_comment VALUES ({num, time_selection, policy_selection, state, username})')
+        g.conn.execute(f'INSERT INTO Comment VALUES ({num, attitude, comment, time_selection})')
     except Exception as e:
         context = dict(comment_e_msg=str(e))
         return render_template("state_policy.html", **context)
