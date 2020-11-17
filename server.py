@@ -207,6 +207,7 @@ def state_policy_statistics():
         context["state_look_up_e"] = str(e)
     return render_template("state_policy.html", **context)
 
+
 @app.route('/state_policy_details', methods=['POST'])
 def state_policy_details():
     context = {}
@@ -247,6 +248,7 @@ def state_policy_details():
         context["attitude_distribution_e"] = str(e)
     return render_template("state_policy.html",**context)
 
+
 @app.route('/add_comment', methods=['POST'])
 def add_comment():
     state = request.form['state']
@@ -256,14 +258,13 @@ def add_comment():
     comment = request.form['comment']
     attitude = request.form['attitude']
     try:
-        cursor = g.conn.execute(f"""SELECT MAX(id) + 1 FROM Comment""")
-        for result in cursor:
-            count = result
-        cursor.close()
-        num = str(count.items()[0][1])
-        g.conn.execute(f'INSERT INTO User_comment VALUES ({num, time_selection, policy_selection, state, username})')
-        g.conn.execute(f'INSERT INTO Comment VALUES ({num, attitude, comment, time_selection})')
+        g.conn.execute(f'''INSERT INTO Comment VALUES ((SELECT MAX(id) + 1 FROM Comment), 
+                           '{attitude}', '{comment}', '{time_selection}')''')
+        g.conn.execute(f'''INSERT INTO User_Comment VALUES ((SELECT MAX(id) FROM Comment), 
+                           '{time_selection}', '{policy_selection}', '{state}', '{username}')''')
     except Exception as e:
+        print(f'''INSERT INTO Comment VALUES ((SELECT MAX(id) FROM Comment), 
+                           '{attitude}', '{comment}', '{time_selection}')''')
         context = dict(comment_e_msg=str(e))
         return render_template("state_policy.html", **context)
     return redirect('/state_policy')
