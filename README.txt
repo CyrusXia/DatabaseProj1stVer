@@ -7,7 +7,8 @@ through checking those two files. All of the .csv files are the data inserted in
 The 'drop_schema.sql' file is used to drop tables and constraints. The 'index.html' file is the 
 html code for the homepage of our application. The 'state_cases.html' file is the html code for 
 the state cases of our application while the 'state_policy.html' is the html code for the state 
-policies. The 'server.py' file is the python code for our web application.
+policies. The 'server.py' file is the python code for our web application. We included all those
+files in our 'proj1-3.tar.gz' so that the TA can check them.
 
 
 2.  URL: http://35.227.43.111:8111/
