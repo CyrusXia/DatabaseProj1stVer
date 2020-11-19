@@ -11,7 +11,7 @@ policies. The 'server.py' file is the python code for our web application. We in
 files in our 'proj1-3.tar.gz' so that the TA can check them.
 
 
-2.  URL: http://35.227.43.111:8111/
+2.  URL: http://34.74.122.220:8111/
 
 3.  We have implemented all of the functional parts of our proposal from PART 1. We discarded 
 the fancy interface like showing maps and control panels of our application because it costs
