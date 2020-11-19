@@ -335,23 +335,23 @@ def add_user():
     return redirect('/')
 
 
-@app.route("/query_data", methods=["POST"])
-def sql_query():
-    sql_code = request.form["sql_code"]
-    if len(sql_code) == 0:
-        context = dict(data=[])
-        return render_template("index.html", **context)
-    try:
-        cursor = g.conn.execute(sql_code)
-    except Exception as e:
-        context = dict(data=[f"Wrong SQL: {e}"])
-        return render_template("index.html", **context)
-    data = []
-    for result in cursor:
-        data.append(result)
-    cursor.close()
-    context = dict(data=data)
-    return render_template("index.html", **context)
+# @app.route("/query_data", methods=["POST"])
+# def sql_query():
+#     sql_code = request.form["sql_code"]
+#     if len(sql_code) == 0:
+#         context = dict(data=[])
+#         return render_template("index.html", **context)
+#     try:
+#         cursor = g.conn.execute(sql_code)
+#     except Exception as e:
+#         context = dict(data=[f"Wrong SQL: {e}"])
+#         return render_template("index.html", **context)
+#     data = []
+#     for result in cursor:
+#         data.append(result)
+#     cursor.close()
+#     context = dict(data=data)
+#     return render_template("index.html", **context)
 
 
 @app.route('/login')
