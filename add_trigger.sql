@@ -1,4 +1,5 @@
 DROP TABLE IF EXISTS City_evaluation;
+DROP TYPE IF EXISTS evaluation;
 
 CREATE TYPE evaluation AS ENUM ('Low risk', 'High risk');
 
@@ -17,7 +18,7 @@ CREATE OR REPLACE FUNCTION update_city_evaluation_func()
 	LANGUAGE PLPGSQL AS
 $$
 BEGIN
-	IF NEW.new_cases / NEW.population > 0.1 THEN
+	IF NEW.new_cases / OLD.population > 0.1 THEN
 		INSERT INTO City_evaluation(state_name, city_name, evaluate_time, evaluation)
 		VALUES(NEW.state_name, NEW.city_name, now(), 'High risk');
 	ELSE
@@ -30,7 +31,7 @@ BEGIN
 END;
 $$;
 
-CREATE TRIGGER update_city_evaluation
+CREATE OR REPLACE TRIGGER update_city_evaluation
   AFTER UPDATE
   ON City
   FOR EACH ROW
