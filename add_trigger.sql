@@ -19,7 +19,7 @@ CREATE OR REPLACE FUNCTION update_city_evaluation_func()
 	LANGUAGE PLPGSQL AS
 $$
 BEGIN
-	IF NEW.new_cases / OLD.population > 0.1 THEN
+	IF (NEW.new_cases::decimal / OLD.population) > 0.1 THEN
 		INSERT INTO City_evaluation(state_name, city_name, evaluate_time, evaluation)
 		VALUES(NEW.state_name, NEW.city_name, now(), 'High risk');
 	ELSE
