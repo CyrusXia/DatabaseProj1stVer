@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS City_evaluation;
 DROP TYPE IF EXISTS evaluation;
-DROP TRIGGER IF EXISTS update_city_evaluation;
+DROP TRIGGER IF EXISTS update_city_evaluation ON City;
 
 CREATE TYPE evaluation AS ENUM ('Low risk', 'High risk');
 
