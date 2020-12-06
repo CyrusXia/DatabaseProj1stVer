@@ -31,7 +31,7 @@ END;
 $$;
 
 CREATE TRIGGER update_city_evaluation
-  BEFORE UPDATE
+  AFTER UPDATE
   ON City
   FOR EACH ROW
   EXECUTE PROCEDURE update_city_evaluation_func();
