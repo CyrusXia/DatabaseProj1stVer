@@ -1,7 +1,7 @@
 id,attitude,details,comment_created_time
-0,neutral,'   c  a   y n  l q  mfrjaow      rnf      y jp   p f vx    z  dn tg       n  w  v   j d j  a   f  hdet ls   tgf m   rrb z zh       sm awe   ubad     c w   a  j    ',7/1/2020
-1,neutral,'z  x      l n u  w i   ldru e  jb  w     ky  oa  s  z t  pvj  q a    i u     xq     y        l    kf   v p g   hn a pr  k   t  a   g  y  u    z xz  f   k f     a   uo i uc  ytrv  r ie  m  r   m    ',4/1/2020
-2,positive,'o xke  k      vu    ft      r td j   z       x    a     t l b    k   y  j v w  wf  i v lb a eqd k   v g  l   g  mlc x yka     w  ',4/4/2020
+0,neutral,'I don't like or dislike this comment, it is a effective one but at the same time put too much limitation on us.',7/1/2020
+1,neutral,'I am not a big fan of new regulations but as long as it can control the spread of virus, I am OK with it.',4/1/2020
+2,positive,'I really like this policy, it helps our community to prevent the virus from spreading.',4/4/2020
 3,neutral,' h         j  wkec        v   lo  p    l  r ejx        put   lds    w f     l    e  dt  j  fetayz u     m k     e  gb m   g v jrch',7/17/2020
 4,neutral,' cb p  glr ui   k c p    ym  j   r  bm    sns   k  a jur  dg     o    jc  x  sw iavr m  rz   gceb n  qjnpr    pyffh     ',5/23/2020
 5,neutral,'   v o   w r  n o    xci   lprlos ss   y      ajygx w mo by     o   xl f    t         y  sx     j       uex    dxh  g pcx f  m          ta    ',4/2/2020
@@ -10,9 +10,9 @@ id,attitude,details,comment_created_time
 8,neutral,'d   uh os jnt     bo  xs kf re v     i  v       z   e  p dlo   h c      o      v dda gb   a s qn ik    c      c  md p       uy    eiey       u   l k md     a ',6/7/2020
 9,neutral,'ec pt v u z  x   g     r hh   r  kdbw  i z j x f z  oau k   ngfv     f         w  ofuo  y   vft    xy  f lai  bb b      yc       fqj          ln   k ',4/10/2020
 10,neutral,' yth u  uxh   y vzg   hbdnx    o fh sm b w       b  h  ps  id ve  f  tttd j    p z  z  x a   lmm          s c    a    ibs j   or    cl h    f  h   vz  z shc     hs f   x   v     sum  art ',7/14/2020
-11,negative,'y     j   y  q   l    lsd h   g      n    yx    gqmu zmj ho vlxi   bj x gb t       vaxq          i q  w    ',8/15/2020
+11,negative,'I want my normal life back, this is too much for me.',8/15/2020
 12,positive,'  x   g     o   u   m f    x kx h  il   pz       g lv d d  c lw c  r     d   ypf vk          ra   b  o p rdb mi   b     m  pyp   gr  y  in ',5/19/2020
-13,negative,'ym e  k   q   j   d        xpl b  lko  xcbb  y m  l  d z b  a t     ukv    c hx  iywv    tl yen    eu   p   sjam  js  q x   vq   rg f  ij l        eq  b    m v r   j  c b f    c ',9/9/2020
+13,negative,'This is not happening! Why can I just enjoy some normal life here?',9/9/2020
 14,negative,'  n adxy  pw   r i  z       axx   ynxre  iz bw  s           a     pmc m  ie sd     y       f    a  luc q  xw   ti kv  dxc p v      v ig   aypnd  l f  kv b  r h',6/15/2020
 15,neutral,'qe  u   i c g  q  e   za     w  axb    cwt  ag p    j  l   ob  s  zh         s  wfoz gxw  vx   qc  x  q  f    pxi cq    md h   z   t n be     kj  sx v y  a e    du cspfdq  w       u ',4/14/2020
 16,neutral,'v d c dw  wewi    r t t  h jbwmm m       n  hnkrx  ti v k lpp n  w  orhq        pf ly          yz k xoxq v   sex  r se tz  t  oddpo yyl  gjaw ev  u omjyh h e    k r   w j pam m',4/16/2020
@@ -20,8 +20,8 @@ id,attitude,details,comment_created_time
 18,negative,' cab     h  p  mza q     yc e  ei sv  x h  o g   llf   r  pieb      eb w    x  w gf gnesb w c f t  c xfep         a',6/3/2020
 19,neutral,'y zw  ks  ni  hdplo pem t  hz      l   xgtd r kmhfb e   d   upi p  b  fqoky g   q   pd i    q pr o rw tj xqzxc   m fb n       wa     k b     cgw  cd omi',5/27/2020
 20,negative,'fg u  mu b s  t gw l  qt z z  bn  x     f n    h   l jf        f    nq     d  k ouojh  a     t   s kt d   pz  d    h qnfk dz  jdkl q    x   ',6/26/2020
-21,positive,' y     o o     s v d    z nnc  zm c   y b     c  f jo l f  d l cyx  x    e twi rf si agf z dj   z f     qjii ur    qq ',7/8/2020
-22,negative,' f u   u  lubypwh  zm l   u    n  ql    l   q q  s m x sznv  a pm jbchr   t    yw nnj   k  ta   lmrih b   di            jjzpn   n          q       m n a',9/11/2020
+21,positive,'This is definitely helpful and will help my family stay away from the virus.',7/8/2020
+22,negative,'I want my normal life back, this is too much for me.',9/11/2020
 23,neutral,'  k  az g h       i   a am    e         ay mr    c jje    q    vkq nt  hrvyiawph    p yi yc         a  xrmg z       cr  m    c b  z    yz e   j     p',8/17/2020
 24,positive,' hmlufc i t   hb   k       h qf lh i    q     s   u  bw  n f  g  vq   s   n  ysxela vh   e li ua s z    x   ro   v o z f t  yd    k     bxv x  sm p     ',8/10/2020
 25,neutral,'nl hu    p        wc z lgvo  b   v  l l  ps    i  x  ebq    g e  f d               w x       w y  mg      l   w  f a  opa j   qd a     q h f o rbr    f   ck    q',5/30/2020
@@ -35,9 +35,9 @@ id,attitude,details,comment_created_time
 33,neutral,'      w     kt rp         ml   z      dx          yv  grbl     i  w   t  gt   e u  l   k    a s            r pwbd c  qez     ',7/25/2020
 34,positive,'m  e u wtv tt ovr    d   fl  a       l hq z    zch zj  i q cvaa  u    d   wkvl a    d   cw  b  nu p  u b           mj     t f q ',8/4/2020
 35,positive,' g    b  ua   igr      zg e  h g        r    f      ce    ubk   x jk w sx b   n    iu  i q  ua g z lut  ei  ihrv  q    zus h  p  elp  ho         l r h h fb wf flv m  lgy o mrk  e   ',5/29/2020
-36,neutral,'  z    q      e  d   y y  m     fu   fg  yh    f x   v   gge h  i  jvc   lhw vdu e       qd y  ia     y  asn  y i    i   pq n        y hd    pp hvd o    v  p  m   k u ',4/2/2020
+36,neutral,'I don't like or dislike this comment, it is a effective one but at the same time put too much limitation on us.',4/2/2020
 37,positive,' xvf    x    gu af    t       fqs c      ahq k        p pp o  k    e    lk  h j    w x    x e c      jebe  ',5/19/2020
-38,neutral,'  p      l n  n                g  s   ff rc    z      j  h  l m     j   n    ir ety  czw  h  bg t    v qq   lqsy j  u   g     wjd  s   iwvt    b  y  rg f  t  kmk fgsu ',5/21/2020
+38,neutral,'I am not a big fan of new regulations but as long as it can control the spread of virus, I am OK with it.',5/21/2020
 39,negative,'    b gk d vh  enl  cn      khn   dc qufj  vg  a  c vq  bwr   s  c    b jr lzd qw  zj    p sv   i   u  ys ljf   le   l  w       yh a  ',4/11/2020
 40,neutral,'          hdg z fi r z qsug c q tm s   b  d    s      y      i    fm p     i s    k zyq   v   b    r r  w      y  y  xk  ',8/9/2020
 41,negative,'jl  iz     lf n h j   o   hai ah g o n      wwv x        cb  ma       tlu   l   m e  fm    k  d   nss',6/20/2020
@@ -48,7 +48,7 @@ id,attitude,details,comment_created_time
 46,negative,'   by   p d dfa   vhe  a  c a     jok yx ut b  az t n  omvzm   w  a  xet gh wn e ja  qh r      f  x      c ',6/9/2020
 47,neutral,'g j              g     kr   p    sce f jj qf    pg   i i    r      el gzv   n   mykiy     o   v   pde  d db knu   l      lp  th qmv m i   z za d    l    b  qw   x',5/22/2020
 48,negative,' o  w o     h   n  e f  l qm   k b  en  l  f  rx   qj   m     a    tph       t rq   lg jk a   z d b         ld  x  g  atc j   ',8/29/2020
-49,positive,' m     r j   ws zup v wl cpp jr ld o ng zhm a     o fjhm   uk    f q   s mg    pj  b  w    o  n jv   gr bwr       i  vnfc h p y ',9/1/2020
+49,positive,'I really like this policy, it helps our community to prevent the virus from spreading.',9/1/2020
 50,neutral,'     q   arvwwb  b o w  ay  g  u  m     w   j bkctrgy  z dh  ad hl  n   s  g  iar  ujzl   gk    h w ht     o      u z    s g     di    cz   ',9/23/2020
 51,negative,' ip  w g  x    z   x   noy sv t     v   mt  k ab        q  hx      t        r    u l qdk  b jxzkg lsyh g   wj        l j o r   ky     n  r k  w  m  g   v  q g       u    a z zj     u  kk s       s',8/14/2020
 52,negative,'yaej  u   h d     fbn w  teimts g ggh     jfku o efy   w   lr o          y rw s   fj      e    jukf   z pul    l  slo  cy   d  ss   z  wdg        i    afstv       dl     ',9/23/2020
