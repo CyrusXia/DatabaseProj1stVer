@@ -73,7 +73,7 @@ CREATE TABLE User_info
 CREATE TABLE Comment
 (id INTEGER,
  attitude comment_attitude,
- details VARCHAR(3000),
+ details text,
  comment_created_time TIMESTAMP,
  PRIMARY KEY(id)
 );
