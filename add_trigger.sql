@@ -28,7 +28,7 @@ BEGIN
 		INSERT INTO City_evaluation(state_name, city_name, evaluate_time, evaluation_suggestion)
 		VALUES(NEW.state_name, NEW.city_name, now(), ROW('High risk','High risk area! Please always wear masks and keep social distance.'));
 	ELSE
-		INSERT INTO City_evaluation(state_name, city_name, evaluate_time, evaluation)
+		INSERT INTO City_evaluation(state_name, city_name, evaluate_time, evaluation_suggestion)
 		VALUES(NEW.state_name, NEW.city_name, now(), ROW('Low risk','Low risk area. Please still wear masks and keep social distance.'));
 	END IF;
 
